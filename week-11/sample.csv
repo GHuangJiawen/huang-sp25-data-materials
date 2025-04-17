@@ -1,0 +1,11 @@
+Name,State,Department,Type,People,Latitude,Longitude,peoplesize,Marker_Size
+Jackson,CA,Judicial,Commissioner,1,38.3488023,-120.774102,a,4
+Fort Whipple,AZ,War Department,Quartermasters Department At Large,2,34.55472222,-112.4527778,a,4
+Mokelumne Hill,CA,Treasury Department,Internal Revenue_Deputy Collector,1,38.3004709,-120.706322,a,4
+Leavenworth,KS,Treasury Department,Internal Revenue_Deputy Collector,1,39.3111112,-94.922464,a,4
+Camp Mojave,AZ,War Department,Outpost,31,34.94305556,-114.595,b,8
+Camp Verde,AZ,War Department,Outpost,150,34.56666667,-111.8561111,c,12
+Empire City,OR,Treasury Department,Customs Service,1,43.376389,-124.237222,a,4
+Victoria,BC,Treasury Department,Customs Service,1,48.4284207,-123.365644,a,4
+Fort Richardson,TX,War Department,Outpost,85,33.20805556,-98.16472222,b,8
+Klamath Agency,OR,Department of the Interior,Office of Indian Affairs,14,42.6181909,-121.933907,a,4
