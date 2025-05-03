@@ -1,0 +1,1285 @@
+case_number,year,petitioner,case_character,detained_by,attorney,remarks,father_name,address,age_or_birth,street_number,street_name,petitioner_last_name,petitioner_first_name,father_last_name,father_first_name,birth_year,age
+8900,1889,loo sing ying (female),native born,belgic,"mowry, lyman",discharged,loo kong bo,726 dupont,1870,726,dupont,loo,sing ying (female),loo,kong bo,1870,19
+8901,1889,wong toon moey (female),native born,belgic,"mowry, lyman",remanded,wong hay moon,716 dupont,1871,716,dupont,wong,toon moey (female),wong,hay moon,1871,18
+8902,1889,wong ying ack,native born,belgic,"mowry, lyman",discharged,wong kit,los angeles,1864,,,wong,ying ack,wong,kit,1864,25
+8903,1889,leong ah quong,native born,belgic,"mowry, lyman",discharged,leong lin fon,826 dupont,1872,826,dupont,leong,ah quong,leong,lin fon,1872,17
+8904,1889,fong gim gook (female),native born,belgic,"mowry, lyman",remanded,fong toy wah,1009 dupont,1869,1009,dupont,fong,gim gook (female),fong,toy wah,1869,20
+8905,1889,leong ah sing,native born,belgic,"mowry, lyman",discharged,leong lin fon,826 dupont,1874,826,dupont,leong,ah sing,leong,lin fon,1874,15
+8906,1889,jew ah pon,native born,belgic,"mowry, lyman",remanded,jiew chong yow,846 washington,1869,846,washington,jew,ah pon,jiew,chong yow,1869,20
+8907,1889,lee ying (female),native born,belgic,"miller, h b m",remanded,lee qui,820 dupont,1868,820,dupont,lee,ying (female),lee,qui,1868,21
+8908,1889,wong sing toy (female),native born,belgic,"miller, h b m",remanded,wong tock pow,corner sacramento and stockton,1864,,,wong,sing toy (female),wong,tock pow,1864,25
+8909,1889,leong kam (female),native born,belgic,"miller, h b m",remanded,leong dock ong,719 commercial,1874,719,commercial,leong,kam (female),leong,dock ong,1874,15
+8910,1889,jung chut,native born,belgic,"miller, h b m",discharged,jung sung,744 commercial,1868,744,commercial,jung,chut,jung,sung,1868,21
+8911,1889,wong ah fook,native born,belgic,"stranahan, f. e.",discharged,wong han chin,los angeles,24 years,,,wong,ah fook,wong,han chin,1865,24
+8912,1889,loui ah yin,native born,belgic,"stranahan, f. e.",discharged,loui mon shew,819 dupont,21 years,819,dupont,loui,ah yin,loui,mon shew,1868,21
+8913,1889,wong ah gim,native born,belgic,"stranahan, f. e.",discharged,wong ying fong,740 commercial,32 years,740,commercial,wong,ah gim,wong,ying fong,1857,32
+8914,1889,lee ah yick,native born,belgic,"stranahan, f. e.",discharged,lee yuen lim,818 dupont,13 years,818,dupont,lee,ah yick,lee,yuen lim,1876,13
+8915,1889,lee ah jung,native born,belgic,"stranahan, f. e.",discharged,lee jung ock,771 clay,21 years,771,clay,lee,ah jung,lee,jung ock,1868,21
+8916,1889,wong gim yuen,native born,belgic,"stranahan, f. e.",discharged,wong moon dim,corner of clay and dupont,18 years,,,wong,gim yuen,wong,moon dim,1871,18
+8917,1889,jow fung chung,native born,belgic,"ricketts, alfred",discharged,jow lim gat,769 clay,16 years,769,clay,jow,fung chung,jow,lim gat,1873,16
+8918,1889,wong ah lock,native born,belgic,"ricketts, alfred",discharged,wong wing yin,900 dupont,24 years,900,dupont,wong,ah lock,wong,wing yin,1865,24
+8919,1889,hung tai,native born,belgic,"ricketts, alfred",discharged,hung dun chan,712 dupont,19 years,712,dupont,hung,tai,hung,dun chan,1870,19
+8920,1889,lee yen,native born,belgic,"ricketts, alfred",discharged,lee lung yuen,714 1/2 dupont,17 years,714,1/2 dupont,lee,yen,lee,lung yuen,1872,17
+8921,1889,jow kai gong,native born,belgic,"ricketts, alfred",discharged,jow sim sing,900 dupont,16 years,900,dupont,jow,kai gong,jow,sim sing,1873,16
+8922,1889,hor ah moey (female),native born,belgic,"mowry, lyman",discharged,ho sing ack,714 dupont,1869,714,dupont,hor,ah moey (female),ho,sing ack,1869,20
+8923,1889,lee ah kum,native born,belgic,"mowry, lyman",discharged,lee you sing,824 dupont,1868,824,dupont,lee,ah kum,lee,you sing,1868,21
+8924,1889,lee fong gin,native born,belgic,"mowry, lyman",remanded,lee gim yook,corner of dupont and commercial,1870,,,lee,fong gin,lee,gim yook,1870,19
+8925,1889,wong gang shin,native born,belgic,"mowry, lyman",discharged,wong gow,614 dupont,1862,614,dupont,wong,gang shin,wong,gow,1862,27
+8926,1889,ng ah yook,native born,belgic,"mowry, lyman",discharged,ng kay quong,stockton,1866,,,ng,ah yook,ng,kay quong,1866,23
+8927,1889,yee mee ho (female),native born,belgic,"stranahan, f. e.",discharged,yee quan yit,911 dupont,20 years,911,dupont,yee,mee ho (female),yee,quan yit,1869,20
+8928,1889,chan kee far (female),native born,belgic,"stranahan, f. e.",discharged,chan lin yow,806 washington,19 years,806,washington,chan,kee far (female),chan,lin yow,1870,19
+8930,1889,wong gun woo,native born,belgic,"ricketts, alfred",remanded,wong poy gim,831 1/2 dupont,19 years,831,1/2 dupont,wong,gun woo,wong,poy gim,1870,19
+8931,1889,ng duck,native born,belgic,"ricketts, alfred",discharged,ng kay,918 dipont,,918,dipont,ng,duck,ng,kay,,
+8932,1889,jee man,native born,belgic,"ricketts, alfred",discharged,jee yuey poy,823 dupont,18 years,823,dupont,jee,man,jee,yuey poy,1871,18
+8933,1889,wong mun bon,native born,belgic,"ricketts, alfred",remanded,wong gim yow,714 dupont,17 years,714,dupont,wong,mun bon,wong,gim yow,1872,17
+8934,1889,pon quock so,native born,belgic,"ricketts, alfred",remanded,pow yuey jim,613 jackson,16 years,613,jackson,pon,quock so,pow,yuey jim,1873,16
+8935,1889,mar dun su,native born,belgic,"ricketts, alfred",discharged,mar sing,714 dupont,18 years,714,dupont,mar,dun su,mar,sing,1871,18
+8936,1889,jung ah poy,native born,belgic,"mowry, lyman",discharged,jung fung he,813 dupont,1867,813,dupont,jung,ah poy,jung,fung he,1867,22
+8937,1889,jew ah lai,native born,belgic,"mowry, lyman",discharged,jew len ack,722 dupont,1867,722,dupont,jew,ah lai,jew,len ack,1867,22
+8938,1889,ang ah hor,native born,belgic,"mowry, lyman",discharged,ang gen sing,nw corner dupont and jackson,1867,,,ang,ah hor,ang,gen sing,1867,22
+8939,1889,tom on,native born,belgic,"mowry, lyman",discharged,hom wing kee,708 sacramento,1866,708,sacramento,tom,on,hom,wing kee,1866,23
+8940,1889,lim ah choon,native born,belgic,"mowry, lyman",discharged,lim see wing,ne corner dupont and jackson,1870,,,lim,ah choon,lim,see wing,1870,19
+8941,1889,lim ah heaum,native born,belgic,"mowry, lyman",discharged,lim lip chee,714 dupont,1871,714,dupont,lim,ah heaum,lim,lip chee,1871,18
+8942,1889,jung ah choon,native born,belgic,"mowry, lyman",discharged,jeung bak goey,718 dupont,1870,718,dupont,jung,ah choon,jeung,bak goey,1870,19
+8943,1889,jung ah mook,native born,belgic,"mowry, lyman",discharged,jeung bak yick,ne corner washington and dupont,1869,,,jung,ah mook,jeung,bak yick,1869,20
+8944,1889,tom bock,native born,belgic,"mowry, lyman",discharged,tom gim que,808 sacramento,1867,808,sacramento,tom,bock,tom,gim que,1867,22
+8945,1889,ng ah gong,native born,belgic,"ricketts, alfred",discharged,ng hock way,846 dupont,19 years,846,dupont,ng,ah gong,ng,hock way,1870,19
+8946,1889,lee ging,native born,belgic,"ricketts, alfred",remanded,lee quon,828 dupont,12 years,828,dupont,lee,ging,lee,quon,1877,12
+8947,1889,quan ah shin,native born,belgic,"ricketts, alfred",discharged,quan en lung,"merced, california",19 years,,,quan,ah shin,quan,en lung,1870,19
+8948,1889,jew ah sang,native born,belgic,"ricketts, alfred",discharged,jew jung loy,639 jackson,18 years,639,jackson,jew,ah sang,jew,jung loy,1871,18
+8949,1889,wong jin,native born,belgic,"ricketts, alfred",remanded,wong sang,754 washington,18 years,754,washington,wong,jin,wong,sang,1871,18
+8950,1889,jue ah chow,native born,belgic,"stranahan, f. e.",discharged,jue lin dang,765 clay,1877,765,clay,jue,ah chow,jue,lin dang,1877,12
+8951,1889,jue ah que,native born,belgic,"stranahan, f. e.",discharged,jue yick wo,769 clay,1871,769,clay,jue,ah que,jue,yick wo,1871,18
+8952,1889,jue ah kee,native born,belgic,"stranahan, f. e.",discharged,jue lin dock,625 dupont,1871,625,dupont,jue,ah kee,jue,lin dock,1871,18
+8953,1889,fong gen shee,native born,belgic,"mowry, lyman",discharged,fong suey yee,841 dupont,1874,841,dupont,fong,gen shee,fong,suey yee,1874,15
+8954,1889,jew ah i (girl),native born,belgic,"mowry, lyman",discharged,jew quock gaow,"sacramento, california",1871,,,jew,ah i (girl),jew,quock gaow,1871,18
+8955,1889,tom laong slin,native born,belgic,"mowry, lyman",discharged,tom doo cheong,810 sacramento,1862,810,sacramento,tom,laong slin,tom,doo cheong,1862,27
+8956,1889,jew ack lin,native born,belgic,"mowry, lyman",discharged,jew ping que,ne corner dupont and jackson,1867,,,jew,ack lin,jew,ping que,1867,22
+8957,1889,jew ah gin,native born,belgic,"mowry, lyman",discharged,jew tong he,731 commercial,1868,731,commercial,jew,ah gin,jew,tong he,1868,21
+8958,1889,fong ping siet,native born,belgic,"mowry, lyman",remanded,fong chow sin,816 dupont,1874,816,dupont,fong,ping siet,fong,chow sin,1874,15
+8959,1889,wong gick,native born,belgic,"stranahan, f. e.",discharged,wong lick,723 sacramento,1868,723,sacramento,wong,gick,wong,lick,1868,21
+8960,1889,lee ah din,native born,belgic,"ricketts, alfred",discharged,lee gan quong,828 dupont,26 years,828,dupont,lee,ah din,lee,gan quong,1863,26
+8961,1889,ng ah foo,native born,belgic,"ricketts, alfred",discharged,ng hock way,722 dupont,24 years,722,dupont,ng,ah foo,ng,hock way,1865,24
+8963,1889,gin koon for (girl),native born,city of peking,"mowry, lyman",remanded,gin leng yow,806 washington,1876,806,washington,gin,koon for (girl),gin,leng yow,1876,13
+8964,1889,fong kee,native born,city of peking,"mowry, lyman",discharged,claims to bave been a waiter shipped from san francisco,,,,,fong,kee,claims,to bave been a waiter shipped from san francisco,,
+8965,1889,wong han ngip,native born,city of peking,"ricketts, alfred",discharged,wong yan kim,"35 nigger alley, los angeles, ca",1866,35,"nigger alley, los angeles, ca",wong,han ngip,wong,yan kim,1866,23
+8966,1889,tom doo toy,native born,city of peking,"mowry, lyman",discharged,tom suey din,842 dupont,1873,842,dupont,tom,doo toy,tom,suey din,1873,16
+8967,1889,jeung gin ack,native born,city of peking,"mowry, lyman",discharged,jung you fong,744 sacramento,1864,744,sacramento,jeung,gin ack,jung,you fong,1864,25
+8968,1889,hom you gaung,native born,city of peking,"mowry, lyman",discharged,tom goey lan,886 dupont,1871,886,dupont,hom,you gaung,tom,goey lan,1871,18
+8969,1889,ho hwe gaow (female),native born,city of peking,"mowry, lyman",discharged,ho yan pork,726 dupont,1868,726,dupont,ho,hwe gaow (female),ho,yan pork,1868,21
+8970,1889,ang ah moey (female),native born,city of peking,"mowry, lyman",discharged,ang yuen wah,813 dupont,1867,813,dupont,ang,ah moey (female),ang,yuen wah,1867,22
+8971,1889,yee yooey jeng,native born,city of peking,"riordan, thomas d",discharged,yee bew gai,693 jackson,1865,693,jackson,yee,yooey jeng,yee,bew gai,1865,24
+8972,1889,wong choy sin (female),native born,city of peking,"riordan, thomas d",discharged,wong ah quai,yuen fung restaurant,1874,,,wong,choy sin (female),wong,ah quai,1874,15
+8973,1889,wong fook ho (female),native born,city of peking,"riordan, thomas d",discharged,wong ah quai,yuen fung restaurant,1875,,,wong,fook ho (female),wong,ah quai,1875,14
+8974,1889,wong sing yee (female),native born,city of peking,"riordan, thomas d",discharged,wong ah quai,yuen fung restaurant,1876,,,wong,sing yee (female),wong,ah quai,1876,13
+8975,1889,yee loui haw (female),native born,city of peking,"ricketts, alfred",remanded,yee jen jung,717 dupont,1869,717,dupont,yee,loui haw (female),yee,jen jung,1869,20
+8976,1889,dang young (female),native born,city of peking,"mowry, lyman",discharged,lung gip,801 dupont,1877,801,dupont,dang,young (female),lung,gip,1877,12
+8977,1889,chin on sin,native born,arabic,"ricketts, alfred",discharged,chin jung fun,754 washington,1870,754,washington,chin,on sin,chin,jung fun,1870,19
+8978,1889,dong que far (female),native born,arabic,"mowry, lyman",remanded,ang gee gow,820 dupont,1875,820,dupont,dong,que far (female),ang,gee gow,1875,14
+8979,1889,ching choow ho (female),native born,arabic,"mowry, lyman",discharged,chin dook wong,845 dupont,1868,845,dupont,ching,choow ho (female),chin,dook wong,1868,21
+8980,1889,moy que ling (female),native born,arabic,"mowry, lyman",remanded,moy yum sam,716 dupont,1868,716,dupont,moy,que ling (female),moy,yum sam,1868,21
+8981,1889,mar sen len (female),native born,arabic,"mowry, lyman",remanded,mar yuen ting,728 dupont,1868,728,dupont,mar,sen len (female),mar,yuen ting,1868,21
+8982,1889,wong ah lam,native born,arabic,"ricketts, alfred",discharged,wong sare bock,810 montgomery,1866,810,montgomery,wong,ah lam,wong,sare bock,1866,23
+8983,1889,wong ah quock,native born,arabic,"ricketts, alfred",discharged,wong or nang,309 commercial,1866,309,commercial,wong,ah quock,wong,or nang,1866,23
+8984,1889,yep din,native born,arabic,"ricketts, alfred",discharged,yep dok wing,813 dupont,1867,813,dupont,yep,din,yep,dok wing,1867,22
+8985,1889,tom oh gum,native born,arabic,"mowry, lyman",discharged,hom gim jung,ne corner dupont and washington,1868,,,tom,oh gum,hom,gim jung,1868,21
+8986,1889,wee chow gook (female),native born,arabic,"mowry, lyman",remanded,wee wy ark,801 dupont,1867,801,dupont,wee,chow gook (female),wee,wy ark,1867,22
+8987,1889,lee sing for (female),native born,arabic,"mowry, lyman",discharged,lee tooey fook,727 sacramento,1869,727,sacramento,lee,sing for (female),lee,tooey fook,1869,20
+8988,1889,lien ling foy (female),native born,arabic,"mowry, lyman",remanded,lien kip hock,620 dupont,1870,620,dupont,lien,ling foy (female),lien,kip hock,1870,19
+8989,1889,wee chow ying (female),native born,arabic,"mowry, lyman",discharged,wee wy ark,801 dupont,1866,801,dupont,wee,chow ying (female),wee,wy ark,1866,23
+8990,1889,lee dock wing,native born,arabic,"mowry, lyman",discharged,lee gim hing,714 dupont,1866,714,dupont,lee,dock wing,lee,gim hing,1866,23
+8991,1889,ng ah bin,native born,arabic,"mowry, lyman",discharged,ng dim quong,742 commercial,1873,742,commercial,ng,ah bin,ng,dim quong,1873,16
+8992,1889,yee bong,native born,arabic,"mowry, lyman",discharged,yu lai bu,714 dupont,1867,714,dupont,yee,bong,yu,lai bu,1867,22
+8993,1889,wong ah toy,native born,arabic,"ricketts, alfred",remanded,wong hung,1007 dupont,1866,1007,dupont,wong,ah toy,wong,hung,1866,23
+8994,1889,lee forng wun,native born,arabic,"ricketts, alfred",discharged,lee ngun lum,810 washington,1865,810,washington,lee,forng wun,lee,ngun lum,1865,24
+8995,1889,chew yung,native born,arabic,"ricketts, alfred",discharged,chew ock dun,"81 re quong on, chico, butte county",1865,81,"re quong on, chico, butte county",chew,yung,chew,ock dun,1865,24
+8996,1889,jue ah leung,native born,arabic,cross & denson,discharged,jue ah sit,dupont,1874,,,jue,ah leung,jue,ah sit,1874,15
+8997,1889,jue tie on,native born,arabic,cross & denson,discharged,jue gar lin,771 clay,1878,771,clay,jue,tie on,jue,gar lin,1878,11
+8998,1889,jue goon hoy,native born,arabic,cross & denson,remanded,jue shut sing,clay and dupont,1875,,,jue,goon hoy,jue,shut sing,1875,14
+8999,1889,won ah lim,native born,arabic,"mowry, lyman",discharged,won ming gaow,809 dupont,1877,809,dupont,won,ah lim,won,ming gaow,1877,12
+9000,1889,lee ah shoo (female),native born,arabic,"mowry, lyman",boond exonerated,lee wah,714 commercial,1868,714,commercial,lee,ah shoo (female),lee,wah,1868,21
+9001,1889,sam ah sear,native born,arabic,"mowry, lyman",discharged,sam ming gaung,716 dupont,1877,716,dupont,sam,ah sear,sam,ming gaung,1877,12
+9002,1889,lum ah in,native born,arabic,"mowry, lyman",remanded,lum quock hing,"j street, sacramento, california",1871,,,lum,ah in,lum,quock hing,1871,18
+9004,1889,chew keung,native born,city of sydney,"mowry, lyman",discharged,chew kin,723 sacramento street,1873,723,sacramento street,chew,keung,chew,kin,1873,16
+9006,1889,victor aronande,,,carroll cook,discharged,,,,,,victor,aronande,,,,
+9007,1889,lee ah chon,native born,oceanic,"mowry, lyman",discharged,lee hor yin,715 commercial,1877,715,commercial,lee,ah chon,lee,hor yin,1877,12
+9008,1889,wong sear hay,native born,oceanic,"mowry, lyman",discharged,wong sam,620 dupont,1873,620,dupont,wong,sear hay,wong,sam,1873,16
+9009,1889,wong gong fong,native born,oceanic,"mowry, lyman",discharged,wong sam,620 dupont,1872,620,dupont,wong,gong fong,wong,sam,1872,17
+9010,1889,lien foong gin,native born,city of sydney,"mowry, lyman",discharged,lem wee yung,714 dupont,1868,714,dupont,lien,foong gin,lem,wee yung,1868,21
+9011,1889,lee loy ang,native born,oceanic,"mowry, lyman",discharged,lu len pong,810 dupont,1868,810,dupont,lee,loy ang,lu,len pong,1868,21
+9012,1889,lim moon won,native born,oceanic,"mowry, lyman",discharged,lim goey jung,728 dupont,1867,728,dupont,lim,moon won,lim,goey jung,1867,22
+9013,1889,gee kee far (female),native born,city of sydney,"mowry, lyman",remanded,gee chung one,710 dupont,1861,710,dupont,gee,kee far (female),gee,chung one,1861,28
+9014,1889,chun qui choy (female),native born,oceanic,"mowry, lyman",discharged,chun song wy,820 dupont,1861,820,dupont,chun,qui choy (female),chun,song wy,1861,28
+9015,1889,yee you ack,native born,oceanic,"mowry, lyman",discharged,yee len pong,706 dupont,1873,706,dupont,yee,you ack,yee,len pong,1873,16
+9016,1889,gee shing gook (female),native born,city of sydney,"mowry, lyman",remanded,gee chong you,824 dupont,1869,824,dupont,gee,shing gook (female),gee,chong you,1869,20
+9017,1889,lee ah doon,native born,oceanic,"mowry, lyman",discharged,lee sing hip,627 dupont,1877,627,dupont,lee,ah doon,lee,sing hip,1877,12
+9018,1889,lim ah shim,native born,oceanic,"ricketts, alfred",discharged,lim lep moy,765 clay,1871,765,clay,lim,ah shim,lim,lep moy,1871,18
+9019,1889,loui ah bin,native born,oceanic,"stranahan, f. e.",discharged,loui fong oh,711 commercial,21 years,711,commercial,loui,ah bin,loui,fong oh,1868,21
+9020,1889,toy foo wing,native born,oceanic,"stranahan, f. e.",discharged,toy ah on,820 1/2 washington,22 years,820,1/2 washington,toy,foo wing,toy,ah on,1867,22
+9021,1889,loui ah ho alias loui ting kee (female),native born,oceanic,"stranahan, f. e.",discharged,loui gum ting,801 dupont,20 years,801,dupont,loui,ah ho alias loui ting kee (female),loui,gum ting,1869,20
+9022,1889,lew on,native born,oceanic,"stranahan, f. e.",discharged,lew king ang,845 dupont,15 years,845,dupont,lew,on,lew,king ang,1874,15
+9023,1889,tow gum ho (female),native born,oceanic,"stranahan, f. e.",remanded,tow bor,820 dupont,21 years,820,dupont,tow,gum ho (female),tow,bor,1868,21
+9024,1889,moh tew ping (female),native born,oceanic,"stranahan, f. e.",discharged,moh dock lum,801 dupont,,801,dupont,moh,tew ping (female),moh,dock lum,,
+9025,1889,chin lam yen (female),native born,city of sydney,"mowry, lyman",discharged,chin doo kan,714 dupont,1868,714,dupont,chin,lam yen (female),chin,doo kan,1868,21
+9026,1889,yee jin yick,native born,oceanic,"mowry, lyman",discharged,yee sow,710 sacramento,1874,710,sacramento,yee,jin yick,yee,sow,1874,15
+9027,1889,lee you,native born,oceanic,"ricketts, alfred",remanded,lee ngun ying,842 dupont,1878,842,dupont,lee,you,lee,ngun ying,1878,11
+9028,1889,lee ah john,native born,oceanic,"ricketts, alfred",remanded,kee yee yin,806 dupont,1869,806,dupont,lee,ah john,kee,yee yin,1869,20
+9029,1889,lee ah ging,native born,city of sydney,"mowry, lyman",discharged,lee fook,728 dupont,1875,728,dupont,lee,ah ging,lee,fook,1875,14
+9030,1889,dang choon yee,native born,city of sydney,"mowry, lyman",discharged,dang yook hoon,over sam toy dupont,1866,,,dang,choon yee,dang,yook hoon,1866,23
+9031,1889,wong ah gew,native born,city of sydney,"stranahan, f. e.",discharged,wong quock gooey,se corner sacramento and dupont,22 years,,,wong,ah gew,wong,quock gooey,1867,22
+9032,1889,lee ah sik,native born,city of sydney,"riordan, thomas d",discharged,lee chuck,,19 years,,,lee,ah sik,lee,chuck,1870,19
+9033,1889,fong toong mow,native born,city of sydney,"riordan, thomas d",discharged,fong jin ock,821 dupont,16 years,821,dupont,fong,toong mow,fong,jin ock,1873,16
+9034,1889,lew bow kong,native born,city of sydney,"riordan, thomas d",discharged,kew hee kwoon,912 dupont,13 years,912,dupont,lew,bow kong,kew,hee kwoon,1876,13
+9035,1889,yee ah tan,native born,city of sydney,"riordan, thomas d",discharged,yee ah gwee,794 dupont,22 years,794,dupont,yee,ah tan,yee,ah gwee,1867,22
+9036,1889,tom jin deaup,native born,city of sydney,"mowry, lyman",discharged,tom on won,745 sacramento,1867,745,sacramento,tom,jin deaup,tom,on won,1867,22
+9037,1889,wong soo shew,native born,city of sydney,"mowry, lyman",discharged,wong kep,751 sacramento,1867,751,sacramento,wong,soo shew,wong,kep,1867,22
+9038,1889,pang lem wing,native born,city of sydney,"mowry, lyman",discharged,pang ng,727 sacramento,1861,727,sacramento,pang,lem wing,pang,ng,1861,28
+9039,1889,wong ah kun,native born,city of sydney,"ricketts, alfred",discharged,wong sai ying,"weaverville, trinity county, ca",1877,,,wong,ah kun,wong,sai ying,1877,12
+9040,1889,jin ah yen,native born,city of sydney,"ricketts, alfred",discharged,jin ah lum,"portland, oregon",1867,,,jin,ah yen,jin,ah lum,1867,22
+9041,1889,lim ah toy,native born,city of sydney,"ricketts, alfred",remanded,lim lip ock,740 commercial,1882,740,commercial,lim,ah toy,lim,lip ock,1882,7
+9042,1889,jew ah chow,native born,city of sydney,"ricketts, alfred",discharged,jew ah bing,806 sacramento,1880,806,sacramento,jew,ah chow,jew,ah bing,1880,9
+9043,1889,jow ah war,native born,city of sydney,"ricketts, alfred",remanded,jow dow chung,738 commercial,1867,738,commercial,jow,ah war,jow,dow chung,1867,22
+9044,1889,chin ah fee,native born,city of sydney,"ricketts, alfred",discharged,chin do kan,639 jackson,1866,639,jackson,chin,ah fee,chin,do kan,1866,23
+9045,1889,jow ah mow,native born,city of sydney,"ricketts, alfred",remanded,jow lung chow,712 dupont,1870,712,dupont,jow,ah mow,jow,lung chow,1870,19
+9047,1889,jue tung pawk,native born,city of sydney,cross & denson,discharged,jue ting mow,731 jackson,1871,731,jackson,jue,tung pawk,jue,ting mow,1871,18
+9049,1889,wong gwing hung,native born,city of rio de janeiro,"ricketts, alfred",remanded,wong ang mun,711 commercial,1871,711,commercial,wong,gwing hung,wong,ang mun,1871,18
+9050,1889,ow yong boon,native born,city of rio de janeiro,"riordan, thomas d",discharged,ow yong duck,732 sacramento,1864,732,sacramento,ow,yong boon,ow,yong duck,1864,25
+9051,1889,kong suey heong (female),native born,city of rio de janeiro,"stranahan, f.e.",discharged,kong see,845 dupont,22 years,845,dupont,kong,suey heong (female),kong,see,1867,22
+9052,1889,loui tuey hay (female),native born,city of rio de janeiro,"stranahan, f.e.",discharged,loui hing kee,620 dupont,21 years,620,dupont,loui,tuey hay (female),loui,hing kee,1868,21
+9053,1889,tow ging yee (female),native born,city of rio de janeiro,"stranahan, f.e.",discharged,"tow tng (mother, tuong she)",801 dupont,21 years,801,dupont,tow,ging yee (female),tow,"tng (mother, tuong she)",1868,21
+9054,1889,yee ooey dung,native born,city of rio de janeiro,"mowry, lyman",discharged,yee jum jung,726 dupont,1868,726,dupont,yee,ooey dung,yee,jum jung,1868,21
+9055,1889,yee soon slang,native born,city of rio de janeiro,"mowry, lyman",discharged,yee tew fook,806 washington,1875,806,washington,yee,soon slang,yee,tew fook,1875,14
+9056,1889,jeung jan,native born,city of rio de janeiro,"mowry, lyman",discharged,jeung kai yook,"stockton, california",,,,jeung,jan,jeung,kai yook,,
+9057,1889,yee hem wong,native born,city of rio de janeiro,"mowry, lyman",discharged,yee seng jung,826 dupont,1868,826,dupont,yee,hem wong,yee,seng jung,1868,21
+9058,1889,jew man,native born,gaelic,"mowry, lyman",discharged,jew gin pak,816 dupont,1866,816,dupont,jew,man,jew,gin pak,1866,23
+9059,1889,soo mee ho (female),native born,gaelic,"mowry, lyman",remanded,soo tng mow,845 dupont,1871,845,dupont,soo,mee ho (female),soo,tng mow,1871,18
+9060,1889,ip tai,native born,gaelic,"mowry, lyman",remanded,ip lai,"j street, sacramento, california",1865,,,ip,tai,ip,lai,1865,24
+9061,1889,fong too haong (female),native born,gaelic,"mowry, lyman",discharged,foong tong pak,751 dupont,1868,751,dupont,fong,too haong (female),foong,tong pak,1868,21
+9063,1889,lim ah geow (female),native born,china,"stranahan, f.e.",discharged,lim ah fook,733 commercial,23 years,733,commercial,lim,ah geow (female),lim,ah fook,1866,23
+9064,1889,lew ah gim (female),native born,china,"stranahan, f.e.",discharged,lew hock ying,"lives over firm of hung chong & ow, sacramento, st",20 years,,,lew,ah gim (female),lew,hock ying,1869,20
+9065,1889,leong ah haw (female),native born,china,"stranahan, f.e.",discharged,leong ting noon,771 clay,23 years,771,clay,leong,ah haw (female),leong,ting noon,1866,23
+9066,1889,mack tai hoey,native born,china,"mowry, lyman",discharged,mack sing jong,nw corner jackson and dupont,1874,,,mack,tai hoey,mack,sing jong,1874,15
+9067,1889,chun ah yow (female),native born,china,"mowry, lyman",discharged,chun chong,761 clay,1866,761,clay,chun,ah yow (female),chun,chong,1866,23
+9068,1889,wong ah yook (female),native born,china,"mowry, lyman",discharged,wong doo,"stockton, california",1864,,,wong,ah yook (female),wong,doo,1864,25
+9069,1889,foong bow sing,native born,china,"mowry, lyman",remanded,foong gim bor,845 dupont,1873,845,dupont,foong,bow sing,foong,gim bor,1873,16
+9070,1889,mack tai ho,native born,china,"mowry, lyman",discharged,mack sing jong,nw corner jackson and dupont,1875,,,mack,tai ho,mack,sing jong,1875,14
+9071,1889,yep lung gow,native born,china,"riordan, thomas d",discharged,yep fong gon,611 dupont,1868,611,dupont,yep,lung gow,yep,fong gon,1868,21
+9072,1889,leong yun po,native born,belgic,"riordan, thomas d",discharged,leong jung one,940 dupont,1688,940,dupont,leong,yun po,leong,jung one,1688,201
+9073,1889,tung go ming,native born,china,"riordan, thomas d",discharged,dong quan dai,743 sacramento,1866,743,sacramento,tung,go ming,dong,quan dai,1866,23
+9074,1889,jew ah hop,native born,belgic,"riordan, thomas d",discharged,jew sing gum,904 dupont,1865,904,dupont,jew,ah hop,jew,sing gum,1865,24
+9075,1889,jo jew,native born,china,"blaney, edward w.",remanded,jo sam,"marysville, california",1869,,,jo,jew,jo,sam,1869,20
+9076,1889,jo chop,native born,china,"blaney, edward w.",discharged,jo go goon,806 dupont,1869,806,dupont,jo,chop,jo,go goon,1869,20
+9077,1889,toy gam bin,native born,china,"riordan, thomas d",discharged,toy haut yin,720 jackson,1868,720,jackson,toy,gam bin,toy,haut yin,1868,21
+9078,1890,wong bock hoy,native born,belgic,"stranahan, f.e.",discharged,wong song sick,611 commercial,1868,611,commercial,wong,bock hoy,wong,song sick,1868,22
+9079,1890,lee ah gong,native born,belgic,"mowry, lyman",discharged,lee chin,"sacramento, california",1868,,,lee,ah gong,lee,chin,1868,22
+9080,1890,wong kin gin,native born,belgic,"mowry, lyman",discharged,kwong dock poy,722 dupont,1869,722,dupont,wong,kin gin,kwong,dock poy,1869,21
+9081,1890,chun yook,native born,belgic,"mowry, lyman",discharged,chun sen hong,639 jackson,1871,639,jackson,chun,yook,chun,sen hong,1871,19
+9082,1890,chun fook,native born,belgic,"mowry, lyman",remanded,chun woh saw,"sacramento, california",1873,,,chun,fook,chun,woh saw,1873,17
+9083,1890,chun mow,native born,belgic,"mowry, lyman",discharged,chun woh saw,"sacramento, california",1867,,,chun,mow,chun,woh saw,1867,23
+9084,1890,lee ah foon,native born,belgic,"mowry, lyman",remanded,lee gee,"marysville, california",1863,,,lee,ah foon,lee,gee,1863,27
+9085,1890,lee ah gin,native born,belgic,"mowry, lyman",discharged,lee chin,"sacramento, california",1866,,,lee,ah gin,lee,chin,1866,24
+9086,1890,fong ah chooey,native born,belgic,"blaney, edward w.",discharged,fong yon ging,714 1/2 dupont,1869,714,1/2 dupont,fong,ah chooey,fong,yon ging,1869,21
+9088,1890,wong sup yin,native born,city of peking,"stranahan, f.e.",discharged,wong chew cheong,751 sacramento,1866,751,sacramento,wong,sup yin,wong,chew cheong,1866,24
+9089,1890,wong sick ghuck,native born,city of peking,"stranahan, f.e.",discharged,wong lung yin,728 dupont,1866,728,dupont,wong,sick ghuck,wong,lung yin,1866,24
+9090,1890,young nin ho,native born,city of peking,"stranahan, f.e.",discharged,young joon sung,715 dupont,1868,715,dupont,young,nin ho,young,joon sung,1868,22
+9091,1890,yee toy ott,native born,city of peking,"stranahan, f.e.",discharged,yee hee ping,729 sacramento,1874,729,sacramento,yee,toy ott,yee,hee ping,1874,16
+9092,1890,yee chue goon,native born,city of peking,"stranahan, f.e.",discharged,yee lin tim,834 dupont,1873,834,dupont,yee,chue goon,yee,lin tim,1873,17
+9093,1890,yee sooey toong,native born,city of peking,"stranahan, f.e.",discharged,yee wing,708 dupont,1862,708,dupont,yee,sooey toong,yee,wing,1862,28
+9094,1890,loui ah fot,native born,city of peking,"stranahan, f.e.",discharged,loui keong hok,709 commercial,1868,709,commercial,loui,ah fot,loui,keong hok,1868,22
+9095,1890,wong chuck sun,native born,city of peking,"stranahan, f.e.",discharged,wong gum ling,911 dupont,1869,911,dupont,wong,chuck sun,wong,gum ling,1869,21
+9096,1890,yee len toy,native born,city of peking,"mowry, lyman",discharged,yee wah chung,751 sacramento,1868,751,sacramento,yee,len toy,yee,wah chung,1868,22
+9097,1890,chun fook goey,native born,city of peking,"riordan, thomas d",discharged,chin fooey din,706 sacramento,1870,706,sacramento,chun,fook goey,chin,fooey din,1870,20
+9098,1890,yee kin leong,native born,city of peking,"mowry, lyman",discharged,yee mee jong,751 sacramento,1863,751,sacramento,yee,kin leong,yee,mee jong,1863,27
+9099,1890,soo too bak hong,native born,city of peking,"mowry, lyman",discharged,joo hoo yee ack,747 sacramento,1871,747,sacramento,soo,too bak hong,joo,hoo yee ack,1871,19
+9100,1890,gin loow gee,native born,city of peking,"mowry, lyman",discharged,gim on,808 sacramento,1862,808,sacramento,gin,loow gee,gim,on,1862,28
+9101,1890,yee gow tung,native born,city of peking,"mowry, lyman",discharged,yee lem,828 dupont,1862,828,dupont,yee,gow tung,yee,lem,1862,28
+9102,1890,yee goon hoey,native born,city of peking,"mowry, lyman",discharged,yee hen,723 sacramento,1862,723,sacramento,yee,goon hoey,yee,hen,1862,28
+9103,1890,ang ah suey,native born,city of peking,"riordan, thomas d",discharged,ang won yun,741 commercial,1870,741,commercial,ang,ah suey,ang,won yun,1870,20
+9104,1890,jow ning,native born,city of peking,"stranahan, f.e.",discharged,jow yune how,712 dupont,1864,712,dupont,jow,ning,jow,yune how,1864,26
+9105,1890,yee joong,native born,city of peking,"stranahan, f.e.",remanded,yee mak joong,739 commercial,1864,739,commercial,yee,joong,yee,mak joong,1864,26
+9106,1890,mar yuen yow,native born,city of peking,"mowry, lyman",remanded,mar sic lum,"sacramento, california",1871,,,mar,yuen yow,mar,sic lum,1871,19
+9107,1890,lee king yit,native born,oceanic,"stranahan, f.e.",discharged,lee wing poy,714 dupont,1881,714,dupont,lee,king yit,lee,wing poy,1881,9
+9110,1890,loui wing sing,native born,oceanic,"mowry, lyman",discharged,loui hook pon,609 dupont,1868,609,dupont,loui,wing sing,loui,hook pon,1868,22
+9111,1890,mah ah wah (female),native born,oceanic,"blaney, edward w.",remanded,mah yin tock,820 washington,1868,820,washington,mah,ah wah (female),mah,yin tock,1868,22
+9112,1890,jin fun chun,native born,oceanic,"ricketts, alfred",remanded,jin gin yan,"chico, butte county, california",1878,,,jin,fun chun,jin,gin yan,1878,12
+9113,1890,wong ah ming,native born,oceanic,"stranahan, f.e.",discharged,wong ai loon,ne corner washington and dupont,1870,,,wong,ah ming,wong,ai loon,1870,20
+9114,1890,chin ang sin,native born,oceanic,"stranahan, f.e.",discharged,chin moon soon,se corner sacramento and dupont,1867,,,chin,ang sin,chin,moon soon,1867,23
+9115,1890,chin ah foon,native born,oceanic,"stranahan, f.e.",discharged,chin doo shing,se corner commercial and dupont,1867,,,chin,ah foon,chin,doo shing,1867,23
+9116,1890,gee ah bow,native born,oceanic,"stranahan, f.e.",discharged,gee kai gap,826 dupont,1873,826,dupont,gee,ah bow,gee,kai gap,1873,17
+9117,1890,wong ah chong,native born,oceanic,"stranahan, f.e.",discharged,wong kwok seong,se corner clay and dupont,1867,,,wong,ah chong,wong,kwok seong,1867,23
+9118,1890,wong ah gan,native born,oceanic,"stranahan, f.e.",discharged,wong han chuck,722 dupont,1865,722,dupont,wong,ah gan,wong,han chuck,1865,25
+9119,1890,chin jone ho (female),native born,oceanic,"stranahan, f.e.",remanded,chin sang,757 sacramento,21 years,757,sacramento,chin,jone ho (female),chin,sang,1869,21
+9120,1890,quan ling moy (female),native born,oceanic,"stranahan, f.e.",remanded,quon quock lim,847 dupont,22 years,847,dupont,quan,ling moy (female),quon,quock lim,1868,22
+9121,1890,bak goon how (female),native born,oceanic,"stranahan, f.e.",remanded,bak hing ying,620 dupont,21 years,620,dupont,bak,goon how (female),bak,hing ying,1869,21
+9122,1890,koong goot ying (female),native born,oceanic,"stranahan, f.e.",remanded,koong wai,714 dupont,21 years,714,dupont,koong,goot ying (female),koong,wai,1869,21
+9123,1890,jeong gook ying (female),native born,oceanic,"stranahan, f.e.",remanded,jeong ah ack,1000 dupont,21 years,1000,dupont,jeong,gook ying (female),jeong,ah ack,1869,21
+9124,1890,chin gook kai (female),native born,oceanic,"stranahan, f.e.",discharged,chin mon,761 clay,21 years,761,clay,chin,gook kai (female),chin,mon,1869,21
+9125,1890,wong gook cheong (female),native born,oceanic,"stranahan, f.e.",remanded,wong ai sang,corner dupont and washington,21 years,,,wong,gook cheong (female),wong,ai sang,1869,21
+9126,1890,lee toy gook (female),native born,oceanic,"stranahan, f.e.",remanded,lee hing bo,747 dupont,24 years,747,dupont,lee,toy gook (female),lee,hing bo,1866,24
+9127,1890,mok jow yee (female),native born,oceanic,"stranahan, f.e.",remanded,mock shin kwok,714 1/2 dupont,21 years,714,1/2 dupont,mok,jow yee (female),mock,shin kwok,1869,21
+9128,1890,tom ah daung,native born,oceanic,"mowry, lyman",discharged,tom hong,nw corner dupont and jackson,1868,,,tom,ah daung,tom,hong,1868,22
+9129,1890,lai sit lock,native born,oceanic,"stranahan, f.e.",remanded,lai quan hay,609 jackson,22 years,609,jackson,lai,sit lock,lai,quan hay,1868,22
+9133,1890,jong bok pong,native born,city of rio de janeiro,"stranahan, f.e.",discharged,jong quock,908 sacramento,1866,908,sacramento,jong,bok pong,jong,quock,1866,24
+9134,1890,young jow hang,native born,city of rio de janeiro,"stranahan, f.e.",discharged,young wing kee,719 jackson,1874,719,jackson,young,jow hang,young,wing kee,1874,16
+9135,1890,jong foong fooey,native born,city of rio de janeiro,"stranahan, f.e.",discharged,jong foo,808 sacramento,1868,808,sacramento,jong,foong fooey,jong,foo,1868,22
+9136,1890,gee lang yow,native born,city of rio de janeiro,"riordan, thomas d",discharged,gee yooey ngon,728 jackson,1869,728,jackson,gee,lang yow,gee,yooey ngon,1869,21
+9137,1890,gee bing fong,native born,city of rio de janeiro,"riordan, thomas d",discharged,gee chung don,716 dupont,1870,716,dupont,gee,bing fong,gee,chung don,1870,20
+9138,1890,mar toy ngook (female),native born,city of rio de janeiro,"mowry, lyman",remanded,mar hung hing,836 dupont,1869,836,dupont,mar,toy ngook (female),mar,hung hing,1869,21
+9139,1890,mack lin toy (female),native born,city of rio de janeiro,"mowry, lyman",remanded appealed to circuit court,mack lung yin,828 dupont,1868,828,dupont,mack,lin toy (female),mack,lung yin,1868,22
+9140,1890,jew cun hoe (female),native born,city of rio de janeiro,"mowry, lyman",discharged,jew kwy,716 dupont,1868,716,dupont,jew,cun hoe (female),jew,kwy,1868,22
+9141,1890,lou mee toy (female),native born,city of rio de janeiro,"mowry, lyman",discharged,lou shing doon,909 dupont,1869,909,dupont,lou,mee toy (female),lou,shing doon,1869,21
+9142,1890,tom quock,native born,city of rio de janeiro,"mowry, lyman",discharged,tom yin,751 sacramento,1863,751,sacramento,tom,quock,tom,yin,1863,27
+9143,1890,dung sup (female),native born,city of rio de janeiro,"mowry, lyman",remanded appealed to circuit court,dung get chong,719 dupont,1868,719,dupont,dung,sup (female),dung,get chong,1868,22
+9144,1890,lai yick,native born,city of rio de janeiro,"mowry, lyman",discharged,lai on,808 sacramento,1860,808,sacramento,lai,yick,lai,on,1860,30
+9145,1890,li you,,city of rio de janeiro,"blaney, edward w.",remanded,,,,,,li,you,,,,
+9147,1890,lee ling kow,native born,gaelic,"blaney, edward w.",discharged,lee mun fat,617 jackson,1869,617,jackson,lee,ling kow,lee,mun fat,1869,21
+9148,1890,lee yut ho,native born,gaelic,"blaney, edward w.",discharged,lee mun fat,617 jackson,1867,617,jackson,lee,yut ho,lee,mun fat,1867,23
+9149,1890,pang ken choo,native born,gaelic,"mowry, lyman",discharged,pang di det,716 commercial,1865,716,commercial,pang,ken choo,pang,di det,1865,25
+9150,1890,chin ah dew,native born,gaelic,"mowry, lyman",discharged,chin pope,ne corner of washington and dupont,1862,,,chin,ah dew,chin,pope,1862,28
+9151,1890,lim git gaow (female),native born,gaelic,"mowry, lyman",remanded appealed to circuit court,lim yung que,705 dupont,1873,705,dupont,lim,git gaow (female),lim,yung que,1873,17
+9152,1890,sue mee yong (female),native born,gaelic,"mowry, lyman",discharged,pen ing moo,722 dupont,1870,722,dupont,sue,mee yong (female),pen,ing moo,1870,20
+9153,1890,fong kim leon (female),native born,gaelic,"mowry, lyman",remanded,fong shew ack,ne corner of jackson and dupont,1868,,,fong,kim leon (female),fong,shew ack,1868,22
+9154,1890,chin len toy (female),native born,gaelic,"mowry, lyman",petition and writ dismissed,chin goon,708 commercial,1868,708,commercial,chin,len toy (female),chin,goon,1868,22
+9155,1890,leong lai yook (female),native born,gaelic,"mowry, lyman",remanded,leong choy,639 jackson,1875,639,jackson,leong,lai yook (female),leong,choy,1875,15
+9156,1890,ang loy chum (female),native born,gaelic,"mowry, lyman",remanded,dang ben,824 dupont,1871,824,dupont,ang,loy chum (female),dang,ben,1871,19
+9157,1890,chin shing dew (female),native born,gaelic,"mowry, lyman",remanded,chin hop,"city of sacramento, 310 i street",1871,310,i street,chin,shing dew (female),chin,hop,1871,19
+9159,1890,lee kong sing,native born,china,"stranahan, f.e.",discharged,lee hung,723 sacramento,1867,723,sacramento,lee,kong sing,lee,hung,1867,23
+9160,1890,yung ah ho (female),native born,china,"blaney, edward w.",bail exonerated,yung dot hin,715 commercial,1869,715,commercial,yung,ah ho (female),yung,dot hin,1869,21
+9161,1890,lee suey guon (female),native born,china,"mowry, lyman",remanded,lee look,824 dupont,1868,824,dupont,lee,suey guon (female),lee,look,1868,22
+9163,1890,ng ah let,native born,belgic,"blaney, edward w.",discharged,ng ah quong,722 dupont,1865,722,dupont,ng,ah let,ng,ah quong,1865,25
+9164,1890,leong share ying,native born,belgic,"stranahan, f.e.",discharged,leong ming quing,714 commercial,22 years,714,commercial,leong,share ying,leong,ming quing,1868,22
+9165,1890,chin jung sing,native born,belgic,"stranahan, f.e.",discharged,chin soo shong,710 commercial,20 years,710,commercial,chin,jung sing,chin,soo shong,1870,20
+9166,1890,lin ah ock,native born,belgic,"stranahan, f.e.",remanded,lim lip wing,719 clay,1869,719,clay,lin,ah ock,lim,lip wing,1869,21
+9167,1890,jew ah loy,native born,belgic,"stranahan, f.e.",discharged,jew mon yook,754 washington,1869,754,washington,jew,ah loy,jew,mon yook,1869,21
+9168,1890,tom chow ong,native born,belgic,"mowry, lyman",discharged,tom him jong,"dutch flat, placer county, california",1867,,,tom,chow ong,tom,him jong,1867,23
+9169,1890,yup choon wing,native born,belgic,"mowry, lyman",discharged,yup ng,806 sacramento,1858,806,sacramento,yup,choon wing,yup,ng,1858,32
+9170,1890,mock tai wing,native born,belgic,"mowry, lyman",discharged,mock doo chin,nw corner jackson and washington,1863,,,mock,tai wing,mock,doo chin,1863,27
+9171,1890,chin chong,native born,belgic,"mowry, lyman",discharged,,resident merchant,,,,chin,chong,,,,
+9172,1890,chin tai chooey,native born,belgic,"mowry, lyman",discharged,,resident merchant,,,,chin,tai chooey,,,,
+9173,1890,quan ah shee,native born,belgic,"mowry, lyman",discharged,quan ming,730 jackson,1863,730,jackson,quan,ah shee,quan,ming,1863,27
+9174,1890,mar ah fong,native born,belgic,"ricketts, alfred",discharged,mar sick lung,717 commercial,1867,717,commercial,mar,ah fong,mar,sick lung,1867,23
+9175,1890,chica (female) (japanese),japanese woman,city of peking,"mowry, lyman",petition to dismiss,,japanese woman,,,,chica,(female) (japanese),,,,
+9176,1890,shineze toche (female) (japanese),japanese woman,city of peking,"mowry, lyman",petition to dismiss,,japanese woman,,,,shineze,toche (female) (japanese),,,,
+9178,1890,yow quan ho (female),native born,city of peking,"riordan, thomas d",discharged,yow ho,826 dupont,1872,826,dupont,yow,quan ho (female),yow,ho,1872,18
+9179,1890,chin sing ock,native born,city of peking,"stranahan, f.e.",discharged,ching moon kee,740 commercial,1873,740,commercial,chin,sing ock,ching,moon kee,1873,17
+9180,1890,wong ah dic,native born,city of peking,"stranahan, f.e.",discharged,wong dun ling,906 dupont,1866,906,dupont,wong,ah dic,wong,dun ling,1866,24
+9181,1890,chin ah yuen,native born,city of peking,"stranahan, f.e.",discharged,chin hai hock,722 dupont,1867,722,dupont,chin,ah yuen,chin,hai hock,1867,23
+9182,1890,lew wo quan,native born,city of peking,"stranahan, f.e.",discharged,lew kong sue,740 commercial,1866,740,commercial,lew,wo quan,lew,kong sue,1866,24
+9183,1890,lee ngin jock,native born,city of peking,"mowry, lyman",discharged,lee nam,1008 dupont,1876,1008,dupont,lee,ngin jock,lee,nam,1876,14
+9184,1890,wong ah yee,native born,city of peking,"mowry, lyman",discharged,wong toon dock,"san luis obispo, california",1876,,,wong,ah yee,wong,toon dock,1876,14
+9185,1890,sen chong quong,native born,city of peking,"mowry, lyman",discharged,sen dot kum,"stockton, california",1872,,,sen,chong quong,sen,dot kum,1872,18
+9186,1890,lee kong chong,native born,city of peking,"mowry, lyman",discharged,lee kwy,"san jose, california",1874,,,lee,kong chong,lee,kwy,1874,16
+9187,1890,yee ah gaw,native born,city of peking,"riordan, thomas d",discharged,yee fon wah,728 sacramento,1867,728,sacramento,yee,ah gaw,yee,fon wah,1867,23
+9188,1890,yee ah yow,native born,city of peking,"riordan, thomas d",discharged,yee ah fook,700 sacramento,1874,700,sacramento,yee,ah yow,yee,ah fook,1874,16
+9189,1890,yee ah ngow,native born,city of peking,"riordan, thomas d",discharged,yee pan on,822 clay,1866,822,clay,yee,ah ngow,yee,pan on,1866,24
+9190,1890,dang ah wah,native born,city of peking,"riordan, thomas d",discharged,dang mun you,936 dupont,1863,936,dupont,dang,ah wah,dang,mun you,1863,27
+9191,1890,chin ah bow,native born,city of peking,"riordan, thomas d",discharged,chin ey fook,826 dupont,1864,826,dupont,chin,ah bow,chin,ey fook,1864,26
+9192,1890,yee ah sack,native born,city of peking,"riordan, thomas d",discharged,yew bew don,710 sacramento,1868,710,sacramento,yee,ah sack,yew,bew don,1868,22
+9193,1890,dang ah ngoon,native born,city of peking,"riordan, thomas d",discharged,dang yick quan,728 dupont,1862,728,dupont,dang,ah ngoon,dang,yick quan,1862,28
+9194,1890,yee ah doo,native born,city of peking,"riordan, thomas d",discharged,yee ah fook,741 sacramento,1878,741,sacramento,yee,ah doo,yee,ah fook,1878,12
+9195,1890,gee moon gow,native born,city of peking,"riordan, thomas d",discharged,jee gee fong,728 dupont,1872,728,dupont,gee,moon gow,jee,gee fong,1872,18
+9196,1890,wong toon ott,native born,city of peking,"riordan, thomas d",discharged,wong dze foon,815 dupont,1873,815,dupont,wong,toon ott,wong,dze foon,1873,17
+9197,1890,gee too hing,native born,city of peking,"riordan, thomas d",discharged,que gong,815 dupont,1866,815,dupont,gee,too hing,que,gong,1866,24
+9198,1890,wong ah hing,native born,city of peking,"stranahan, f.e.",discharged,wong wah lun,728 commercial,1876,728,commercial,wong,ah hing,wong,wah lun,1876,14
+9199,1890,wong ah yoe,native born,city of peking,"stranahan, f.e.",discharged,wong fook hing,1001 dupont,1867,1001,dupont,wong,ah yoe,wong,fook hing,1867,23
+9200,1890,chin ah goy (girl),native born,city of peking,"riordan, thomas d",discharged,chin jeong,754 washington,1872,754,washington,chin,ah goy (girl),chin,jeong,1872,18
+9201,1890,chin duck,native born,city of peking,"riordan, thomas d",discharged,chin jeong,754 washington,1884,754,washington,chin,duck,chin,jeong,1884,6
+9202,1890,chin ngow lin,native born,city of peking,"riordan, thomas d",discharged,chin jeong,754 washington,1880,754,washington,chin,ngow lin,chin,jeong,1880,10
+9203,1890,lee hong ning,native born,city of peking,"blaney, edward w.",discharged,lee wing pooey,728 dupont,1869,728,dupont,lee,hong ning,lee,wing pooey,1869,21
+9204,1890,jeong su lung,native born,city of peking,"blaney, edward w.",discharged,jeong lung quong,806 dupont,1867,806,dupont,jeong,su lung,jeong,lung quong,1867,23
+9205,1890,yee ah gee,native born,city of peking,"blaney, edward w.",discharged,yee po jung,601 commercial,1869,601,commercial,yee,ah gee,yee,po jung,1869,21
+9206,1890,ow ngaw,resident merchant,city of peking,"blaney, edward w.",remanded,,resident merchant,,,,ow,ngaw,,,,
+9207,1890,mar ah buck,native born,city of peking,"blaney, edward w.",discharged,mar ben doon,900 dupont,1867,900,dupont,mar,ah buck,mar,ben doon,1867,23
+9208,1890,law yong yuen,native born,city of peking,"blaney, edward w.",remanded,law wah nong,"visalia,california",1863,,,law,yong yuen,law,wah nong,1863,27
+9209,1890,lee you,native born,city of peking,"blaney, edward w.",discharged,lee go,617 jackson,1868,617,jackson,lee,you,lee,go,1868,22
+9210,1890,harm kee chi,native born,city of peking,"blaney, edward w.",remanded appealed to circuit court,harm hin pooey,615 jackson,1869,615,jackson,harm,kee chi,harm,hin pooey,1869,21
+9211,1890,lee jeong so,native born,city of peking,"blaney, edward w.",remanded,lee wing gong,714 dupont,1870,714,dupont,lee,jeong so,lee,wing gong,1870,20
+9212,1890,mar gin far (woman),native born,city of peking,"mowry, lyman",discharged,mar lung gee,810 dupont,1867,810,dupont,mar,gin far (woman),mar,lung gee,1867,23
+9213,1890,mar sue lin (woman),native born,city of peking,"mowry, lyman",remanded,mar shew lin,726 sacramento,1874,726,sacramento,mar,sue lin (woman),mar,shew lin,1874,16
+9214,1890,ng ah ken,native born,city of peking,"mowry, lyman",discharged,ng jock doon,514 washington,,514,washington,ng,ah ken,ng,jock doon,,
+9215,1890,leong fon,native born,city of peking,"mowry, lyman",discharged,leong clury yick,743 sacramento,1868,743,sacramento,leong,fon,leong,clury yick,1868,22
+9216,1890,wong fuey hen,native born,city of peking,"ricketts, alfred",discharged,wong mah dak,824 dupont,1864,824,dupont,wong,fuey hen,wong,mah dak,1864,26
+9217,1890,wong dat mun,native born,city of peking,"ricketts, alfred",discharged,wong ung chow,823 dupont,1864,823,dupont,wong,dat mun,wong,ung chow,1864,26
+9218,1890,chin leong shee (woman),merchant's wife,city of peking,"riordan, thomas d",discharged,,merchant's wife,,,,chin,leong shee (woman),,,,
+9219,1890,jin shoong yew,native born,oceanic,"riordan, thomas d",discharged,jin mun you,451 sacramento,1867,451,sacramento,jin,shoong yew,jin,mun you,1867,23
+9220,1890,gee chung sik,native born,oceanic,"riordan, thomas d",discharged,gee yooen how,810 dupont,1868,810,dupont,gee,chung sik,gee,yooen how,1868,22
+9221,1890,yee wing yick,native born,oceanic,"riordan, thomas d",discharged,yee yin jung,623 dupont,1871,623,dupont,yee,wing yick,yee,yin jung,1871,19
+9222,1890,gee bing jow,native born,oceanic,"riordan, thomas d",discharged,gee chung bow,823 dupont,1875,823,dupont,gee,bing jow,gee,chung bow,1875,15
+9223,1890,wong ah lung,native born,oceanic,"ricketts, alfred",discharged,wong bak lung,717 commercial,1868,717,commercial,wong,ah lung,wong,bak lung,1868,22
+9224,1890,wong foo ock,native born,oceanic,"ricketts, alfred",discharged,wong kim fon,72 dupont,1868,72,dupont,wong,foo ock,wong,kim fon,1868,22
+9225,1890,fong ah jarn,native born,oceanic,"ricketts, alfred",discharged,fong shu teow,613 jackson,1864,613,jackson,fong,ah jarn,fong,shu teow,1864,26
+9226,1890,lim bak toung,native born,oceanic,"mowry, lyman",discharged,lim fat saw,620 dupont,1878,620,dupont,lim,bak toung,lim,fat saw,1878,12
+9227,1890,yee sare woo,native born,oceanic,"mowry, lyman",discharged,yee dew woh,731 commercial,1867,731,commercial,yee,sare woo,yee,dew woh,1867,23
+9228,1890,wong ah goay,native born,oceanic,"mowry, lyman",remanded,wong lin bar,818 dupont,1866,818,dupont,wong,ah goay,wong,lin bar,1866,24
+9229,1890,low dung,native born,oceanic,"mowry, lyman",discharged,low tong,635 jackson,1864,635,jackson,low,dung,low,tong,1864,26
+9230,1890,shew mee yong (female),native born,oceanic,"mowry, lyman",remanded,shew tung cang,722 dupont,1867,722,dupont,shew,mee yong (female),shew,tung cang,1867,23
+9231,1890,leong nam,native born,oceanic,"mowry, lyman",discharged,leong gut,"stockton, california",1870,,,leong,nam,leong,gut,1870,20
+9232,1890,ow sew ching (female),native born,oceanic,"mowry, lyman",remanded,ow wang gee,709 dupont,1869,709,dupont,ow,sew ching (female),ow,wang gee,1869,21
+9233,1890,wong tom fat,native born,oceanic,"mowry, lyman",discharged,wong bak din,dupont and sacramento,1866,,,wong,tom fat,wong,bak din,1866,24
+9234,1890,loo ah wah,native born,oceanic,"mowry, lyman",remanded,loo loong sing,"los angeles, california",1873,,,loo,ah wah,loo,loong sing,1873,17
+9235,1890,jung ling yock,native born,oceanic,"stranahan, f.e.",discharged,jung hung,706 dupont,1867,706,dupont,jung,ling yock,jung,hung,1867,23
+9236,1890,moh tong you,native born,oceanic,"stranahan, f.e.",discharged,moh lim,dupont and washington,1865,,,moh,tong you,moh,lim,1865,25
+9237,1890,lim wing lock,native born,oceanic,"stranahan, f.e.",discharged,lim ong,819 washington,1867,819,washington,lim,wing lock,lim,ong,1867,23
+9238,1890,jung hing suey,native born,oceanic,"stranahan, f.e.",discharged,jung fam,704 dupont,1866,704,dupont,jung,hing suey,jung,fam,1866,24
+9239,1890,yee wing yin,native born,oceanic,"stranahan, f.e.",discharged,yee jung foo,728 sacramento,1873,728,sacramento,yee,wing yin,yee,jung foo,1873,17
+9240,1890,toey quock man,native born,oceanic,"stranahan, f.e.",discharged,toay mon,729 sacramento,1866,729,sacramento,toey,quock man,toay,mon,1866,24
+9241,1890,hoo gee,native born,oceanic,"stranahan, f.e.",discharged,hoo wing,938 dupont,1863,938,dupont,hoo,gee,hoo,wing,1863,27
+9242,1890,hong bin,native born,oceanic,"stranahan, f.e.",discharged,wong rew,826 dupont,1866,826,dupont,hong,bin,wong,rew,1866,24
+9243,1890,wong ying,native born,oceanic,"stranahan, f.e.",discharged,wong kee,900 dupont,1868,900,dupont,wong,ying,wong,kee,1868,22
+9244,1890,yee tum due,native born,oceanic,"stranahan, f.e.",remanded appealed to circuit court,yee mow,806 washington,1867,806,washington,yee,tum due,yee,mow,1867,23
+9245,1890,gin goay sin,native born,oceanic,"stranahan, f.e.",discharged,gin git quon,"santa cruz, california",1869,,,gin,goay sin,gin,git quon,1869,21
+9246,1890,jow sue kee,native born,oceanic,"stranahan, f.e.",discharged,jow fan soon,835 dupont,1867,835,dupont,jow,sue kee,jow,fan soon,1867,23
+9247,1890,gin ah yee,native born,oceanic,"stranahan, f.e.",petition and writ dismissed,gin sue shoon,dupont and washington,1867,,,gin,ah yee,gin,sue shoon,1867,23
+9248,1890,gin goey gwi,native born,oceanic,"stranahan, f.e.",discharged,gin chong hay,639 jackson,1868,639,jackson,gin,goey gwi,gin,chong hay,1868,22
+9249,1890,leong git ting,native born,oceanic,"stranahan, f.e.",discharged,leong dew ying,700 commercial,1868,700,commercial,leong,git ting,leong,dew ying,1868,22
+9250,1890,jow ah wat,native born,oceanic,"stranahan, f.e.",discharged,jow ming yot,749 sacramento,1668,749,sacramento,jow,ah wat,jow,ming yot,1668,222
+9251,1890,jew ah you,native born,oceanic,"stranahan, f.e.",discharged,jew sing dew,745 sacramento,1872,745,sacramento,jew,ah you,jew,sing dew,1872,18
+9252,1890,jew ah boy,native born,oceanic,"stranahan, f.e.",discharged,jow hung ock,714 commercial,1868,714,commercial,jew,ah boy,jow,hung ock,1868,22
+9253,1890,jeong ah fon,native born,oceanic,"stranahan, f.e.",discharged,jeong lai,714 commercial,1868,714,commercial,jeong,ah fon,jeong,lai,1868,22
+9254,1890,wong jeong toy,native born,oceanic,"stranahan, f.e.",remanded,wong you yow,842 dupont,1870,842,dupont,wong,jeong toy,wong,you yow,1870,20
+9255,1890,gin loui heong,native born,oceanic,"stranahan, f.e.",remanded,gin ott wing,611 jackson,1870,611,jackson,gin,loui heong,gin,ott wing,1870,20
+9256,1890,chin wah git,native born,oceanic,"stranahan, f.e.",discharged,chin jung ock,806 sacramento,1868,806,sacramento,chin,wah git,chin,jung ock,1868,22
+9257,1890,ng ah jung,native born,oceanic,"stranahan, f.e.",discharged,ng moon hoy,1001 dupont,1866,1001,dupont,ng,ah jung,ng,moon hoy,1866,24
+9258,1890,jong ah ling,native born,oceanic,"stranahan, f.e.",discharged,jong bock ding,jackson and dupont,1866,,,jong,ah ling,jong,bock ding,1866,24
+9259,1890,wong ah young,native born,oceanic,"stranahan, f.e.",discharged,wong gim ling,824 dupont,1867,824,dupont,wong,ah young,wong,gim ling,1867,23
+9260,1890,jung yee sun,native born,oceanic,"stranahan, f.e.",discharged,jung quong ting,824 dupont,1866,824,dupont,jung,yee sun,jung,quong ting,1866,24
+9261,1890,lew quock wing,native born,oceanic,"stranahan, f.e.",remanded,lew sui you,818 dupont,1867,818,dupont,lew,quock wing,lew,sui you,1867,23
+9262,1890,quan kim lou (female),native born,oceanic,"mowry, lyman",remanded,quan ding tung,nevada,1864,,,quan,kim lou (female),quan,ding tung,1864,26
+9263,1890,yee ah bong,native born,oceanic,"mowry, lyman",discharged,yee bok wah,724 commercial,1868,724,commercial,yee,ah bong,yee,bok wah,1868,22
+9264,1890,jow yee gooey,,oceanic,"ricketts, alfred",discharged,,merchant,,,,jow,yee gooey,,,,
+9265,1890,lee bong,native born,oceanic,"blaney, edward w.",discharged,leeyo,757 sacramento,1864,757,sacramento,lee,bong,leeyo,,1864,26
+9266,1890,lee wing ho,,oceanic,"blaney, edward w.",discharged,,merchant,,,,lee,wing ho,,,,
+9267,1890,lee shan,native born,oceanic,"blaney, edward w.",discharged,lee jong,816 dupont,1863,816,dupont,lee,shan,lee,jong,1863,27
+9268,1890,lee yuen,native born,oceanic,"blaney, edward w.",discharged,lee sino hop,711 dupont,1865,711,dupont,lee,yuen,lee,sino hop,1865,25
+9269,1890,lee quan dy,native born,city of rio de janeiro,"mowry, lyman",discharged,lee hee soon,"portland, oregon",1866,,,lee,quan dy,lee,hee soon,1866,24
+9270,1890,quan ah moy (female),native born,city of rio de janeiro,"riordan, thomas d",discharged,quan kee yung,801 dupont,1867,801,dupont,quan,ah moy (female),quan,kee yung,1867,23
+9271,1890,gong min,native born,city of rio de janeiro,"riordan, thomas d",discharged,gong gow,641 jackson,1865,641,jackson,gong,min,gong,gow,1865,25
+9272,1890,lew fun wing,native born,city of rio de janeiro,"riordan, thomas d",discharged,lew hin fee,620 dupont,1878,620,dupont,lew,fun wing,lew,hin fee,1878,12
+9273,1890,lew share yin,native born,city of rio de janeiro,"riordan, thomas d",discharged,lew hin fee,620 dupont,1875,620,dupont,lew,share yin,lew,hin fee,1875,15
+9274,1890,lim kee shong,native born,city of rio de janeiro,"riordan, thomas d",discharged,lim lip ock,806 washington,1867,806,washington,lim,kee shong,lim,lip ock,1867,23
+9275,1890,yee gim ngoon,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee suey jung,621 dupont,1869,621,dupont,yee,gim ngoon,yee,suey jung,1869,21
+9276,1890,yee jee nooey,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee jung bew,826 dupont,1868,826,dupont,yee,jee nooey,yee,jung bew,1868,22
+9277,1890,yee ah git,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee sin wah,704 dupont,1867,704,dupont,yee,ah git,yee,sin wah,1867,23
+9278,1890,yee jung yook,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee li wah,724 commercial,1865,724,commercial,yee,jung yook,yee,li wah,1865,25
+9279,1890,yee him hung,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee jing gim,900 dupont,1868,900,dupont,yee,him hung,yee,jing gim,1868,22
+9280,1890,yee din tung,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee li,806 sacramento,1868,806,sacramento,yee,din tung,yee,li,1868,22
+9281,1890,yee jow yow,native born,city of rio de janeiro,"riordan, thomas d",discharged,yee san wah,705 dupont,1873,705,dupont,yee,jow yow,yee,san wah,1873,17
+9282,1890,lee ah gong,native born,city of rio de janeiro,"ricketts, alfred",discharged,lee gan quong,714 dupont,1863,714,dupont,lee,ah gong,lee,gan quong,1863,27
+9283,1890,wong quay,native born,city of rio de janeiro,"ricketts, alfred",discharged,wong wah jin,613 jackson,1867,613,jackson,wong,quay,wong,wah jin,1867,23
+9284,1890,jow ah leom,native born,city of rio de janeiro,"ricketts, alfred",discharged,jow sin fook,639 jackson,1866,639,jackson,jow,ah leom,jow,sin fook,1866,24
+9285,1890,wong wah deok,native born,city of rio de janeiro,"ricketts, alfred",remanded,wong dit sai,"portland, oregon",1876,,,wong,wah deok,wong,dit sai,1876,14
+9286,1890,jow ah bin,native born,city of rio de janeiro,"ricketts, alfred",discharged,jow suey win,823 dupont,1867,823,dupont,jow,ah bin,jow,suey win,1867,23
+9287,1890,jew ah yong,native born,city of rio de janeiro,"mowry, lyman",discharged,jew ie hor,"knight's ferry, stanislaus count y",1872,,,jew,ah yong,jew,ie hor,1872,18
+9288,1890,chin ah ching,native born,city of rio de janeiro,"mowry, lyman",remanded,chin lum,"san jose, california",1873,,,chin,ah ching,chin,lum,1873,17
+9289,1890,jew ah go,native born,city of rio de janeiro,"mowry, lyman",remanded,jew sear see,chinese camp,1871,,,jew,ah go,jew,sear see,1871,19
+9290,1890,lee gin wah,native born,city of rio de janeiro,"mowry, lyman",discharged,lee goey choon,"truckee, california",1877,,,lee,gin wah,lee,goey choon,1877,13
+9291,1890,mar gooey git,merchant resident,city of rio de janeiro,"mowry, lyman",discharged,,"dutch flat, placer county, california",,,,mar,gooey git,,,,
+9292,1890,lee ah hoon,native born,city of rio de janeiro,"stranahan, f.e.",discharged,lee sing,764 washington,1868,764,washington,lee,ah hoon,lee,sing,1868,22
+9293,1890,lee toong gim,native born,city of rio de janeiro,"stranahan, f.e.",remanded,lee fook,700 jackson,1870,700,jackson,lee,toong gim,lee,fook,1870,20
+9294,1890,lee gan,native born,city of rio de janeiro,"stranahan, f.e.",discharged,lee fook bo,826 dupont,1865,826,dupont,lee,gan,lee,fook bo,1865,25
+9295,1890,chin ah ying (female),native born,city of rio de janeiro,"blaney, edward w.",discharged,chin mun yee,700 dupont,1868,700,dupont,chin,ah ying (female),chin,mun yee,1868,22
+9297,1890,loui share gin,native born,gaelic,"riordan, thomas d",discharged,loui yot sing,907 dupont,1874,907,dupont,loui,share gin,loui,yot sing,1874,16
+9298,1890,ang toy fawn,native born,gaelic,"riordan, thomas d",discharged,ang yooey ngap,727 clay,1874,727,clay,ang,toy fawn,ang,yooey ngap,1874,16
+9299,1890,lee gin yook,native born,gaelic,"riordan, thomas d",discharged,lee ming hew,742 commercial,1870,742,commercial,lee,gin yook,lee,ming hew,1870,20
+9300,1890,loui share yung,native born,gaelic,"riordan, thomas d",discharged,loui ling hock,709 commercial,1869,709,commercial,loui,share yung,loui,ling hock,1869,21
+9301,1890,lew share jeong,native born,gaelic,"riordan, thomas d",discharged,lew shung yung,714 dupont,1876,714,dupont,lew,share jeong,lew,shung yung,1876,14
+9302,1890,lew gong ming,native born,gaelic,"riordan, thomas d",discharged,lew shung gung,714 dupont,1875,714,dupont,lew,gong ming,lew,shung gung,1875,15
+9303,1890,lim sare loon,native born,gaelic,"mowry, lyman",discharged,lim hock sing,708 commercial,1865,708,commercial,lim,sare loon,lim,hock sing,1865,25
+9304,1890,wong din shing,native born,gaelic,"mowry, lyman",discharged,wong gow teo,826 dupont,1868,826,dupont,wong,din shing,wong,gow teo,1868,22
+9305,1890,chin shin,native born,gaelic,"stranahan, f.e.",discharged,chin sang,735 sacramento,1867,735,sacramento,chin,shin,chin,sang,1867,23
+9306,1890,loo yee leong,native born,gaelic,"stranahan, f.e.",discharged,loo ming ging,710 commercial,1868,710,commercial,loo,yee leong,loo,ming ging,1868,22
+9307,1890,goo koon lan,native born,gaelic,"stranahan, f.e.",discharged,goo ging chong,731 sacramento,1870,731,sacramento,goo,koon lan,goo,ging chong,1870,20
+9308,1890,chin lin chuck,native born,gaelic,"stranahan, f.e.",discharged,chin shing git,751 sacramento,1872,751,sacramento,chin,lin chuck,chin,shing git,1872,18
+9309,1890,chin har,native born,gaelic,"stranahan, f.e.",discharged,chin moon sing,765 clay,1872,765,clay,chin,har,chin,moon sing,1872,18
+9310,1890,wong kwai,native born,gaelic,"stranahan, f.e.",discharged,wong bo,826 dupont,1863,826,dupont,wong,kwai,wong,bo,1863,27
+9311,1890,chin hung,native born,gaelic,"stranahan, f.e.",discharged,chin kee yow,819 dupont,1867,819,dupont,chin,hung,chin,kee yow,1867,23
+9312,1890,wong song hee,native born,gaelic,"stranahan, f.e.",discharged,wong woey tui,se corner commercial and dupont,1866,,,wong,song hee,wong,woey tui,1866,24
+9313,1890,wong chow,native born,gaelic,"stranahan, f.e.",discharged,song mee foon,729 sacramento,1869,729,sacramento,wong,chow,song,mee foon,1869,21
+9314,1890,young fook,native born,gaelic,"stranahan, f.e.",discharged,young chee sing,723 sacramento,1869,723,sacramento,young,fook,young,chee sing,1869,21
+9315,1890,young sing,native born,gaelic,"stranahan, f.e.",discharged,young ho mee,808 sacramento,1876,808,sacramento,young,sing,young,ho mee,1876,14
+9316,1890,wong kee toy,native born,gaelic,"stranahan, f.e.",discharged,wong dic wo,726 sacramento,1873,726,sacramento,wong,kee toy,wong,dic wo,1873,17
+9317,1890,wong wing mow,native born,gaelic,"stranahan, f.e.",discharged,wong kwong,ne dupont and washington,1867,,,wong,wing mow,wong,kwong,1867,23
+9318,1890,ng goey sam,native born,gaelic,"stranahan, f.e.",discharged,ng ah git,se dupont and jackson,1868,,,ng,goey sam,ng,ah git,1868,22
+9319,1890,tom ah long,native born,gaelic,"mowry, lyman",discharged,tom gooey gow,728 dupont,1868,728,dupont,tom,ah long,tom,gooey gow,1868,22
+9320,1890,yong nim,native born,gaelic,"mowry, lyman",discharged,yong tim,1000 dupont,1876,1000,dupont,yong,nim,yong,tim,1876,14
+9321,1890,tom ah fat,native born,gaelic,"mowry, lyman",,tom schuck diep,1024 battery,1874,1024,battery,tom,ah fat,tom,schuck diep,1874,16
+9322,1890,jew ah law,native born,gaelic,"mowry, lyman",discharged,jew quong yow,828 washington,1867,828,washington,jew,ah law,jew,quong yow,1867,23
+9323,1890,tom ah jong,native born,gaelic,"mowry, lyman",discharged,tom yin shun,708 sacramento,1866,708,sacramento,tom,ah jong,tom,yin shun,1866,24
+9324,1890,tom ah shang,native born,gaelic,"mowry, lyman",discharged,tom gar gim,620 dupont,1867,620,dupont,tom,ah shang,tom,gar gim,1867,23
+9325,1890,lee ah ung,native born,gaelic,"mowry, lyman",discharged,lee kung,1008 dupont,1874,1008,dupont,lee,ah ung,lee,kung,1874,16
+9326,1890,yong bow,native born,gaelic,"mowry, lyman",discharged,yong tim,1000 dupont,1875,1000,dupont,yong,bow,yong,tim,1875,15
+9327,1890,wong nam chung,native born,gaelic,"ricketts, alfred",discharged,,,,,,wong,nam chung,,,,
+9328,1890,wong ah yick,native born,gaelic,"ricketts, alfred",discharged,wong nam chung,"weaverville, trinity county, ca",12 years,,,wong,ah yick,wong,nam chung,1878,12
+9329,1890,jow chuck how,native born,gaelic,"ricketts, alfred",discharged,jow wah shuck,719 commercial,1867,719,commercial,jow,chuck how,jow,wah shuck,1867,23
+9330,1890,leong jow yin,native born,gaelic,"ricketts, alfred",remanded,leong dun,"yreka, siskiyou county, ca",1876,,,leong,jow yin,leong,dun,1876,14
+9331,1890,wong ah mow,native born,gaelic,"ricketts, alfred",discharged,wong yan fon,"chico, butte county, california",1865,,,wong,ah mow,wong,yan fon,1865,25
+9332,1890,jee ah woo,native born,gaelic,"ricketts, alfred",discharged,jee lin chung,709 commercial,1869,709,commercial,jee,ah woo,jee,lin chung,1869,21
+9333,1890,lee quan,native born,gaelic,"blaney, edward w.",discharged,lee gee git,842 dupont,1866,842,dupont,lee,quan,lee,gee git,1866,24
+9334,1890,lee hee,native born,gaelic,"blaney, edward w.",discharged,lee hooey gip,728 dupont,1867,728,dupont,lee,hee,lee,hooey gip,1867,23
+9335,1890,lai yow,native born,gaelic,"mowry, lyman",,,,,,,lai,yow,,,,
+9337,1890,lien sen,native born,china,"mowry, lyman",writ and petition dismissed,lien goong,712 dupont,1867,712,dupont,lien,sen,lien,goong,1867,23
+9338,1890,hoo sic yee,native born,china,"mowry, lyman",discharged,hoo jin goong,730 commercial,1874,730,commercial,hoo,sic yee,hoo,jin goong,1874,16
+9339,1890,soo too bing quay,native born,china,"mowry, lyman",discharged,soo too hin jin,723 sacramento,1874,723,sacramento,soo,too bing quay,soo,too hin jin,1874,16
+9340,1890,hoo sic chew,native born,china,"mowry, lyman",remanded,hoo jin goong,730 commercial,1869,730,commercial,hoo,sic chew,hoo,jin goong,1869,21
+9341,1890,ly show ying,native born,china,"riordan, thomas d",discharged,ly ging yick,751 sacramento,1869,751,sacramento,ly,show ying,ly,ging yick,1869,21
+9342,1890,yup lung sat,native born,china,"riordan, thomas d",discharged,yup gan fong,715 dupont,1865,715,dupont,yup,lung sat,yup,gan fong,1865,25
+9343,1890,yup sung kay,native born,china,"riordan, thomas d",discharged,yup gwee hop,613 dupont,1868,613,dupont,yup,sung kay,yup,gwee hop,1868,22
+9344,1890,yup moon ong,native born,china,"riordan, thomas d",discharged,yup fong gwee,933 1/2 dupont,1868,933,1/2 dupont,yup,moon ong,yup,fong gwee,1868,22
+9345,1890,ly lou gong,native born,china,"riordan, thomas d",discharged,ly koon leong,717 dupont,1869,717,dupont,ly,lou gong,ly,koon leong,1869,21
+9346,1890,ly ling sing,native born,china,"riordan, thomas d",discharged,ly wing yong,909 dupont,1870,909,dupont,ly,ling sing,ly,wing yong,1870,20
+9348,1890,hom ah hop,native born,china,"mowry, lyman",discharged,tom gook gooey,820 dupont,1869,820,dupont,hom,ah hop,tom,gook gooey,1869,21
+9349,1890,lee git tung,native born,china,"mowry, lyman",discharged,lee ngin,2 washington alley,1864,2,washington alley,lee,git tung,lee,ngin,1864,26
+9350,1890,jeung hoey,native born,china,"mowry, lyman",discharged,jeung hin sing,1015 1/2 stockton,1867,1015,1/2 stockton,jeung,hoey,jeung,hin sing,1867,23
+9351,1890,jew ngee,native born,china,"mowry, lyman",,jow gum hin,"carson, nevada",1876,,,jew,ngee,jow,gum hin,1876,14
+9352,1890,lee quee,native born,china,"blaney, edward w.",discharged,lee hin fan,716 dupont,1866,716,dupont,lee,quee,lee,hin fan,1866,24
+9353,1890,wong gum,native born,china,"blaney, edward w.",remanded,wong chooey,728 dupont,1865,728,dupont,wong,gum,wong,chooey,1865,25
+9354,1890,lo you,native born,china,"blaney, edward w.",remanded,lo yin,814 clay,1867,814,clay,lo,you,lo,yin,1867,23
+9355,1890,wong dow,native born,china,"stranahan, f.e.",discharged,wong gook teong,826 dupont,1869,826,dupont,wong,dow,wong,gook teong,1869,21
+9356,1890,lum bing ying,native born,china,"stranahan, f.e.",remanded,lum goey lip,809 sacramento,1875,809,sacramento,lum,bing ying,lum,goey lip,1875,15
+9357,1890,lee chow tin,native born,china,"stranahan, f.e.",discharged,lee bing nam,ne corner washington and dupont,1866,,,lee,chow tin,lee,bing nam,1866,24
+9358,1890,chin mong,native born,china,"stranahan, f.e.",discharged,chin jock leong,se corner sacramento and dupont,1866,,,chin,mong,chin,jock leong,1866,24
+9359,1890,wong woo,native born,china,"stranahan, f.e.",discharged,wong man gan,"lewiston, idaho",1864,,,wong,woo,wong,man gan,1864,26
+9360,1890,lee gin,native born,china,"stranahan, f.e.",discharged,lee gin fook,"portland, oregon",1870,,,lee,gin,lee,gin fook,1870,20
+9361,1890,lum toong,resident merchant,china,"stranahan, f.e.",discharged,,,,,,lum,toong,,,,
+9362,1890,wong koong sing,resident merchant,china,"stranahan, f.e.",petition dead,,,,,,wong,koong sing,,,,
+9363,1890,lum bock sing,native born,china,"stranahan, f.e.",discharged,lum ni lip,812 dupont,1876,812,dupont,lum,bock sing,lum,ni lip,1876,14
+9364,1890,ow tin,native born,china,"stranahan, f.e.",discharged,ow sing,815 washington,1862,815,washington,ow,tin,ow,sing,1862,28
+9365,1890,moy fook ting,native born,china,"stranahan, f.e.",discharged,moy dung hing,739 commercial,1870,739,commercial,moy,fook ting,moy,dung hing,1870,20
+9366,1890,hoey fook sam,native born,china,"stranahan, f.e.",discharged,hoey fook sum,737 sacramento,1870,737,sacramento,hoey,fook sam,hoey,fook sum,1870,20
+9367,1890,goo quock wing,native born,china,"stranahan, f.e.",discharged,goo quock,735 sacramento,1870,735,sacramento,goo,quock wing,goo,quock,1870,20
+9368,1890,chin ah lin,native born,china,"stranahan, f.e.",discharged,chin ah lin,725 sacramento,1870,725,sacramento,chin,ah lin,chin,ah lin,1870,20
+9369,1890,lee ah que,native born,china,"stranahan, f.e.",discharged,lee ah que,712 dupont,1868,712,dupont,lee,ah que,lee,ah que,1868,22
+9370,1890,wong goon,native born,china,"stranahan, f.e.",remanded,wong fook chew,900 dupont,1864,900,dupont,wong,goon,wong,fook chew,1864,26
+9371,1890,wong wing,native born,china,"stranahan, f.e.",discharged,wong gook non,se corner sacramento and dupont,1872,,,wong,wing,wong,gook non,1872,18
+9372,1890,lum hung soon,native born,china,"stranahan, f.e.",discharged,lum lip huey,735 sacramento,1872,735,sacramento,lum,hung soon,lum,lip huey,1872,18
+9373,1890,lee bok fook,native born,china,"ricketts, alfred",remanded,lee lung sung,825 dupont,1865,825,dupont,lee,bok fook,lee,lung sung,1865,25
+9374,1890,wong ah toy,native born,china,"ricketts, alfred",remanded,wong sai ying,812 dupont,1864,812,dupont,wong,ah toy,wong,sai ying,1864,26
+9375,1890,wong yin fee,native born,china,"ricketts, alfred",remanded,wong seung yen,813 dupont,1863,813,dupont,wong,yin fee,wong,seung yen,1863,27
+9376,1890,wong wing moy,native born,china,"ricketts, alfred",discharged,wong hen jin,712 dupont,1866,712,dupont,wong,wing moy,wong,hen jin,1866,24
+9377,1890,ow lun,native born,china,"stranahan, f.e.",discharged,ow bock,"cortland, oregon",1866,,,ow,lun,ow,bock,1866,24
+9378,1890,loui kwai,native born,china,"stranahan, f.e.",discharged,loui chuck,823 dupont,1864,823,dupont,loui,kwai,loui,chuck,1864,26
+9379,1890,wong loy hing,native born,china,"mowry, lyman",petition dead,wong shang,714 dupont,1869,714,dupont,wong,loy hing,wong,shang,1869,21
+9380,1890,wong fook gooey,native born,china,"mowry, lyman",discharged,wong wing,832 washington,1866,832,washington,wong,fook gooey,wong,wing,1866,24
+9381,1890,yep jin let,native born,china,"riordan, thomas d",discharged,yep gan ock,611 dupont,1868,611,dupont,yep,jin let,yep,gan ock,1868,22
+9382,1890,in chun cook (female),native born,belgic,"riordan, thomas d",discharged,yin hing wah,742 sacramento,1869,742,sacramento,in,chun cook (female),yin,hing wah,1869,21
+9383,1890,jew dung cook (female),native born,belgic,"riordan, thomas d",discharged,jew chung sow,717 commercial,1869,717,commercial,jew,dung cook (female),jew,chung sow,1869,21
+9384,1890,noy hung yot,native born,belgic,"riordan, thomas d",discharged,moy ni yin,716 dupont,1870,716,dupont,noy,hung yot,moy,ni yin,1870,20
+9385,1890,moy wah suey,native born,belgic,"riordan, thomas d",discharged,moy di sow,819 dupont,1873,819,dupont,moy,wah suey,moy,di sow,1873,17
+9386,1890,moy lan kee,native born,belgic,"riordan, thomas d",landed by customs house,moy yow gan,625 dupont,1870,625,dupont,moy,lan kee,moy,yow gan,1870,20
+9387,1890,leong ah yin,native born,belgic,"stranahan, f.e.",discharged,leong gim sue,710 commercial,1868,710,commercial,leong,ah yin,leong,gim sue,1868,22
+9388,1890,chin ah ock,native born,belgic,"stranahan, f.e.",discharged,chin hong suey,735 sacramento,1866,735,sacramento,chin,ah ock,chin,hong suey,1866,24
+9389,1890,leow ah bow,native born,belgic,"stranahan, f.e.",discharged,leow sing tin,806 sacramento,1867,806,sacramento,leow,ah bow,leow,sing tin,1867,23
+9390,1890,leong jin fot,native born,belgic,"stranahan, f.e.",discharged,leong hung ying,712 dupont,1868,712,dupont,leong,jin fot,leong,hung ying,1868,22
+9391,1890,lee young,native born,belgic,"stranahan, f.e.",remanded,lee due fook,717 commercial,1864,717,commercial,lee,young,lee,due fook,1864,26
+9392,1890,ng quan,native born,belgic,"stranahan, f.e.",remanded,ng you fook,se corner sacramento and dupont,1862,,,ng,quan,ng,you fook,1862,28
+9393,1890,lee you gin,native born,belgic,"ricketts, alfred",discharged,,650 jackson,1866,650,jackson,lee,you gin,,,1866,24
+9394,1890,wong ah yick,native born,belgic,"ricketts, alfred",discharged,wong ah bong,911 dupont,1868,911,dupont,wong,ah yick,wong,ah bong,1868,22
+9395,1890,leow kong jow,native born,belgic,"ricketts, alfred",discharged,leow way gan,722 dupont,1863,722,dupont,leow,kong jow,leow,way gan,1863,27
+9396,1890,low sun kwy (female),native born,belgic,"mowry, lyman",discharged,low hock ching,709 dupont,,709,dupont,low,sun kwy (female),low,hock ching,,
+9397,1890,tom ming,native born,belgic,"stranahan, f.e.",discharged,tom quan fook,826 dupont,1868,826,dupont,tom,ming,tom,quan fook,1868,22
+9398,1890,wong ah tin,native born,belgic,"mowry, lyman",discharged,wong you hin,614 jackson,1872,614,jackson,wong,ah tin,wong,you hin,1872,18
+9399,1890,chun ah chong,native born,belgic,"mowry, lyman",discharged,chun mow nam,"sacramento, california",1864,,,chun,ah chong,chun,mow nam,1864,26
+9400,1890,he ah gut,native born,belgic,"mowry, lyman",discharged,he sin,704 jackson,1872,704,jackson,he,ah gut,he,sin,1872,18
+9401,1890,jeung ah kwy,native born,belgic,"mowry, lyman",discharged,jung quan,"carson, nevada",1865,,,jeung,ah kwy,jung,quan,1865,25
+9402,1890,young hung git,native born,belgic,"stranahan, f.e.",discharged,young hon gong,707 dupont,1869,707,dupont,young,hung git,young,hon gong,1869,21
+9403,1890,young fook sing,native born,belgic,"stranahan, f.e.",discharged,young hong non,723 sacramento,1859,723,sacramento,young,fook sing,young,hong non,1859,31
+9404,1890,wong ah tin,native born,belgic,"stranahan, f.e.",discharged,wong yin tuck,729 commercial,1872,729,commercial,wong,ah tin,wong,yin tuck,1872,18
+9405,1890,lum toon,native born,belgic,"stranahan, f.e.",discharged,lum gook kew,se corner commercial and dupont,1868,,,lum,toon,lum,gook kew,1868,22
+9406,1890,young ting goong,native born,belgic,"stranahan, f.e.",discharged,young soon fong,723 sacramento,1862,723,sacramento,young,ting goong,young,soon fong,1862,28
+9407,1890,lee jeong,native born,belgic,"blaney, edward w.",discharged,lee goon chee,811 dupont,1866,811,dupont,lee,jeong,lee,goon chee,1866,24
+9408,1890,yip woo,native born,belgic,"blaney, edward w.",discharged,yip hin foo,741 commercial,1866,741,commercial,yip,woo,yip,hin foo,1866,24
+9409,1890,lo ah wing,native born,belgic,"blaney, edward w.",remanded,lo mun on,617 dupont,1867,617,dupont,lo,ah wing,lo,mun on,1867,23
+9410,1890,lee ho,native born,belgic,"blaney, edward w.",discharged,lee ming yung,714 dupont,1875,714,dupont,lee,ho,lee,ming yung,1875,15
+9411,1890,tom ah shoon,native born,belgic,"mowry, lyman",discharged,tam foong i,718 dupont,1869,718,dupont,tom,ah shoon,tam,foong i,1869,21
+9412,1890,soo hoo hung,native born,belgic,"mowry, lyman",remanded,soo hoo ging how,828 washington,1867,828,washington,soo,hoo hung,soo,hoo ging how,1867,23
+9413,1890,jeung ah jeung,native born,belgic,"mowry, lyman",discharged,jeung him jung,620 dupont,1868,620,dupont,jeung,ah jeung,jeung,him jung,1868,22
+9414,1890,tom ah tai,native born,belgic,"mowry, lyman",discharged,hom tai ack,808 sacramento,1866,808,sacramento,tom,ah tai,hom,tai ack,1866,24
+9415,1890,jew ah yuen,native born,belgic,"mowry, lyman",remanded,jew my huen,726 dupont,1867,726,dupont,jew,ah yuen,jew,my huen,1867,23
+9416,1890,yung ming jin,native born,belgic,"mowry, lyman",discharged,yung gwing,635 jackson,1873,635,jackson,yung,ming jin,yung,gwing,1873,17
+9417,1890,fong lin gim alias fong bing suey,native born,belgic,"mowry, lyman",discharged,fong schuck,744 washington,1865,744,washington,fong,lin gim alias fong bing suey,fong,schuck,1865,25
+9418,1890,hoey ah lee,native born,belgic,"mowry, lyman",discharged,hoey you,822 dupont,1868,822,dupont,hoey,ah lee,hoey,you,1868,22
+9419,1890,hoey ake,native born,belgic,"mowry, lyman",discharged,hoey fook,726 dupont,1875,726,dupont,hoey,ake,hoey,fook,1875,15
+9420,1890,wong ah him,native born,belgic,"mowry, lyman",discharged,dong ling ack,731 sacramento,1867,731,sacramento,wong,ah him,dong,ling ack,1867,23
+9421,1890,chin quong,native born,belgic,"stranahan, f.e.",remanded,chin jun pong,745 sacramento,1864,745,sacramento,chin,quong,chin,jun pong,1864,26
+9424,1890,yip yo wah,native born,city of peking,"blaney, edward w.",discharged,yip shee chong,813 dupont,1867,813,dupont,yip,yo wah,yip,shee chong,1867,23
+9425,1890,wong john,native born,city of peking,"blaney, edward w.",discharged,wong fat,716 dupont,1868,716,dupont,wong,john,wong,fat,1868,22
+9426,1890,yee lim fung,native born,city of peking,"riordan, thomas d",discharged,yee jow jung,728 sacramento,1871,728,sacramento,yee,lim fung,yee,jow jung,1871,19
+9427,1890,lee ah gan,native born,city of peking,"ricketts, alfred",discharged,loui hock sick,757 clay,1867,757,clay,lee,ah gan,loui,hock sick,1867,23
+9428,1890,wong look dark,native born,city of peking,"ricketts, alfred",discharged,wong hen gan,"los angeles, california",1864,,,wong,look dark,wong,hen gan,1864,26
+9429,1890,wong wah yun,native born,city of peking,"ricketts, alfred",discharged,wong doy hen,900 dupont,1866,900,dupont,wong,wah yun,wong,doy hen,1866,24
+9430,1890,fong jing war,native born,city of peking,"ricketts, alfred",discharged,fong gook you,650 jackson,1874,650,jackson,fong,jing war,fong,gook you,1874,16
+9431,1890,tom ah wah,native born,city of peking,"mowry, lyman",discharged,tom ah wy,728 dupont,1873,728,dupont,tom,ah wah,tom,ah wy,1873,17
+9432,1890,quan yung yin,native born,city of peking,"mowry, lyman",discharged,quan hing,716 dupont,1867,716,dupont,quan,yung yin,quan,hing,1867,23
+9433,1890,jeung bing yin,native born,city of peking,"mowry, lyman",discharged,jeung you toy,716 dupont,1867,716,dupont,jeung,bing yin,jeung,you toy,1867,23
+9434,1890,wong ah yot,native born,city of peking,"mowry, lyman",discharged,wong teung sen,754 washington,1868,754,washington,wong,ah yot,wong,teung sen,1868,22
+9435,1890,jew ah heng,native born,city of peking,"mowry, lyman",discharged,jew gen suey,822 washington,1868,822,washington,jew,ah heng,jew,gen suey,1868,22
+9436,1890,tom ah jeong,native born,city of peking,"mowry, lyman",discharged,tom suey yick,747 sacramento,1863,747,sacramento,tom,ah jeong,tom,suey yick,1863,27
+9437,1890,jeung im,native born,city of peking,"mowry, lyman",discharged,jeung si kow,"dutch flat, placer county, california",1863,,,jeung,im,jeung,si kow,1863,27
+9438,1890,jeung yook,native born,city of peking,"mowry, lyman",discharged,jeung mow,732 sacramento,1862,732,sacramento,jeung,yook,jeung,mow,1862,28
+9439,1890,goon gin suey,native born,city of peking,"stranahan, f.e.",remanded appealed to circuit court,goon fong shoy,765 clay,1867,765,clay,goon,gin suey,goon,fong shoy,1867,23
+9440,1890,chin shong hane,native born,city of peking,"stranahan, f.e.",discharged,chin sloong hock,712 dupont,1870,712,dupont,chin,shong hane,chin,sloong hock,1870,20
+9441,1890,chin ging jow,native born,city of peking,"stranahan, f.e.",remanded,chin jock yan,826 dupont,1870,826,dupont,chin,ging jow,chin,jock yan,1870,20
+9442,1890,chin shew wing,native born,city of peking,"stranahan, f.e.",remanded,chin doey gee,735 sacramento,1870,735,sacramento,chin,shew wing,chin,doey gee,1870,20
+9443,1890,chin dung goey,native born,city of peking,"stranahan, f.e.",discharged,chin gee sick,806 washington,1868,806,washington,chin,dung goey,chin,gee sick,1868,22
+9444,1890,lew hin shim,native born,city of peking,"stranahan, f.e.",discharged,lew wing quock,900 jackson,1864,900,jackson,lew,hin shim,lew,wing quock,1864,26
+9445,1890,pong suey chong,native born,city of peking,"stranahan, f.e.",remanded,pong yuey koon,819 dupont,1864,819,dupont,pong,suey chong,pong,yuey koon,1864,26
+9446,1890,pong ah gow,native born,city of peking,"stranahan, f.e.",remanded,pong yuey fong,900 dupont,1869,900,dupont,pong,ah gow,pong,yuey fong,1869,21
+9447,1890,wong jong koon,native born,city of peking,"stranahan, f.e.",discharged,wong gip hing,se corner commercial and dupont,1869,,,wong,jong koon,wong,gip hing,1869,21
+9448,1890,chin som ock,native born,city of peking,"stranahan, f.e.",discharged,chin yin gook,826 dupont,1865,826,dupont,chin,som ock,chin,yin gook,1865,25
+9449,1890,leong jim kee,native born,city of peking,"mowry, lyman",discharged,leong lum ling,704 sacramento,1864,704,sacramento,leong,jim kee,leong,lum ling,1864,26
+9451,1890,ie leong,native born,oceanic,"mowry, lyman",discharged,ie honchong,705 dupont,1866,705,dupont,ie,leong,ie,honchong,1866,24
+9452,1890,ie ah fong,native born,oceanic,"mowry, lyman",remanded,ie choy,700 sacramento,1864,700,sacramento,ie,ah fong,ie,choy,1864,26
+9453,1890,ie gong,native born,oceanic,"mowry, lyman",discharged,ie hor chong,705 dupont,1865,705,dupont,ie,gong,ie,hor chong,1865,25
+9454,1890,chun ging (female),native born,oceanic,"mowry, lyman",discharged,chun gwong sing,727 sacramento,1858,727,sacramento,chun,ging (female),chun,gwong sing,1858,32
+9455,1890,jeung gum (female),native born,oceanic,"mowry, lyman",discharged,jeung yong git,"globe hotel, san francisco",1878,,,jeung,gum (female),jeung,yong git,1878,12
+9456,1890,yong im,native born,oceanic,"mowry, lyman",discharged,yong gah wah,"los angeles, california",1866,,,yong,im,yong,gah wah,1866,24
+9457,1890,loui ah seong,native born,oceanic,"mowry, lyman",discharged,loui nin,1008 dupont,1876,1008,dupont,loui,ah seong,loui,nin,1876,14
+9458,1890,ie ah im,native born,oceanic,"mowry, lyman",discharged,ie he pung,822 clay street,1865,822,clay street,ie,ah im,ie,he pung,1865,25
+9459,1890,gum sen sing,native born,oceanic,"stranahan, f.e.",discharged,gum sing mon,909 dupont,1867,909,dupont,gum,sen sing,gum,sing mon,1867,23
+9460,1890,you gee haw,native born,oceanic,"stranahan, f.e.",discharged,you tou foy,945 dupont,1867,945,dupont,you,gee haw,you,tou foy,1867,23
+9461,1890,wong goon sam,native born,oceanic,"stranahan, f.e.",discharged,wong toy hing,800 dupont,1875,800,dupont,wong,goon sam,wong,toy hing,1875,15
+9462,1890,wong ah loon,native born,oceanic,"stranahan, f.e.",discharged,wong yet,838 dupont,1875,838,dupont,wong,ah loon,wong,yet,1875,15
+9463,1890,chin chee ock,native born,oceanic,"stranahan, f.e.",discharged,chin wing yin,900 dupont,1870,900,dupont,chin,chee ock,chin,wing yin,1870,20
+9464,1890,chin som cheong,native born,oceanic,"stranahan, f.e.",discharged,chin goey sing,827 dupont,1867,827,dupont,chin,som cheong,chin,goey sing,1867,23
+9465,1890,chin ah foo,native born,oceanic,"stranahan, f.e.",remanded,chin leong quong,826 dupont,1869,826,dupont,chin,ah foo,chin,leong quong,1869,21
+9466,1890,chin hung dip,native born,oceanic,"stranahan, f.e.",discharged,chin wing,823 dupont,1866,823,dupont,chin,hung dip,chin,wing,1866,24
+9467,1890,chin nom yow,native born,oceanic,"stranahan, f.e.",remanded,chin lew hop,712 dupont,1870,712,dupont,chin,nom yow,chin,lew hop,1870,20
+9468,1890,loui ah sit,native born,oceanic,"stranahan, f.e.",discharged,loui sing you,741 sacramento,1868,741,sacramento,loui,ah sit,loui,sing you,1868,22
+9469,1890,chin shew look,native born,oceanic,"stranahan, f.e.",remanded,chin moon shin,813 dupont,1868,813,dupont,chin,shew look,chin,moon shin,1868,22
+9470,1890,jew ah young,native born,oceanic,"stranahan, f.e.",discharged,jew gin wee,714 commercial,1868,714,commercial,jew,ah young,jew,gin wee,1868,22
+9471,1890,loui ah nom,native born,oceanic,"stranahan, f.e.",discharged,loui wee ging,725 dupont,1868,725,dupont,loui,ah nom,loui,wee ging,1868,22
+9472,1890,chin gin wee,native born,oceanic,"stranahan, f.e.",discharged,chin gee war,900 dupont,1870,900,dupont,chin,gin wee,chin,gee war,1870,20
+9473,1890,moy toy nai,native born,oceanic,"stranahan, f.e.",discharged,moy sin yow,716 dupont,1866,716,dupont,moy,toy nai,moy,sin yow,1866,24
+9474,1890,wong woh,native born,oceanic,"riordan, thomas d",discharged,wong moon,745 commercial,1868,745,commercial,wong,woh,wong,moon,1868,22
+9475,1890,yee gim tang,native born,oceanic,"riordan, thomas d",discharged,yee gim wah,724 commercial,1868,724,commercial,yee,gim tang,yee,gim wah,1868,22
+9476,1890,wong fook,native born,oceanic,"riordan, thomas d",discharged,wong tin,639 jackson,1863,639,jackson,wong,fook,wong,tin,1863,27
+9477,1890,wong bow,native born,oceanic,"riordan, thomas d",remanded,wong choon,se corner sacramento and dupont,1863,,,wong,bow,wong,choon,1863,27
+9478,1890,wong man,native born,oceanic,"riordan, thomas d",remanded,wong on,818 dupont,1868,818,dupont,wong,man,wong,on,1868,22
+9479,1890,wong heong,native born,oceanic,"riordan, thomas d",discharged,wong goon,826 dupont,1869,826,dupont,wong,heong,wong,goon,1869,21
+9480,1890,yee yin dock,native born,oceanic,"riordan, thomas d",discharged,yee bew shew,741 sacramento,1864,741,sacramento,yee,yin dock,yee,bew shew,1864,26
+9481,1890,yee ben kan,native born,oceanic,"riordan, thomas d",discharged,yee hop wah,724 commercial,1866,724,commercial,yee,ben kan,yee,hop wah,1866,24
+9482,1890,jung leong,native born,oceanic,"riordan, thomas d",discharged,jung sing chun,836 dupont,1867,836,dupont,jung,leong,jung,sing chun,1867,23
+9483,1890,chin lee moon,native born,oceanic,"riordan, thomas d",discharged,chin jee,635 jackson,1865,635,jackson,chin,lee moon,chin,jee,1865,25
+9484,1890,ng soon pok,native born,oceanic,"riordan, thomas d",discharged,ng yee yan,820 dupont,1870,820,dupont,ng,soon pok,ng,yee yan,1870,20
+9485,1890,ng woh wing,native born,oceanic,"riordan, thomas d",discharged,ng wing gar,829 dupont,1875,829,dupont,ng,woh wing,ng,wing gar,1875,15
+9486,1890,jow ngon toy (female),native born,oceanic,"riordan, thomas d",discharged,jow bock show,709 commercial,1869,709,commercial,jow,ngon toy (female),jow,bock show,1869,21
+9487,1890,gee chun,native born,oceanic,"lande, edward",remanded,gee war,823 dupont,1868,823,dupont,gee,chun,gee,war,1868,22
+9488,1890,jung ah chung,native born,oceanic,"lande, edward",remanded,jung cum,620 dupont,1865,620,dupont,jung,ah chung,jung,cum,1865,25
+9489,1890,wong foo,native born,oceanic,"lande, edward",remanded,wong quay,735 sacramento,1863,735,sacramento,wong,foo,wong,quay,1863,27
+9490,1890,leong kee,native born,oceanic,"lande, edward",petition dead,leong chong,823 dupont,1868,823,dupont,leong,kee,leong,chong,1868,22
+9491,1890,jung ah dung,native born,oceanic,"lande, edward",remanded,jung chong you,743 sacramento,1864,743,sacramento,jung,ah dung,jung,chong you,1864,26
+9492,1890,yee king,native born,oceanic,"lande, edward",remanded,yee fook shew,702 sacramento,1866,702,sacramento,yee,king,yee,fook shew,1866,24
+9493,1890,wong set yee,native born,oceanic,"ricketts, alfred",remanded,wong dok lim,806 dupont,1870,806,dupont,wong,set yee,wong,dok lim,1870,20
+9494,1890,wong ngun hen,native born,oceanic,"ricketts, alfred",remanded,wong yuen gim,730 commercial,1864,730,commercial,wong,ngun hen,wong,yuen gim,1864,26
+9495,1890,wong you way,native born,oceanic,"ricketts, alfred",remanded,wong yen gim,729 dupont,1863,729,dupont,wong,you way,wong,yen gim,1863,27
+9496,1890,wong bak hen,native born,oceanic,"ricketts, alfred",remanded,wong fon doop,719 commercial,1867,719,commercial,wong,bak hen,wong,fon doop,1867,23
+9497,1890,wong lee dock,native born,oceanic,"ricketts, alfred",remanded,wong ngow,927 dupont,1881,927,dupont,wong,lee dock,wong,ngow,1881,9
+9498,1890,hoo bor,native born,oceanic,"mowry, lyman",discharged,hoo dock mook,823 dupont,1868,823,dupont,hoo,bor,hoo,dock mook,1868,22
+9499,1890,hoo mah nuey,native born,oceanic,"mowry, lyman",discharged,hoo sam,810 dupont,1876,810,dupont,hoo,mah nuey,hoo,sam,1876,14
+9500,1890,lee foon,native born,oceanic,"blaney, edward w.",discharged,lee hing sum,728 dupont,1866,728,dupont,lee,foon,lee,hing sum,1866,24
+9501,1890,ng hing you,native born,city of rio de janeiro,"blaney, edward w.",remanded,ng hong,714 1/2 dupont,1868,714,1/2 dupont,ng,hing you,ng,hong,1868,22
+9502,1890,fong tsu keong,native born,city of rio de janeiro,"ricketts, alfred",remanded,fong gook yow,805 dupont,1869,805,dupont,fong,tsu keong,fong,gook yow,1869,21
+9503,1890,loui gooey han,native born,city of rio de janeiro,"ricketts, alfred",discharged,loui yuen tong,709 commercial,1869,709,commercial,loui,gooey han,loui,yuen tong,1869,21
+9504,1890,fong gow newy,native born,city of rio de janeiro,"ricketts, alfred",discharged,fong you leong,715 commercial,1867,715,commercial,fong,gow newy,fong,you leong,1867,23
+9505,1890,lee ah chong,native born,city of rio de janeiro,"ricketts, alfred",remanded,lee yow hock,812 dupont,1870,812,dupont,lee,ah chong,lee,yow hock,1870,20
+9506,1890,poon sin,native born,city of rio de janeiro,"mowry, lyman",discharged,pong chong,628 jackson,1864,628,jackson,poon,sin,pong,chong,1864,26
+9507,1890,chun chin,native born,city of rio de janeiro,"mowry, lyman",discharged,chun kai,1001 dupont,1865,1001,dupont,chun,chin,chun,kai,1865,25
+9508,1890,ng ack ou,native born,city of rio de janeiro,"mowry, lyman",discharged,ng chee chung,731 commercial,1862,731,commercial,ng,ack ou,ng,chee chung,1862,28
+9509,1890,wong ah mow,native born,city of rio de janeiro,"stranahan, f.e.",remanded,wong ah soon,820 dupont,,820,dupont,wong,ah mow,wong,ah soon,,
+9510,1890,moy ah teong,native born,city of rio de janeiro,"stranahan, f.e.",discharged,moy oy you,740 commercial,1866,740,commercial,moy,ah teong,moy,oy you,1866,24
+9511,1890,moy han ni,native born,city of rio de janeiro,"stranahan, f.e.",remanded,moy goey you,731 sacramento,1868,731,sacramento,moy,han ni,moy,goey you,1868,22
+9512,1890,tom ah sun,native born,city of rio de janeiro,"stranahan, f.e.",discharged,tom ming,712 dupont,1872,712,dupont,tom,ah sun,tom,ming,1872,18
+9513,1890,jee ah gong,native born,city of rio de janeiro,"riordan, thomas d",discharged,jee yooey song,742 commercial,1868,742,commercial,jee,ah gong,jee,yooey song,1868,22
+9514,1890,jee ah king,native born,city of rio de janeiro,"riordan, thomas d",discharged,jee ki pang,754 washington,1871,754,washington,jee,ah king,jee,ki pang,1871,19
+9515,1890,toy yow ton,native born,city of rio de janeiro,"riordan, thomas d",discharged,toy po yick,715 sacramento,1870,715,sacramento,toy,yow ton,toy,po yick,1870,20
+9518,1890,lee hay (female),native born,city of pueblo,"stranahan, f.e.",discharged,lee tin poy,714 dupont,1878,714,dupont,lee,hay (female),lee,tin poy,1878,12
+9519,1890,lee wah,native born,city of pueblo,"stranahan, f.e.",discharged,lee tin poy,714 dupont,1875,714,dupont,lee,wah,lee,tin poy,1875,15
+9520,1890,lee heong (female),native born,city of pueblo,"stranahan, f.e.",discharged,lee tin poy,714 dupont,1880,714,dupont,lee,heong (female),lee,tin poy,1880,10
+9521,1890,mar shair lock,native born,gaelic,"blaney, edward w.",discharged,mar sit gong,717 clay,1867,717,clay,mar,shair lock,mar,sit gong,1867,23
+9522,1890,gee ah fook,native born,gaelic,"blaney, edward w.",remanded,gee hoy suey,738 commercial,1866,738,commercial,gee,ah fook,gee,hoy suey,1866,24
+9523,1890,mar fat,native born,gaelic,"blaney, edward w.",remanded,mar bing dun,722 dupont,1868,722,dupont,mar,fat,mar,bing dun,1868,22
+9524,1890,wong ah sing,native born,gaelic,"blaney, edward w.",remanded,wong hen young,1001 dupont,1867,1001,dupont,wong,ah sing,wong,hen young,1867,23
+9525,1890,yorn ah thin,native born,gaelic,"ricketts, alfred",remanded,yorn bok loy,716 commercial,1869,716,commercial,yorn,ah thin,yorn,bok loy,1869,21
+9526,1890,wong ah haw,native born,gaelic,"ricketts, alfred",remanded,wong yuen lee,733 jackson,1871,733,jackson,wong,ah haw,wong,yuen lee,1871,19
+9527,1890,wong ah jum,native born,gaelic,"ricketts, alfred",discharged,wing yee chow,712 dupont,1869,712,dupont,wong,ah jum,wing,yee chow,1869,21
+9528,1890,liew ah doon,native born,gaelic,"ricketts, alfred",remanded,liew hock tan,615 jackson,1869,615,jackson,liew,ah doon,liew,hock tan,1869,21
+9529,1890,wong ah hoy,native born,gaelic,"ricketts, alfred",remanded,wong han fan,824 dupont,1881,824,dupont,wong,ah hoy,wong,han fan,1881,9
+9530,1890,wong tong sing,native born,gaelic,"ricketts, alfred",discharged,wong gang ai,835 dupont,1864,835,dupont,wong,tong sing,wong,gang ai,1864,26
+9531,1890,chew wing yort,native born,gaelic,"ricketts, alfred",discharged,chew man hin,622 jackson,1862,622,jackson,chew,wing yort,chew,man hin,1862,28
+9532,1890,jung ah my,native born,gaelic,"ricketts, alfred",remanded,jong chong tea,706 dupont,1869,706,dupont,jung,ah my,jong,chong tea,1869,21
+9533,1890,ng ah kee,native born,gaelic,"stranahan, f.e.",remanded,ng wing fung,714 commercial,1874,714,commercial,ng,ah kee,ng,wing fung,1874,16
+9534,1890,chin ah you,native born,gaelic,"stranahan, f.e.",remanded,chin soon yan,747 commercial,26,747,commercial,chin,ah you,chin,soon yan,1864,26
+9535,1890,lee ah kwong,native born,gaelic,"stranahan, f.e.",remanded,lee wah,706 sacramento,14,706,sacramento,lee,ah kwong,lee,wah,1876,14
+9536,1890,lee ah bit,native born,gaelic,"stranahan, f.e.",discharged,lee you,808 sacramento,16,808,sacramento,lee,ah bit,lee,you,1874,16
+9537,1890,ng ah ang,native born,gaelic,"stranahan, f.e.",remanded,ng hung han,712 dupont,22,712,dupont,ng,ah ang,ng,hung han,1868,22
+9538,1890,chin gin fook,native born,gaelic,"stranahan, f.e.",remanded,chin gee oy,754 washington,24,754,washington,chin,gin fook,chin,gee oy,1866,24
+9539,1890,dong dun chong,native born,gaelic,"stranahan, f.e.",discharged,dong yook yee,714 commercial,22,714,commercial,dong,dun chong,dong,yook yee,1868,22
+9540,1890,chin dong goey,native born,gaelic,"stranahan, f.e.",remanded,chin dong goey,737 sacramento,22,737,sacramento,chin,dong goey,chin,dong goey,1868,22
+9541,1890,chow ah poy,native born,gaelic,"stranahan, f.e.",remanded,chow sing,706 dupont,22,706,dupont,chow,ah poy,chow,sing,1868,22
+9542,1890,chow ah seong,native born,gaelic,"stranahan, f.e.",remanded,chow lum bing,704 dupont,20,704,dupont,chow,ah seong,chow,lum bing,1870,20
+9543,1890,lim ah young,native born,gaelic,"stranahan, f.e.",discharged,lim quong,754 washington,23,754,washington,lim,ah young,lim,quong,1867,23
+9544,1890,lee ah jing,native born,gaelic,"stranahan, f.e.",discharged,lee fook sing,700 jackson,16,700,jackson,lee,ah jing,lee,fook sing,1874,16
+9545,1890,ding loong hing,native born,gaelic,"stranahan, f.e.",discharged,ding dot yow,761 clay,1863,761,clay,ding,loong hing,ding,dot yow,1863,27
+9546,1890,lee sun,native born,gaelic,"stranahan, f.e.",discharged,lee hing,"eureka, california",1864,,,lee,sun,lee,hing,1864,26
+9547,1890,lum gang ho,native born,gaelic,"stranahan, f.e.",discharged,lum kee hing,"ventura, california",1869,,,lum,gang ho,lum,kee hing,1869,21
+9548,1890,yee bock hoy,native born,gaelic,"stranahan, f.e.",discharged,yee bock hoy,"globe hotel, san francisco",1870,,,yee,bock hoy,yee,bock hoy,1870,20
+9549,1890,loui dew,native born,gaelic,"mowry, lyman",discharged,loui hock yung,409 commercial,1870,409,commercial,loui,dew,loui,hock yung,1870,20
+9550,1890,jung toong woon,native born,gaelic,"mowry, lyman",remanded,jung sing mow,751 sacramento,1877,751,sacramento,jung,toong woon,jung,sing mow,1877,13
+9551,1890,lim ah nang,native born,gaelic,"mowry, lyman",remanded,lim bing fum,1001 dupont,1867,1001,dupont,lim,ah nang,lim,bing fum,1867,23
+9552,1890,mak ah heong,native born,gaelic,"riordan, thomas d",discharged,mak poo ting,729 commercial,1865,729,commercial,mak,ah heong,mak,poo ting,1865,25
+9553,1890,ang ngon sang,native born,gaelic,"riordan, thomas d",discharged,ang gong yit,709 commercial,1869,709,commercial,ang,ngon sang,ang,gong yit,1869,21
+9554,1890,wong ning yung,native born,gaelic,"riordan, thomas d",discharged,wong shoon goon,809 dupont,1870,809,dupont,wong,ning yung,wong,shoon goon,1870,20
+9555,1890,lim ah chee,native born,gaelic,"ricketts, alfred",remanded,lim wing gar,837 dupont,1869,837,dupont,lim,ah chee,lim,wing gar,1869,21
+9556,1890,wong ah woo,native born,gaelic,"ricketts, alfred",remanded,wong mee shee,712 dupont,1871,712,dupont,wong,ah woo,wong,mee shee,1871,19
+9557,1890,wong ah him,native born,gaelic,"ricketts, alfred",discharged,wong yee min,726 sacramento,1870,726,sacramento,wong,ah him,wong,yee min,1870,20
+9558,1890,wong ah hing,native born,gaelic,"ricketts, alfred",remanded,wong gwing toy,806 sacramento,1864,806,sacramento,wong,ah hing,wong,gwing toy,1864,26
+9559,1890,chin daok hack,native born,gaelic,"ricketts, alfred",remanded,chin bock shung,725 sacramento,1866,725,sacramento,chin,daok hack,chin,bock shung,1866,24
+9560,1890,look chick,native born,gaelic,"ricketts, alfred",remanded,look fong,709 commercial,1865,709,commercial,look,chick,look,fong,1865,25
+9561,1890,chin ah kee,native born,gaelic,"ricketts, alfred",remanded,chin mon,826 dupont,1875,826,dupont,chin,ah kee,chin,mon,1875,15
+9562,1890,chin kan,native born,gaelic,"ricketts, alfred",remanded,chin hoy,940 dupont,1867,940,dupont,chin,kan,chin,hoy,1867,23
+9563,1890,leong ah gap,native born,gaelic,"stranahan, f.e.",discharged,leong wing,709 commercial,1869,709,commercial,leong,ah gap,leong,wing,1869,21
+9564,1890,lim ah chee,native born,gaelic,"stranahan, f.e.",remanded,lin gin,709 dupont,1868,709,dupont,lim,ah chee,lin,gin,1868,22
+9565,1890,soo yow,native born,gaelic,"stranahan, f.e.",discharged,soo ming,"portland, oregon",1867,,,soo,yow,soo,ming,1867,23
+9566,1890,lim ah mun,native born,gaelic,"mowry, lyman",remanded,lim ack chow,627 dupont,1876,627,dupont,lim,ah mun,lim,ack chow,1876,14
+9567,1890,chung wen soo,native born,gaelic,"schaertzer, henry c.",remanded,jeong ah yuen,new york,1874,,,chung,wen soo,jeong,ah yuen,1874,16
+9568,1890,ng park wing,native born,gaelic,"stranahan, f.e.",remanded,ng kew foo,743 commercial,1869,743,commercial,ng,park wing,ng,kew foo,1869,21
+9569,1890,lew lum quong,native born,gaelic,"stranahan, f.e.",discharged,lew fook,"sacramento, california",1865,,,lew,lum quong,lew,fook,1865,25
+9570,1890,jew yin leung,native born,gaelic,"stranahan, f.e.",discharged,jew kee gong,751 sacramento,1867,751,sacramento,jew,yin leung,jew,kee gong,1867,23
+9571,1890,jow leong,native born,gaelic,"stranahan, f.e.",discharged,jow yin chong,771 clay,1865,771,clay,jow,leong,jow,yin chong,1865,25
+9572,1890,gee yung dock,native born,gaelic,"riordan, thomas d",remanded,gee wong wy,625 jackson,1869,625,jackson,gee,yung dock,gee,wong wy,1869,21
+9573,1890,loui gooey hor,native born,gaelic,"riordan, thomas d",discharged,loui wee fong,739 sacramento,1868,739,sacramento,loui,gooey hor,loui,wee fong,1868,22
+9574,1890,wah hee,native born,gaelic,"schaertzer, henry c.",remanded,jue dun we,761 clay,1877,761,clay,wah,hee,jue,dun we,1877,13
+9575,1890,jue ga tin,native born,gaelic,"schaertzer, henry c.",remanded,jue lung duck,clay street,1869,,,jue,ga tin,jue,lung duck,1869,21
+9576,1890,jue mow dock,native born,gaelic,"schaertzer, henry c.",discharged,jue gong seung,731 jackson,1877,731,jackson,jue,mow dock,jue,gong seung,1877,13
+9577,1890,hom wing,native born,gaelic,"stranahan, f.e.",remanded,hom yue ting,717 commercial,1864,717,commercial,hom,wing,hom,yue ting,1864,26
+9578,1890,chin quock,native born,gaelic,"stranahan, f.e.",remanded,chin cheung,826 dupont,1868,826,dupont,chin,quock,chin,cheung,1868,22
+9579,1890,yee wing dung,native born,gaelic,"stranahan, f.e.",remanded,yee bue yook,936 dupont,,936,dupont,yee,wing dung,yee,bue yook,,
+9580,1890,yee pong,native born,gaelic,"stranahan, f.e.",discharged,yee let jeong,712 dupont,1874,712,dupont,yee,pong,yee,let jeong,1874,16
+9581,1890,lum poon,native born,china,"riordan, thomas d",discharged,lep yow,"oakland, california",,,,lum,poon,lep,yow,,
+9582,1890,soo hoo yot sue,native born,china,"riordan, thomas d",discharged,soo hoo nee wah,800 dupont,1878,800,dupont,soo,hoo yot sue,soo,hoo nee wah,1878,12
+9583,1890,jee sue din,native born,china,"riordan, thomas d",discharged,gee goon que,873 dupont,1868,873,dupont,jee,sue din,gee,goon que,1868,22
+9584,1890,gee foong hock,native born,china,"riordan, thomas d",discharged,gee kee gooey,763 clay,1872,763,clay,gee,foong hock,gee,kee gooey,1872,18
+9585,1890,gee king gong,native born,china,"riordan, thomas d",discharged,gee gong que,812 dupont,1875,812,dupont,gee,king gong,gee,gong que,1875,15
+9586,1890,yee you mong,native born,china,"riordan, thomas d",discharged,yee doon ow,721 dupont,1877,721,dupont,yee,you mong,yee,doon ow,1877,13
+9587,1890,moy see jung,native born,china,"riordan, thomas d",discharged,woy wy yuen,743 commercial,1873,743,commercial,moy,see jung,woy,wy yuen,1873,17
+9588,1890,wong ah quong,native born,china,"blaney, edward w.",discharged,wong teng ying,818 dupont,1867,818,dupont,wong,ah quong,wong,teng ying,1867,23
+9589,1890,mar ah goon,native born,china,"blaney, edward w.",discharged,mar moon hen,707 jackson,1874,707,jackson,mar,ah goon,mar,moon hen,1874,16
+9590,1890,wong ah hoy,native born,china,"blaney, edward w.",discharged,wong wing yuen,769 clay,1870,769,clay,wong,ah hoy,wong,wing yuen,1870,20
+9591,1890,ng ah ling,native born,china,"blaney, edward w.",discharged,ng wah foon,639 jackson,1868,639,jackson,ng,ah ling,ng,wah foon,1868,22
+9592,1890,leong ah sing,native born,china,"ricketts, alfred",remanded,leong bong tow,724 commercial,1868,724,commercial,leong,ah sing,leong,bong tow,1868,22
+9593,1890,dong yick,native born,china,"ricketts, alfred",discharged,dong gay leong,1017 dupont,1863,1017,dupont,dong,yick,dong,gay leong,1863,27
+9594,1890,leong horn toon,native born,china,"ricketts, alfred",remanded,leong share nowy,801 dupont,1869,801,dupont,leong,horn toon,leong,share nowy,1869,21
+9595,1890,wong ah ock,native born,china,"ricketts, alfred",remanded,wong nguey yow,724 dupont,1870,724,dupont,wong,ah ock,wong,nguey yow,1870,20
+9596,1890,you buck,native born,china,"ricketts, alfred",remanded,yow yuen hai,746 commercial,1868,746,commercial,you,buck,yow,yuen hai,1868,22
+9597,1890,jung mar how,native born,china,"ricketts, alfred",remanded,joong sing,719 sacramento,1872,719,sacramento,jung,mar how,joong,sing,1872,18
+9598,1890,wong you kee,native born,china,"ricketts, alfred",remanded,wong gwong,707 dupont,1871,707,dupont,wong,you kee,wong,gwong,1871,19
+9599,1890,you ick,native born,china,"ricketts, alfred",remanded,you mun hing,712 dupont,1872,712,dupont,you,ick,you,mun hing,1872,18
+9600,1890,chin leong,native born,china,"ricketts, alfred",discharged,chin gow war,826 dupont,1875,826,dupont,chin,leong,chin,gow war,1875,15
+9601,1890,chin chee foon,native born,china,"ricketts, alfred",discharged,chin ngin,727 sacramento,1872,727,sacramento,chin,chee foon,chin,ngin,1872,18
+9602,1890,lew horn jun,native born,china,"ricketts, alfred",remanded,lew yet hing,716 dupont,1870,716,dupont,lew,horn jun,lew,yet hing,1870,20
+9603,1890,chun dock yow,native born,china,"stranahan, f.e.",remanded,chun sing,819 dupont,1867,819,dupont,chun,dock yow,chun,sing,1867,23
+9604,1890,lim noey dong,native born,china,"stranahan, f.e.",discharged,lim gim,735 washington,1865,735,washington,lim,noey dong,lim,gim,1865,25
+9605,1890,gin leong leow,native born,china,"stranahan, f.e.",discharged,gin yin hing,842 dupont,1866,842,dupont,gin,leong leow,gin,yin hing,1866,24
+9606,1890,young teong,native born,china,"stranahan, f.e.",remanded,young quong witt,"portland, oregon",1867,,,young,teong,young,quong witt,1867,23
+9607,1890,young chung nuey,native born,china,"stranahan, f.e.",discharged,young quong,823 1/2 washington,1865,823,1/2 washington,young,chung nuey,young,quong,1865,25
+9608,1890,yee ging lee,native born,china,"stranahan, f.e.",remanded,yee hing jung,639 jackson,1866,639,jackson,yee,ging lee,yee,hing jung,1866,24
+9609,1890,lee gum jing,native born,china,"stranahan, f.e.",discharged,lee wee,729 sacramento,1876,729,sacramento,lee,gum jing,lee,wee,1876,14
+9610,1890,young lin,native born,china,"stranahan, f.e.",petition dead,young yick mai,716 pacific,1864,716,pacific,young,lin,young,yick mai,1864,26
+9611,1890,young gim,native born,china,"stranahan, f.e.",remanded appealed to circuit court,young yin sing,731 sacramento,1866,731,sacramento,young,gim,young,yin sing,1866,24
+9612,1890,wong wa foo,native born,china,"mowry, lyman",remanded,wong bak chung,1001 dupont,1866,1001,dupont,wong,wa foo,wong,bak chung,1866,24
+9613,1890,jung fat cheong,native born,china,"mowry, lyman",remanded,jung bing chaek,728 dupont,1866,728,dupont,jung,fat cheong,jung,bing chaek,1866,24
+9614,1890,ho yong (female),native born,china,"mowry, lyman",discharged,ho wing hung,737 washington,1868,737,washington,ho,yong (female),ho,wing hung,1868,22
+9615,1890,ng toy hing,native born,china,"mowry, lyman",remanded,ng ping on,728 dupont,1866,728,dupont,ng,toy hing,ng,ping on,1866,24
+9616,1890,wong lim ack,native born,china,"mowry, lyman",remanded,wong tsz dewey,728 dupont,1867,728,dupont,wong,lim ack,wong,tsz dewey,1867,23
+9617,1890,lum suey cheong,native born,china,"mowry, lyman",remanded,lum one gum,1008 dupont,1877,1008,dupont,lum,suey cheong,lum,one gum,1877,13
+9618,1890,look jim yin,native born,china,"mowry, lyman",discharged,look shear dy,nw corner jackson and dupont,1875,,,look,jim yin,look,shear dy,1875,15
+9619,1890,look hay sing,native born,china,"mowry, lyman",discharged,look shear dy,nw corner jackson and dupont,1874,,,look,hay sing,look,shear dy,1874,16
+9620,1890,yee ah moy,native born,china,"mowry, lyman",discharged,yee lin din,"red bluff, tehama county, california",1866,,,yee,ah moy,yee,lin din,1866,24
+9621,1890,tom ping leaum,native born,china,"mowry, lyman",discharged,tom aw foon,836 dupont,1868,836,dupont,tom,ping leaum,tom,aw foon,1868,22
+9622,1890,leong chow on,native born,china,"mowry, lyman",discharged,leong ack,"marysville, yuba county, california",1865,,,leong,chow on,leong,ack,1865,25
+9623,1890,wong quoon sin,native born,china,"mowry, lyman",discharged,wong shoon,"red bluff, tehama county, california",1869,,,wong,quoon sin,wong,shoon,1869,21
+9624,1890,lee tong jew,native born,china,"mowry, lyman",discharged,lee foo,"marysville, yuba county, california",1864,,,lee,tong jew,lee,foo,1864,26
+9625,1890,soo hoo ack lin,native born,china,"mowry, lyman",petition dead,loo hoo kwy,822 dupont,1867,822,dupont,soo,hoo ack lin,loo,hoo kwy,1867,23
+9626,1890,chin ah wing,native born,china,"stranahan, f.e.",remanded,chin sai dong,714 commercial,1868,714,commercial,chin,ah wing,chin,sai dong,1868,22
+9627,1890,wong ah toon,native born,china,"stranahan, f.e.",discharged,wong shew,731 sacramento,1869,731,sacramento,wong,ah toon,wong,shew,1869,21
+9628,1890,gee ah kee,native born,china,"stranahan, f.e.",discharged,gee yuey bew,823 dupont,1876,823,dupont,gee,ah kee,gee,yuey bew,1876,14
+9629,1890,hom tung you,native born,china,"stranahan, f.e.",remanded,hom ing jew,816 dupont,1871,816,dupont,hom,tung you,hom,ing jew,1871,19
+9630,1890,look ah jow,native born,china,"stranahan, f.e.",remanded,look yee suey,1000 dupont,1869,1000,dupont,look,ah jow,look,yee suey,1869,21
+9631,1890,dea toy tung,native born,china,"stranahan, f.e.",remanded,dea koey jew,754 washington,1878,754,washington,dea,toy tung,dea,koey jew,1878,12
+9632,1890,hom ah tow,native born,china,"stranahan, f.e.",discharged,hom ging kin,728 dupont,1872,728,dupont,hom,ah tow,hom,ging kin,1872,18
+9633,1890,jow bock ling,native born,china,"stranahan, f.e.",remanded,jow you on,728 dupont,1869,728,dupont,jow,bock ling,jow,you on,1869,21
+9634,1890,chin ying goon,native born,china,"stranahan, f.e.",discharged,chin fook,742 commercial,1864,742,commercial,chin,ying goon,chin,fook,1864,26
+9635,1890,chin ah quon,native born,china,"stranahan, f.e.",remanded,chin gee yin,710 commercial,1871,710,commercial,chin,ah quon,chin,gee yin,1871,19
+9636,1890,ang chew ung,native born,china,"stranahan, f.e.",remanded,ang gip koon,701 dupont,1871,701,dupont,ang,chew ung,ang,gip koon,1871,19
+9637,1890,leow ah gee,native born,china,"stranahan, f.e.",remanded,leow chock shin,712 dupont,1865,712,dupont,leow,ah gee,leow,chock shin,1865,25
+9638,1890,jow chew gin,native born,china,"stranahan, f.e.",remanded,jow sing wo,639 jackson,1865,639,jackson,jow,chew gin,jow,sing wo,1865,25
+9639,1890,lee wee chew,native born,china,"stranahan, f.e.",remanded,lee gep chooey,712 dupont,1870,712,dupont,lee,wee chew,lee,gep chooey,1870,20
+9640,1890,chin ah wee,native born,china,"stranahan, f.e.",remanded,chin moon foo,845 dupont,1868,845,dupont,chin,ah wee,chin,moon foo,1868,22
+9641,1890,wong ah quan,native born,china,"stranahan, f.e.",remanded,wong ging moon,843 washington,1869,843,washington,wong,ah quan,wong,ging moon,1869,21
+9642,1890,chin ah hing,native born,china,"stranahan, f.e.",remanded,chin shoon hop,737 sacramento,1869,737,sacramento,chin,ah hing,chin,shoon hop,1869,21
+9643,1890,him ah doon,native born,china,"stranahan, f.e.",discharged,hom ging chee,711 commercial,1871,711,commercial,him,ah doon,hom,ging chee,1871,19
+9644,1890,ang ah fong,native born,china,"stranahan, f.e.",remanded,ang moon quong,625 dupont,1872,625,dupont,ang,ah fong,ang,moon quong,1872,18
+9645,1890,quon quock lai,native born,china,"stranahan, f.e.",discharged,quan ging yow,nw corner dupont and washington,1867,,,quon,quock lai,quan,ging yow,1867,23
+9646,1890,loui ping nom,native born,china,"stranahan, f.e.",remanded,loui gim yin,728 dupont,1867,728,dupont,loui,ping nom,loui,gim yin,1867,23
+9647,1890,dong li,native born,china,"riordan, thomas d",discharged,dong yook,627 dupont,1867,627,dupont,dong,li,dong,yook,1867,23
+9648,1890,yee noon jung or joong,native born,china,"riordan, thomas d",remanded,yee quee jung,714 sacramento,1869,714,sacramento,yee,noon jung or joong,yee,quee jung,1869,21
+9649,1890,yee dung,native born,china,"riordan, thomas d",remanded,yee shie jung,730 sacramento,1869,730,sacramento,yee,dung,yee,shie jung,1869,21
+9650,1890,yee him wah,native born,china,"riordan, thomas d",,yee don jung,751 sacramento,1867,751,sacramento,yee,him wah,yee,don jung,1867,23
+9651,1890,yee yee shung,native born,china,"riordan, thomas d",,yee ling beow,751 sacramento,1861,751,sacramento,yee,yee shung,yee,ling beow,1861,29
+9652,1890,yee yee wing,native born,china,"riordan, thomas d",,yee leong jung,716 dupont,1865,716,dupont,yee,yee wing,yee,leong jung,1865,25
+9653,1890,yee gim jung,native born,china,"riordan, thomas d",discharged,yee beow ding,630 dupont,1860,630,dupont,yee,gim jung,yee,beow ding,1860,30
+9654,1890,yee foon,native born,china,"riordan, thomas d",,yee chee jung,936 dupont,1869,936,dupont,yee,foon,yee,chee jung,1869,21
+9655,1890,hom wah,native born,china,"riordan, thomas d",remanded,hom wah,745 sacramento,1865,745,sacramento,hom,wah,hom,wah,1865,25
+9656,1890,soo hoo how,native born,china,"riordan, thomas d",discharged,soo hoo mun geong,723 sacramento,1866,723,sacramento,soo,hoo how,soo,hoo mun geong,1866,24
+9657,1890,yee ngoon,native born,china,"riordan, thomas d",discharged,yee toy jung,842 dupont,1866,842,dupont,yee,ngoon,yee,toy jung,1866,24
+9658,1890,toy ah geong,native born,china,"stranahan, f.e.",writ returned,toy yick ngow,625 dupont,1875,625,dupont,toy,ah geong,toy,yick ngow,1875,15
+9659,1890,toy ah foon,native born,china,"stranahan, f.e.",writ returned,toy quong yick,900 dupont,1875,900,dupont,toy,ah foon,toy,quong yick,1875,15
+9660,1890,loui hung yin,native born,belgic,"mowry, lyman",remanded,loui way yun,"san jose, california",1872,,,loui,hung yin,loui,way yun,1872,18
+9661,1890,yee jeuck,native born,belgic,"mowry, lyman",discharged,yee hip foon,"virginia city, nevada",1872,,,yee,jeuck,yee,hip foon,1872,18
+9662,1890,wong ben heom,native born,belgic,"ricketts, alfred",discharged,wong len bow,823 dupont,1877,823,dupont,wong,ben heom,wong,len bow,1877,13
+9663,1890,jow ah hong,native born,belgic,"ricketts, alfred",remanded,jow gaow,714 dupont,1868,714,dupont,jow,ah hong,jow,gaow,1868,22
+9664,1890,liew mun dock,native born,belgic,"ricketts, alfred",remanded,liew way ben,847 dupont,1867,847,dupont,liew,mun dock,liew,way ben,1867,23
+9665,1890,wong yuen,native born,belgic,"ricketts, alfred",remanded,wong win ock,318 commercial,1876,318,commercial,wong,yuen,wong,win ock,1876,14
+9666,1890,wong ah toy,native born,belgic,"ricketts, alfred",remanded,wong lung fook,"sacramento, california",1873,,,wong,ah toy,wong,lung fook,1873,17
+9667,1890,ng ah dock,native born,belgic,"ricketts, alfred",remanded,ng hung gip,725 dupont,1867,725,dupont,ng,ah dock,ng,hung gip,1867,23
+9668,1890,jin mee yow,native born,belgic,"ricketts, alfred",remanded,jin wing git,823 dupont,1868,823,dupont,jin,mee yow,jin,wing git,1868,22
+9669,1890,fong wing heom,native born,belgic,"ricketts, alfred",discharged,fong gar poy,751 sacramento,1869,751,sacramento,fong,wing heom,fong,gar poy,1869,21
+9670,1890,lee mun tong,native born,belgic,"ricketts, alfred",remanded,lee lung ai,806 washington,1866,806,washington,lee,mun tong,lee,lung ai,1866,24
+9671,1890,jin ah jow,native born,belgic,"ricketts, alfred",remanded,jin wing jun,615 1/2 jackson,1868,615,1/2 jackson,jin,ah jow,jin,wing jun,1868,22
+9672,1890,wong ah gwong,native born,belgic,"ricketts, alfred",remanded,wong mow chung,644 commercial,1875,644,commercial,wong,ah gwong,wong,mow chung,1875,15
+9673,1890,quan ah yuen,native born,belgic,"ricketts, alfred",remanded,quan quock que,806 washington,1873,806,washington,quan,ah yuen,quan,quock que,1873,17
+9674,1890,jin ah ock,native born,belgic,"ricketts, alfred",remanded,jin wing ping,639 jackson,1872,639,jackson,jin,ah ock,jin,wing ping,1872,18
+9675,1890,jin sing teong,native born,belgic,"ricketts, alfred",remanded,jin yick lip,739 commercial,1870,739,commercial,jin,sing teong,jin,yick lip,1870,20
+9676,1890,fong ah man,native born,belgic,"ricketts, alfred",remanded,fong jow toy,728 dupont,1869,728,dupont,fong,ah man,fong,jow toy,1869,21
+9677,1890,yorn ah fat,native born,belgic,"ricketts, alfred",remanded,yorn fong wah,722 dupont,1869,722,dupont,yorn,ah fat,yorn,fong wah,1869,21
+9678,1890,lim ah hop,native born,belgic,"mowry, lyman",petition dead,lim ack fon,714 dupont,1867,714,dupont,lim,ah hop,lim,ack fon,1867,23
+9679,1890,fong jow hin,native born,belgic,"mowry, lyman",petition dead,fong schuck,741 commercial,1868,741,commercial,fong,jow hin,fong,schuck,1868,22
+9680,1890,wong lun schuck,native born,belgic,"mowry, lyman",remanded,wong shear nuey,728 dupont,1865,728,dupont,wong,lun schuck,wong,shear nuey,1865,25
+9681,1890,wong gooey toy,native born,belgic,"mowry, lyman",remanded,wong yut gong,728 dupont,1865,728,dupont,wong,gooey toy,wong,yut gong,1865,25
+9682,1890,wong hen suey,native born,belgic,"ricketts, alfred",discharged,wing wah jung,726 dupont,1877,726,dupont,wong,hen suey,wing,wah jung,1877,13
+9683,1890,lee poon ngip,native born,belgic,"riordan, thomas d",discharged,lee dot ying,730 sacramento,1866,730,sacramento,lee,poon ngip,lee,dot ying,1866,24
+9684,1890,yee yook jung,native born,belgic,"riordan, thomas d",discharged,yee hee poy,"marysville, yuba county, california",1862,,,yee,yook jung,yee,hee poy,1862,28
+9685,1890,yin ah chut,native born,belgic,"riordan, thomas d",discharged,ying ing gum,900 dupont,1865,900,dupont,yin,ah chut,ying,ing gum,1865,25
+9686,1890,leong gwong ho,native born,belgic,"riordan, thomas d",remanded,leong ho foo,"sacramento, california",1874,,,leong,gwong ho,leong,ho foo,1874,16
+9687,1890,young shew bun,native born,belgic,"riordan, thomas d",discharged,young chow,689 jackson,1866,689,jackson,young,shew bun,young,chow,1866,24
+9688,1890,loui ah git,native born,belgic,"riordan, thomas d",remanded,loui hin choy,702 jackson,1862,702,jackson,loui,ah git,loui,hin choy,1862,28
+9689,1890,jang moo chun,native born,belgic,"riordan, thomas d",discharged,tang wy,1018 1/2 stockton,1872,1018,1/2 stockton,jang,moo chun,tang,wy,1872,18
+9690,1890,hom wing din,native born,belgic,"riordan, thomas d",discharged,hom ock goon,812 dupont,1874,812,dupont,hom,wing din,hom,ock goon,1874,16
+9691,1890,hom gim wing,native born,belgic,"riordan, thomas d",discharged,hom moon jung,820 washington,1874,820,washington,hom,gim wing,hom,moon jung,1874,16
+9692,1890,jee ho hing,native born,belgic,"riordan, thomas d",discharged,jee kee sue,728 dupont,1876,728,dupont,jee,ho hing,jee,kee sue,1876,14
+9693,1890,young ah chin,native born,belgic,"riordan, thomas d",discharged,lee pow,754 washington,1886,754,washington,young,ah chin,lee,pow,1886,4
+9694,1890,leong hing gee,native born,belgic,"stranahan, f.e.",remanded,leong wo,730 sacramento,1866,730,sacramento,leong,hing gee,leong,wo,1866,24
+9695,1890,fong gwock sing,native born,belgic,"stranahan, f.e.",remanded,fong chong,724 commercial,1866,724,commercial,fong,gwock sing,fong,chong,1866,24
+9696,1890,hom tai sing,native born,belgic,"stranahan, f.e.",remanded,hom hee gim,620 dupont,1875,620,dupont,hom,tai sing,hom,hee gim,1875,15
+9697,1890,hom wing ock,native born,belgic,"stranahan, f.e.",remanded,hom ah gun,745 sacramento,1868,745,sacramento,hom,wing ock,hom,ah gun,1868,22
+9698,1890,hom sue don,native born,belgic,"stranahan, f.e.",remanded,hom hee seong,721 commercial,1863,721,commercial,hom,sue don,hom,hee seong,1863,27
+9699,1890,hom jeong,native born,belgic,"stranahan, f.e.",remanded,hom hung sing,627 dupont,1866,627,dupont,hom,jeong,hom,hung sing,1866,24
+9700,1890,lee ah look,native born,belgic,"stranahan, f.e.",remanded,lee sue,826 dupont,1871,826,dupont,lee,ah look,lee,sue,1871,19
+9701,1890,chin quan gin,native born,belgic,"stranahan, f.e.",remanded,chin ock loy,714 1/2 dupont,1870,714,1/2 dupont,chin,quan gin,chin,ock loy,1870,20
+9702,1890,chin ah quong,native born,belgic,"stranahan, f.e.",remanded,chin ai moon,754 washington,1869,754,washington,chin,ah quong,chin,ai moon,1869,21
+9703,1890,loui ah wee,native born,belgic,"stranahan, f.e.",remanded,loui hock fee,735 sacramento,1869,735,sacramento,loui,ah wee,loui,hock fee,1869,21
+9704,1890,gin wing king,native born,belgic,"stranahan, f.e.",discharged,gin chung hay,842 dupont,1869,842,dupont,gin,wing king,gin,chung hay,1869,21
+9705,1890,hoot ah toy,native born,belgic,"stranahan, f.e.",remanded,hoot gin,806 washington,1871,806,washington,hoot,ah toy,hoot,gin,1871,19
+9706,1890,chin ah gin,native born,belgic,"stranahan, f.e.",discharged,chin moon gick,717 clay,1870,717,clay,chin,ah gin,chin,moon gick,1870,20
+9707,1890,chin hung goon,native born,belgic,"stranahan, f.e.",discharged,chin foon gee,712 dupont,1875,712,dupont,chin,hung goon,chin,foon gee,1875,15
+9708,1890,chin wah ying,native born,belgic,"stranahan, f.e.",remanded,chin song hock,1001 dupont,1871,1001,dupont,chin,wah ying,chin,song hock,1871,19
+9709,1890,chin ung jung,native born,belgic,"stranahan, f.e.",remanded,chin tang,739 commercial,1871,739,commercial,chin,ung jung,chin,tang,1871,19
+9710,1890,chin tai fook,native born,belgic,"stranahan, f.e.",remanded,chin quong dang,724 commercial,1869,724,commercial,chin,tai fook,chin,quong dang,1869,21
+9711,1890,chin koon how,native born,belgic,"stranahan, f.e.",remanded,chin ying wah,704 dupont,1871,704,dupont,chin,koon how,chin,ying wah,1871,19
+9712,1890,hang chee fook,native born,belgic,"stranahan, f.e.",remanded,hong fong goon,823 dupont,1866,823,dupont,hang,chee fook,hong,fong goon,1866,24
+9713,1890,lee ah hung,native born,belgic,"stranahan, f.e.",remanded,lee fook on,722 sacramento,1871,722,sacramento,lee,ah hung,lee,fook on,1871,19
+9714,1890,lee ah see,native born,belgic,"stranahan, f.e.",remanded,lee wing,819 dupont,1873,819,dupont,lee,ah see,lee,wing,1873,17
+9715,1890,lee hung see,native born,belgic,"stranahan, f.e.",remanded,lee sic kwong,"chico, california",1876,,,lee,hung see,lee,sic kwong,1876,14
+9716,1890,tow ling teong,native born,belgic,"stranahan, f.e.",remanded,tow foo yee,735 sacramento,1871,735,sacramento,tow,ling teong,tow,foo yee,1871,19
+9717,1890,fong ah toon,native born,belgic,"mowry, lyman",remanded,fong chuey yin,ne corner dupont and jackson,,,,fong,ah toon,fong,chuey yin,,
+9718,1890,chin ah poy,native born,belgic,"mowry, lyman",remanded,chin gee you,corner dupont andjackson,1867,,,chin,ah poy,chin,gee you,1867,23
+9719,1890,wong ah hong,native born,belgic,"mowry, lyman",petition and writ dismissed,wong ng ack,sacramento and dupont,1866,,,wong,ah hong,wong,ng ack,1866,24
+9720,1890,chan chung mun,native born,belgic,"mowry, lyman",discharged,chun ying hew,714 jackson,1871,714,jackson,chan,chung mun,chun,ying hew,1871,19
+9721,1890,wong ah hee (female),native born,belgic,"riordan, thomas d",discharged,huan ang gee,836 dupont,1869,836,dupont,wong,ah hee (female),huan,ang gee,1869,21
+9722,1890,mon chew kook (female),native born,belgic,"riordan, thomas d",discharged,mar chew man,722 dupont,1880,722,dupont,mon,chew kook (female),mar,chew man,1880,10
+9723,1890,mar chew ling (female),native born,belgic,"riordan, thomas d",discharged,mar chew man,722 dupont,1869,722,dupont,mar,chew ling (female),mar,chew man,1869,21
+9724,1890,gim jung chun,native born,belgic,"riordan, thomas d",discharged,gim mut,"gold hill, california",1865,,,gim,jung chun,gim,mut,1865,25
+9725,1890,lum chow sare,native born,belgic,"riordan, thomas d",discharged,lum mun kee,"ventura county, california",1876,,,lum,chow sare,lum,mun kee,1876,14
+9726,1890,wong ah poy,native born,belgic,"riordan, thomas d",remanded,wong gut,1003 dupont,1872,1003,dupont,wong,ah poy,wong,gut,1872,18
+9727,1890,lew di kong,native born,belgic,"riordan, thomas d",discharged,lew doc min,810 1/2 dupont,1868,810,1/2 dupont,lew,di kong,lew,doc min,1868,22
+9728,1890,lin see moy,native born,belgic,"riordan, thomas d",discharged,lin bow,900 dupont,1876,900,dupont,lin,see moy,lin,bow,1876,14
+9729,1890,quock jee chong,native born,belgic,"riordan, thomas d",remanded,quock gow,826 dupont,1863,826,dupont,quock,jee chong,quock,gow,1863,27
+9730,1890,lee suey chung,native born,belgic,"blaney, edward w.",remanded,lee chow foon,620 dupont,1868,620,dupont,lee,suey chung,lee,chow foon,1868,22
+9731,1890,lee foo,native born,belgic,"blaney, edward w.",discharged,lee fee,718 commercial,1865,718,commercial,lee,foo,lee,fee,1865,25
+9732,1890,choy fook,native born,belgic,"stranahan, f.e.",discharged,choy jit yick,714 dupont,1877,714,dupont,choy,fook,choy,jit yick,1877,13
+9733,1890,choy lung,native born,belgic,"stranahan, f.e.",discharged,chow gow yick,900 dupont,1875,900,dupont,choy,lung,chow,gow yick,1875,15
+9734,1890,chin goey fook,native born,belgic,"stranahan, f.e.",remanded,chin ying hing,625 dupont,1869,625,dupont,chin,goey fook,chin,ying hing,1869,21
+9735,1890,dong toy,native born,belgic,"lande, edward",discharged,dong moon chow,sw corner jackson and dupont,1869,,,dong,toy,dong,moon chow,1869,21
+9736,1890,gee jung ken,native born,belgic,"lande, edward",discharged,gee fong gow,747 sacramento,1870,747,sacramento,gee,jung ken,gee,fong gow,1870,20
+9737,1890,lee gow,native born,belgic,"mowry, lyman",discharged,lee lean,909 dupont,1867,909,dupont,lee,gow,lee,lean,1867,23
+9738,1890,ching ah hin,native born,city of peking,"mowry, lyman",remanded,ching ging lew,1000 stockton,1872,1000,stockton,ching,ah hin,ching,ging lew,1872,18
+9739,1890,jew sing toy (female),native born,city of peking,"ricketts, alfred",discharged,jew jin bue,708 dupont,1877,708,dupont,jew,sing toy (female),jew,jin bue,1877,13
+9740,1890,wong suey gaow (female),native born,city of peking,"ricketts, alfred",discharged,wong chung,"los angeles, california",1885,,,wong,suey gaow (female),wong,chung,1885,5
+9741,1890,wong ow how (female),native born,city of peking,"ricketts, alfred",discharged,wong lun mow,624 1/2 jackson,1880,624,1/2 jackson,wong,ow how (female),wong,lun mow,1880,10
+9742,1890,jow ah sir,native born,city of peking,"mowry, lyman",discharged,jow tai chung,"marysville, yuba county, california",1863,,,jow,ah sir,jow,tai chung,1863,27
+9743,1890,jow wah,native born,city of peking,"mowry, lyman",discharged,jow yun,"colusa, california",1864,,,jow,wah,jow,yun,1864,26
+9744,1890,lee ah yuen,native born,city of peking,"ricketts, alfred",remanded,lee yin quong,900 dupont,1866,900,dupont,lee,ah yuen,lee,yin quong,1866,24
+9745,1890,yung ah man,native born,city of peking,"ricketts, alfred",remanded,yung you chooey,735 clay,1868,735,clay,yung,ah man,yung,you chooey,1868,22
+9746,1890,ng ah hoy,native born,city of peking,"ricketts, alfred",remanded,ng jin han,769 clay,1867,769,clay,ng,ah hoy,ng,jin han,1867,23
+9747,1890,ng do yum,native born,city of peking,"ricketts, alfred",remanded,ng jung,715 commercial,1876,715,commercial,ng,do yum,ng,jung,1876,14
+9748,1890,hom ah sing,native born,city of peking,"ricketts, alfred",remanded,hom or fang,"reno, nevada",1868,,,hom,ah sing,hom,or fang,1868,22
+9749,1890,hom ah din,native born,city of peking,"ricketts, alfred",remanded,hom toy,614 jackson,1867,614,jackson,hom,ah din,hom,toy,1867,23
+9750,1890,woo fook shew,native born,city of peking,"riordan, thomas d",remanded,woo dow chung,714 dupont,1868,714,dupont,woo,fook shew,woo,dow chung,1868,22
+9751,1890,woo qwock wing,native born,city of peking,"riordan, thomas d",remanded,woo lee chung,807 sacramento,1865,807,sacramento,woo,qwock wing,woo,lee chung,1865,25
+9752,1890,yee mon hee,native born,city of peking,"riordan, thomas d",discharged,yee moon jung,826 dupont,1872,826,dupont,yee,mon hee,yee,moon jung,1872,18
+9753,1890,yee foong choon,native born,city of peking,"riordan, thomas d",discharged,yee li yew,830 washington,1873,830,washington,yee,foong choon,yee,li yew,1873,17
+9754,1890,yee moo ng,native born,city of peking,"riordan, thomas d",remanded,yee mon jung,728 sacramento,1865,728,sacramento,yee,moo ng,yee,mon jung,1865,25
+9755,1890,lo mon dew,native born,city of peking,"riordan, thomas d",remanded,lo hin yee,809 dupont,1867,809,dupont,lo,mon dew,lo,hin yee,1867,23
+9756,1890,jee my art,native born,city of peking,"riordan, thomas d",remanded,jee wing on,823 dupont,1866,823,dupont,jee,my art,jee,wing on,1866,24
+9757,1890,yee fook yee,native born,city of peking,"riordan, thomas d",discharged,yee yen dung,708 sacramento,1862,708,sacramento,yee,fook yee,yee,yen dung,1862,28
+9758,1890,tooey tai lock,native born,city of peking,"riordan, thomas d",remanded,tooey born gin,806 washington,1868,806,washington,tooey,tai lock,tooey,born gin,1868,22
+9759,1890,wong bing gong,native born,city of peking,"riordan, thomas d",remanded,wong fung chut,"weaverville, california",1865,,,wong,bing gong,wong,fung chut,1865,25
+9760,1890,mar goon sing,native born,city of peking,"riordan, thomas d",remanded,mar ho yen,1004 1/2 dupont,1873,1004,1/2 dupont,mar,goon sing,mar,ho yen,1873,17
+9761,1890,soo foo toon go,native born,city of peking,"riordan, thomas d",remanded,soo too doo ling,750 washington,1872,750,washington,soo,foo toon go,soo,too doo ling,1872,18
+9762,1890,yee fook soon,native born,city of peking,"riordan, thomas d",remanded,yee york jung,841 dupont,1873,841,dupont,yee,fook soon,yee,york jung,1873,17
+9763,1890,yee hing ging,native born,city of peking,"riordan, thomas d",remanded,yee yot jung,730 sacramento,1871,730,sacramento,yee,hing ging,yee,yot jung,1871,19
+9764,1890,leong bo,native born,city of peking,"riordan, thomas d",remanded,leong hing yow,728 dupont,1867,728,dupont,leong,bo,leong,hing yow,1867,23
+9765,1890,loui ah gee,native born,city of peking,"ricketts, alfred",remanded,loui sing sook,631 jackson,1871,631,jackson,loui,ah gee,loui,sing sook,1871,19
+9766,1890,quan ah shun,native born,city of peking,"ricketts, alfred",remanded,quan ing ling,714 dupont,1871,714,dupont,quan,ah shun,quan,ing ling,1871,19
+9767,1890,ng ah toy,native born,city of peking,"ricketts, alfred",remanded,ng hung gang,716 dupont,1876,716,dupont,ng,ah toy,ng,hung gang,1876,14
+9768,1890,ng ah kip,native born,city of peking,"ricketts, alfred",remanded,ng teng ning,622 jackson,1876,622,jackson,ng,ah kip,ng,teng ning,1876,14
+9769,1890,wong set jew,native born,city of peking,"ricketts, alfred",discharged,wong chung yow,17 washington alley,1865,17,washington alley,wong,set jew,wong,chung yow,1865,25
+9770,1890,wong tew fong,native born,city of peking,"ricketts, alfred",remanded,wong lim yook,747 sacramento,1864,747,sacramento,wong,tew fong,wong,lim yook,1864,26
+9771,1890,fong wing nging,native born,city of peking,"ricketts, alfred",remanded,fong gan jew,617 1/2 dupont,1876,617,1/2 dupont,fong,wing nging,fong,gan jew,1876,14
+9772,1890,chin sue thun,native born,city of peking,"stranahan, f.e.",remanded,chin leong gai,714 1/2 dupont,22 year,714,1/2 dupont,chin,sue thun,chin,leong gai,1868,22
+9773,1890,haw ah fook,native born,city of peking,"stranahan, f.e.",remanded,haw hin wing,710 dupont,1867,710,dupont,haw,ah fook,haw,hin wing,1867,23
+9774,1890,chin yow foon,native born,city of peking,"stranahan, f.e.",remanded,chin mee leong,754 washington,1871,754,washington,chin,yow foon,chin,mee leong,1871,19
+9775,1890,chin won kew,native born,city of peking,"stranahan, f.e.",remanded,chin nai keong,735 sacramento,1871,735,sacramento,chin,won kew,chin,nai keong,1871,19
+9776,1890,lee ah on,native born,city of peking,"stranahan, f.e.",remanded,lee gow,611 jackson,1874,611,jackson,lee,ah on,lee,gow,1874,16
+9777,1890,wong ah get,native born,city of peking,"stranahan, f.e.",remanded,wong sai ott,745 washington,1875,745,washington,wong,ah get,wong,sai ott,1875,15
+9778,1890,ng ah dock,native born,city of peking,"stranahan, f.e.",remanded,ng yee sing,842 dupont,1874,842,dupont,ng,ah dock,ng,yee sing,1874,16
+9779,1890,moy song how,native born,city of peking,"stranahan, f.e.",remanded,moy mai poy,740 commercial,1867,740,commercial,moy,song how,moy,mai poy,1867,23
+9780,1890,chin sic ling,native born,city of peking,"stranahan, f.e.",remanded,chin mow hung,712 dupont,1874,712,dupont,chin,sic ling,chin,mow hung,1874,16
+9781,1890,hong ah toy,native born,city of peking,"stranahan, f.e.",remanded,hong gee soon,754 washington,1868,754,washington,hong,ah toy,hong,gee soon,1868,22
+9782,1890,jew gow nuey,native born,city of peking,"stranahan, f.e.",remanded,jew sing lee,769 clay,1876,769,clay,jew,gow nuey,jew,sing lee,1876,14
+9783,1890,lee ah jeong,native born,city of peking,"stranahan, f.e.",remanded,lee yin king,611 jackson,1874,611,jackson,lee,ah jeong,lee,yin king,1874,16
+9784,1890,ng ah gow,native born,city of peking,"stranahan, f.e.",remanded,ng yow sing,728 dupont,1871,728,dupont,ng,ah gow,ng,yow sing,1871,19
+9785,1890,lee ah sing,native born,city of peking,"stranahan, f.e.",remanded,lee yan kin,740 commercial,1871,740,commercial,lee,ah sing,lee,yan kin,1871,19
+9786,1890,jeung ah due,native born,city of peking,"stranahan, f.e.",,jeung gin mee,743 commercial,1871,743,commercial,jeung,ah due,jeung,gin mee,1871,19
+9787,1890,won wee young,native born,city of peking,"stranahan, f.e.",remanded,won gim yan,712 dupont,1866,712,dupont,won,wee young,won,gim yan,1866,24
+9788,1890,jung ah gin,native born,city of peking,"stranahan, f.e.",remanded,jung ging mee,729 sacramento,1869,729,sacramento,jung,ah gin,jung,ging mee,1869,21
+9789,1890,lee gin on,native born,city of peking,"stranahan, f.e.",remanded,lee yin sing,718 dupont,1871,718,dupont,lee,gin on,lee,yin sing,1871,19
+9790,1890,lee ah chee,native born,city of peking,"stranahan, f.e.",remanded,lee wah yan,731 sacramento,1870,731,sacramento,lee,ah chee,lee,wah yan,1870,20
+9791,1890,ng ah doo,native born,city of peking,"stranahan, f.e.",remanded,ng fong ching,832 washington,1868,832,washington,ng,ah doo,ng,fong ching,1868,22
+9792,1890,ng ah kin,native born,city of peking,"stranahan, f.e.",remanded,ng fot ming,639 jackson,1869,639,jackson,ng,ah kin,ng,fot ming,1869,21
+9793,1890,hom ah nom,native born,city of peking,"stranahan, f.e.",remanded,hom sue gim,627 dupont,1878,627,dupont,hom,ah nom,hom,sue gim,1878,12
+9794,1890,lee lum goon,native born,city of peking,"stranahan, f.e.",remanded,lee hung sing,845 dupont,1870,845,dupont,lee,lum goon,lee,hung sing,1870,20
+9795,1890,hom ah chew,native born,city of peking,"stranahan, f.e.",remanded,hom sue how,705 dupont,1870,705,dupont,hom,ah chew,hom,sue how,1870,20
+9796,1890,leong bew wah,native born,city of peking,"stranahan, f.e.",remanded,leong yow suey,806 sacramento,1871,806,sacramento,leong,bew wah,leong,yow suey,1871,19
+9797,1890,jung sioy (female),native born,city of peking,"riordan, thomas d",discharged,jun chick sung,900 dupont,1875,900,dupont,jung,sioy (female),jun,chick sung,1875,15
+9798,1890,jung moy (female),native born,city of peking,"riordan, thomas d",discharged,jun chick sung,900 dupont,1862,900,dupont,jung,moy (female),jun,chick sung,1862,28
+9799,1890,jeung ah sam (female),native born,city of peking,"ricketts, alfred",discharged,jung hung,826 dupont,1867,826,dupont,jeung,ah sam (female),jung,hung,1867,23
+9800,1890,jeung yit quay (female),native born,city of peking,"ricketts, alfred",discharged,jung hung,826 dupont,1878,826,dupont,jeung,yit quay (female),jung,hung,1878,12
+9801,1890,how sing,native born,city of peking,"ricketts, alfred",remanded,how hin jack,716 dupont,1866,716,dupont,how,sing,how,hin jack,1866,24
+9802,1890,wong sick hung,native born,city of peking,"ricketts, alfred",discharged,wong hen yet,627 commercial,1874,627,commercial,wong,sick hung,wong,hen yet,1874,16
+9803,1890,wong way,native born,city of peking,"ricketts, alfred",discharged,wong chung sun,"oroville, california",1865,,,wong,way,wong,chung sun,1865,25
+9804,1890,fong gwong you,native born,city of peking,"ricketts, alfred",discharged,fong chung hung,new york,1866,,,fong,gwong you,fong,chung hung,1866,24
+9805,1890,chin jin,native born,city of peking,"ricketts, alfred",remanded,chin hay wing,"oakland, california",1871,,,chin,jin,chin,hay wing,1871,19
+9806,1890,lee jock,native born,city of peking,"ricketts, alfred",remanded,lee hen fang,911 dupont,1874,911,dupont,lee,jock,lee,hen fang,1874,16
+9807,1890,lee chow tin,native born,city of peking,"mowry, lyman",remanded,lee wing san,900 dupont,1866,900,dupont,lee,chow tin,lee,wing san,1866,24
+9808,1890,wong loy yow,native born,city of peking,"mowry, lyman",remanded,wong foo schuck,1001 dupont,1867,1001,dupont,wong,loy yow,wong,foo schuck,1867,23
+9809,1890,lee dung tuck,native born,city of peking,"stranahan, f.e.",remanded,lee mon quong,742 sacramento,1870,742,sacramento,lee,dung tuck,lee,mon quong,1870,20
+9810,1890,wong ah kee,native born,city of peking,"stranahan, f.e.",remanded,wong ah get,761 clay,1871,761,clay,wong,ah kee,wong,ah get,1871,19
+9811,1890,chin ah quong,native born,city of peking,"stranahan, f.e.",remanded,chin tai,828 dupont,1866,828,dupont,chin,ah quong,chin,tai,1866,24
+9812,1890,chin bing,native born,city of peking,"stranahan, f.e.",remanded,chin mon jew,927 dupont,1865,927,dupont,chin,bing,chin,mon jew,1865,25
+9813,1890,chin poo,native born,city of peking,"stranahan, f.e.",remanded,chin dung ging,nw corner dupont and jackson,1869,,,chin,poo,chin,dung ging,1869,21
+9814,1890,wong chew,native born,city of peking,"stranahan, f.e.",remanded,wong chung,876 dupont,1863,876,dupont,wong,chew,wong,chung,1863,27
+9815,1890,chin ah hin,native born,city of peking,"stranahan, f.e.",remanded,chin gisto,900 dupont,1866,900,dupont,chin,ah hin,chin,gisto,1866,24
+9816,1890,wong you,native born,city of peking,"stranahan, f.e.",remanded,wong aui fong,835 dupont,1870,835,dupont,wong,you,wong,aui fong,1870,20
+9817,1890,yee suey joong,native born,city of peking,"stranahan, f.e.",remanded,yee doon jeong,726 dupont,1868,726,dupont,yee,suey joong,yee,doon jeong,1868,22
+9818,1890,hor sing,native born,city of peking,"schlesinger, bert",discharged,hor chan,650 jackson,1862,650,jackson,hor,sing,hor,chan,1862,28
+9819,1890,tom quan sui,native born,city of peking,"schlesinger, bert",discharged,tom yuk chan,724 commercial,1865,724,commercial,tom,quan sui,tom,yuk chan,1865,25
+9820,1890,lee jing hung,native born,city of peking,"schlesinger, bert",remanded,lee gum,705 sacramento,1873,705,sacramento,lee,jing hung,lee,gum,1873,17
+9821,1890,jow yune,native born,city of peking,"schlesinger, bert",discharged,jow chew jung,8 washington alley,1866,8,washington alley,jow,yune,jow,chew jung,1866,24
+9822,1890,jow yee,native born,city of peking,"schlesinger, bert",discharged,jow quai,"vallejo, solano county, california",1863,,,jow,yee,jow,quai,1863,27
+9823,1890,yee gim fang,native born,city of peking,"stranahan, f.e.",discharged,yee gar wo,724 commercial,1878,724,commercial,yee,gim fang,yee,gar wo,1878,12
+9824,1890,jew ah mon,native born,city of peking,"stranahan, f.e.",petition dead,jew loui don,741 sacramento,1867,741,sacramento,jew,ah mon,jew,loui don,1867,23
+9827,1890,soo hoo doon fee,native born,oceanic,"riordan, thomas d",remanded appealed to circuit court,soo hoo moon sin,714 commercial,1863,714,commercial,soo,hoo doon fee,soo,hoo moon sin,1863,27
+9828,1890,gee chuck gee,native born,oceanic,"riordan, thomas d",remanded,gee gan chung,813 dupont,1869,813,dupont,gee,chuck gee,gee,gan chung,1869,21
+9829,1890,gee ah hung,native born,oceanic,"riordan, thomas d",remanded,gee chung lee,763 clay,1863,763,clay,gee,ah hung,gee,chung lee,1863,27
+9830,1890,gee ngoon seung,native born,oceanic,"riordan, thomas d",discharged,gee chung loot,823 dupont,1876,823,dupont,gee,ngoon seung,gee,chung loot,1876,14
+9831,1890,gee wing jow,native born,oceanic,"riordan, thomas d",remanded,gee kai po,823 dupont,1870,823,dupont,gee,wing jow,gee,kai po,1870,20
+9832,1890,pang show din,native born,oceanic,"riordan, thomas d",remanded,pang si gick,716 dupont,1868,716,dupont,pang,show din,pang,si gick,1868,22
+9833,1890,yee goon seung,native born,oceanic,"riordan, thomas d",remanded,yee gong jung,729 commercial,1871,729,commercial,yee,goon seung,yee,gong jung,1871,19
+9834,1890,gee wing kee,native born,oceanic,"riordan, thomas d",remanded,gee thoon kee,741 commercial,1875,741,commercial,gee,wing kee,gee,thoon kee,1875,15
+9835,1890,gee show suey,native born,oceanic,"riordan, thomas d",remanded,gee kai sue,741 commercial,1872,741,commercial,gee,show suey,gee,kai sue,1872,18
+9836,1890,toy ah teong,native born,oceanic,"riordan, thomas d",remanded,toy ying fong,742 commercial,1865,742,commercial,toy,ah teong,toy,ying fong,1865,25
+9837,1890,yee wah bong,native born,oceanic,"riordan, thomas d",remanded,yee gee jeong,721 dupont,1875,721,dupont,yee,wah bong,yee,gee jeong,1875,15
+9838,1890,gee ah yow,native born,oceanic,"riordan, thomas d",remanded,gee pon que,719 dupont,1875,719,dupont,gee,ah yow,gee,pon que,1875,15
+9839,1890,gee wing sing,native born,oceanic,"riordan, thomas d",remanded,gee suey wing,821 dupont,1876,821,dupont,gee,wing sing,gee,suey wing,1876,14
+9840,1890,gee ah toy,native born,oceanic,"riordan, thomas d",remanded appealed to circuit court,gee leong fat,715 jackson,1871,715,jackson,gee,ah toy,gee,leong fat,1871,19
+9841,1890,gee ah goon,native born,oceanic,"riordan, thomas d",remanded,gee chung soon,614 dupont,1869,614,dupont,gee,ah goon,gee,chung soon,1869,21
+9842,1890,soo hoo tung gong,native born,oceanic,"riordan, thomas d",discharged,soo hoo yee gon,723 dupont,1868,723,dupont,soo,hoo tung gong,soo,hoo yee gon,1868,22
+9843,1890,lew wing bow,native born,oceanic,"riordan, thomas d",discharged,lew wee suey,718 commercial,1871,718,commercial,lew,wing bow,lew,wee suey,1871,19
+9844,1890,lew jung on,native born,oceanic,"riordan, thomas d",discharged,lee wee mon,718 commercial,1873,718,commercial,lew,jung on,lee,wee mon,1873,17
+9845,1890,wong bock jung,native born,oceanic,"ricketts, alfred",remanded,wong yee chow,611 commercial,1869,611,commercial,wong,bock jung,wong,yee chow,1869,21
+9846,1890,jin ah on,native born,oceanic,"ricketts, alfred",remanded,jin tow hung,900 washington,1869,900,washington,jin,ah on,jin,tow hung,1869,21
+9847,1890,jin ah ty,native born,oceanic,"ricketts, alfred",remanded,jin gong mow,629 jackson,1869,629,jackson,jin,ah ty,jin,gong mow,1869,21
+9848,1890,lee share bow,native born,oceanic,"ricketts, alfred",remanded,lee loy nooey,722 dupont,1860,722,dupont,lee,share bow,lee,loy nooey,1860,30
+9849,1890,liew ah fook,native born,oceanic,"ricketts, alfred",remanded,liew hop gong,911 dupont,1868,911,dupont,liew,ah fook,liew,hop gong,1868,22
+9850,1890,wong fook teong,native born,oceanic,"ricketts, alfred",remanded,wong man sai,813 1/2 dupont,1867,813,1/2 dupont,wong,fook teong,wong,man sai,1867,23
+9851,1890,wong ah jing,native born,oceanic,"ricketts, alfred",discharged,wong tit ngung,3 waverly place,1876,3,waverly place,wong,ah jing,wong,tit ngung,1876,14
+9852,1890,pong ah jin,native born,oceanic,"ricketts, alfred",remanded,pong gong ngang,622 dupont,1868,622,dupont,pong,ah jin,pong,gong ngang,1868,22
+9853,1890,ng quong teong,native born,oceanic,"ricketts, alfred",remanded,ng pong,612 jackson,1873,612,jackson,ng,quong teong,ng,pong,1873,17
+9854,1890,wong sin,native born,oceanic,"ricketts, alfred",discharged,wong hong,620 dupont,1873,620,dupont,wong,sin,wong,hong,1873,17
+9855,1890,chue wy,native born,oceanic,"ricketts, alfred",discharged,chue fook leong,926 stockton,1865,926,stockton,chue,wy,chue,fook leong,1865,25
+9856,1890,mar ying lock,native born,oceanic,"riordan, thomas d",remanded,mar goon foo,741 commercial,1865,741,commercial,mar,ying lock,mar,goon foo,1865,25
+9857,1890,lew ah shew,native born,oceanic,"blaney, edward w.",discharged,lew we nong,769 clay,1868,769,clay,lew,ah shew,lew,we nong,1868,22
+9858,1890,gee ah tan,native born,oceanic,"blaney, edward w.",remanded,gee suey wing,722 dupont,1867,722,dupont,gee,ah tan,gee,suey wing,1867,23
+9859,1890,wong ah fun,native born,oceanic,"blaney, edward w.",remanded,wong hen yee,722 dupont,1868,722,dupont,wong,ah fun,wong,hen yee,1868,22
+9860,1890,jow ah fun,native born,oceanic,"blaney, edward w.",remanded,jow mun yung,717 clay,1867,717,clay,jow,ah fun,jow,mun yung,1867,23
+9861,1890,lock ah jack,native born,oceanic,"blaney, edward w.",remanded,lock lung pock,847 dupont,1867,847,dupont,lock,ah jack,lock,lung pock,1867,23
+9862,1890,ng shair dock,native born,oceanic,"blaney, edward w.",remanded,ng get on,727 sacramento,1877,727,sacramento,ng,shair dock,ng,get on,1877,13
+9863,1890,ng ah dun,native born,oceanic,"blaney, edward w.",remanded,ng fun wah,711 commercial,1869,711,commercial,ng,ah dun,ng,fun wah,1869,21
+9864,1890,lock tung gim,native born,oceanic,"blaney, edward w.",remanded,lock que yuen,737 washington,1869,737,washington,lock,tung gim,lock,que yuen,1869,21
+9865,1890,fong yee hong,native born,oceanic,"stranahan, f.e.",remanded,fong dock fong,826 dupont,1870,826,dupont,fong,yee hong,fong,dock fong,1870,20
+9866,1890,chan shun,native born,oceanic,"stranahan, f.e.",remanded,chan yuen,616 dupont,1868,616,dupont,chan,shun,chan,yuen,1868,22
+9867,1890,tom hon,native born,oceanic,"stranahan, f.e.",remanded,tom yoke,820 washington,1869,820,washington,tom,hon,tom,yoke,1869,21
+9868,1890,chan hin fong,native born,oceanic,"stranahan, f.e.",remanded,chan yow sing,900 dupont,1876,900,dupont,chan,hin fong,chan,yow sing,1876,14
+9869,1890,hom quong mee,native born,oceanic,"stranahan, f.e.",remanded,hom yin sue,735 clay,1870,735,clay,hom,quong mee,hom,yin sue,1870,20
+9870,1890,lim ah goey,native born,oceanic,"stranahan, f.e.",discharged,lim yow ai,745 washington,1869,745,washington,lim,ah goey,lim,yow ai,1869,21
+9871,1890,chung mon,native born,oceanic,"stranahan, f.e.",remanded,chung hong,801 dupont,1871,801,dupont,chung,mon,chung,hong,1871,19
+9872,1890,hom lung gim,native born,oceanic,"stranahan, f.e.",remanded,hom goon,838 dupont,1867,838,dupont,hom,lung gim,hom,goon,1867,23
+9873,1890,ng ah fun,native born,oceanic,"stranahan, f.e.",remanded,ng sun chung,714 1/2 dupont,1873,714,1/2 dupont,ng,ah fun,ng,sun chung,1873,17
+9874,1890,leong kin him,native born,oceanic,"stranahan, f.e.",discharged,leong do ji,722 jackson,1872,722,jackson,leong,kin him,leong,do ji,1872,18
+9875,1890,leong share ying,native born,oceanic,"stranahan, f.e.",discharged,leong doo own,940 dupont,1873,940,dupont,leong,share ying,leong,doo own,1873,17
+9876,1890,wong gow foo,native born,oceanic,"stranahan, f.e.",remanded,hong dock ding,828 dupont,1868,828,dupont,wong,gow foo,hong,dock ding,1868,22
+9877,1890,fong kin fook,native born,oceanic,stranahan & smith,discharged,fong chew toy,757 sacramento,1868,757,sacramento,fong,kin fook,fong,chew toy,1868,22
+9878,1890,jin ah shun,native born,oceanic,"ricketts, alfred",remanded,jin shee lung,723 commercial,1874,723,commercial,jin,ah shun,jin,shee lung,1874,16
+9879,1890,pong ah tong,native born,oceanic,"ricketts, alfred",remanded,bong sai mun,714 1/2 dupont,1874,714,1/2 dupont,pong,ah tong,bong,sai mun,1874,16
+9880,1890,jin ah yin,native born,oceanic,"ricketts, alfred",remanded,jin jung tooey,614 jackson,1868,614,jackson,jin,ah yin,jin,jung tooey,1868,22
+9881,1890,jin ah sen,native born,oceanic,"ricketts, alfred",discharged,jin jung jew,728 jackson,1870,728,jackson,jin,ah sen,jin,jung jew,1870,20
+9882,1890,ng ah bong,native born,oceanic,"stranahan, f.e.",remanded,ng ming deak,751 sacramento,1873,751,sacramento,ng,ah bong,ng,ming deak,1873,17
+9883,1890,lee chaw kong,native born,oceanic,"stranahan, f.e.",remanded,lee kee,847 dupont,1877,847,dupont,lee,chaw kong,lee,kee,1877,13
+9884,1890,yew jeck,native born,oceanic,"stranahan, f.e.",remanded,yew kee chong,824 dupont,1869,824,dupont,yew,jeck,yew,kee chong,1869,21
+9885,1890,woo suey wah,native born,oceanic,"stranahan, f.e.",remanded,woo wah get,728 commercial,1869,728,commercial,woo,suey wah,woo,wah get,1869,21
+9886,1890,lee foo,native born,oceanic,"mowry, lyman",remanded appealed to circuit court,lee yur,"stockton, california",1866,,,lee,foo,lee,yur,1866,24
+9887,1890,chun dock gone,native born,oceanic,"mowry, lyman",discharged,chon chong,nw corner jackson and dupont (globe hotel),1873,,,chun,dock gone,chon,chong,1873,17
+9888,1890,chun chi sir,native born,oceanic,"mowry, lyman",remanded,chun gum,"san jose, california",1876,,,chun,chi sir,chun,gum,1876,14
+9889,1890,lee ching fong,native born,oceanic,"mowry, lyman",discharged,lee chun long,803 dupont,1874,803,dupont,lee,ching fong,lee,chun long,1874,16
+9890,1890,dang ah yow,native born,oceanic,"mowry, lyman",remanded appealed to circuit court,dang quan jeung,"sacramento, california",1867,,,dang,ah yow,dang,quan jeung,1867,23
+9891,1890,fung wing wah,native born,oceanic,"mowry, lyman",discharged,fong sen hong,743 sacramento,1870,743,sacramento,fung,wing wah,fong,sen hong,1870,20
+9892,1890,poon gum lung,native born,oceanic,"mowry, lyman",discharged,poon sear bow,743 sacramento,1874,743,sacramento,poon,gum lung,poon,sear bow,1874,16
+9893,1890,mar quan gip,native born,oceanic,"mowry, lyman",discharged,mar chun wing,"sacramento, california",1869,,,mar,quan gip,mar,chun wing,1869,21
+9894,1890,mar ah yum,native born,oceanic,"mowry, lyman",remanded,mar leong get,"sacramento, california",1869,,,mar,ah yum,mar,leong get,1869,21
+9895,1890,dang loy fook,native born,oceanic,"mowry, lyman",discharged,dang sear yow,726 dupont,1868,726,dupont,dang,loy fook,dang,sear yow,1868,22
+9896,1890,hom ah din,native born,oceanic,"riordan, thomas d",discharged,hom fook fong,808 sacramento,1863,808,sacramento,hom,ah din,hom,fook fong,1863,27
+9897,1890,jew ah fat,native born,oceanic,"riordan, thomas d",remanded,jew doo hee,751 sacramento,1869,751,sacramento,jew,ah fat,jew,doo hee,1869,21
+9898,1890,wong hop,native born,oceanic,"riordan, thomas d",discharged,wong toon,620 dupont,1869,620,dupont,wong,hop,wong,toon,1869,21
+9899,1890,lo yum,native born,oceanic,"riordan, thomas d",petition and writ dismissed,lew ock sing,635 jackson,1866,635,jackson,lo,yum,lew,ock sing,1866,24
+9900,1890,young ah git,native born,oceanic,"riordan, thomas d",remanded,young soon shew,808 sacramento,1870,808,sacramento,young,ah git,young,soon shew,1870,20
+9901,1890,woo moon kee,native born,oceanic,"riordan, thomas d",remanded,woo shoo cheong,728 dupont,1868,728,dupont,woo,moon kee,woo,shoo cheong,1868,22
+9902,1890,fong mon jeung,native born,oceanic,"riordan, thomas d",remanded,fong ing chong,717 clay,1867,717,clay,fong,mon jeung,fong,ing chong,1867,23
+9903,1890,wong bow jung,native born,oceanic,"riordan, thomas d",discharged,wong jun yow,615 jackson,1866,615,jackson,wong,bow jung,wong,jun yow,1866,24
+9904,1890,fung jung pooey,native born,oceanic,"riordan, thomas d",remanded,fung yee,1008 dupont,1875,1008,dupont,fung,jung pooey,fung,yee,1875,15
+9905,1890,tom ah gin,native born,oceanic,"mowry, lyman",remanded,tom jeung teung,618 dupont,1876,618,dupont,tom,ah gin,tom,jeung teung,1876,14
+9906,1890,hom gooey look,native born,oceanic,"mowry, lyman",petition dead,hom deaux,836 dupont,1866,836,dupont,hom,gooey look,hom,deaux,1866,24
+9907,1890,chin ah you,native born,oceanic,"ricketts, alfred",remanded,chun quong fook,823 dupont,1869,823,dupont,chin,ah you,chun,quong fook,1869,21
+9908,1890,tom fat juck,native born,oceanic,"ricketts, alfred",remanded,tom ng chew,936 dupont,1866,936,dupont,tom,fat juck,tom,ng chew,1866,24
+9909,1890,ng leow,native born,oceanic,"ricketts, alfred",remanded,ng ock shim,"portland, oregon",1873,,,ng,leow,ng,ock shim,1873,17
+9910,1890,chin ah ong,native born,oceanic,"ricketts, alfred",remanded,chin leong po,747 sacramento,1870,747,sacramento,chin,ah ong,chin,leong po,1870,20
+9911,1890,jin ah you,native born,oceanic,"ricketts, alfred",discharged,jin siey dork,826 dupont,1870,826,dupont,jin,ah you,jin,siey dork,1870,20
+9912,1890,yung chee yung,native born,oceanic,"ricketts, alfred",remanded,yung yick gow,707 dupont,1866,707,dupont,yung,chee yung,yung,yick gow,1866,24
+9914,1890,chin yow poi,native born,oceanic,"stranahan, f.e.",remanded,chin koon hin,711 commercial,1870,711,commercial,chin,yow poi,chin,koon hin,1870,20
+9915,1890,moy hin git,native born,oceanic,"stranahan, f.e.",remanded,may nai wah,639 jackson,1869,639,jackson,moy,hin git,may,nai wah,1869,21
+9916,1890,leong ah ying,native born,oceanic,"stranahan, f.e.",remanded,leong doo tom,900 dupont,1875,900,dupont,leong,ah ying,leong,doo tom,1875,15
+9917,1890,chin gwee on,native born,oceanic,"stranahan, f.e.",remanded,chin leong chow,710 commercial,1871,710,commercial,chin,gwee on,chin,leong chow,1871,19
+9918,1890,jow ah doe,native born,oceanic,"stranahan, f.e.",remanded,jow bock ming,737 sacramento,1867,737,sacramento,jow,ah doe,jow,bock ming,1867,23
+9919,1890,jung ah quan,native born,oceanic,"stranahan, f.e.",remanded,jung chun lai,826 dupont,1868,826,dupont,jung,ah quan,jung,chun lai,1868,22
+9920,1890,chin ah doom,native born,oceanic,"stranahan, f.e.",remanded,chin mon hong,754 washington,1867,754,washington,chin,ah doom,chin,mon hong,1867,23
+9921,1890,leong ah koon,native born,oceanic,"stranahan, f.e.",remanded,leong doo ham,823 dupont,1870,823,dupont,leong,ah koon,leong,doo ham,1870,20
+9922,1890,chin ah suey,native born,oceanic,"stranahan, f.e.",remanded,chin wy shung,828 dupont,1869,828,dupont,chin,ah suey,chin,wy shung,1869,21
+9923,1890,moy quing nai,native born,oceanic,"stranahan, f.e.",remanded,moy doo yow,819 dupont,1867,819,dupont,moy,quing nai,moy,doo yow,1867,23
+9924,1890,moy wing yow,native born,oceanic,"stranahan, f.e.",remanded,moy ow yin,735 sacramento,1867,735,sacramento,moy,wing yow,moy,ow yin,1867,23
+9925,1890,lee ah goey,native born,oceanic,"stranahan, f.e.",remanded,lee fook wah,740 commercial,1872,740,commercial,lee,ah goey,lee,fook wah,1872,18
+9926,1890,ng ah fook,native born,oceanic,"stranahan, f.e.",remanded,ng chun hock,712 dupont,1869,712,dupont,ng,ah fook,ng,chun hock,1869,21
+9927,1890,loui ah sew,native born,oceanic,"stranahan, f.e.",remanded,loui sing gan,751 sacramento,1873,751,sacramento,loui,ah sew,loui,sing gan,1873,17
+9928,1890,wong ah yee,native born,oceanic,"stranahan, f.e.",remanded,hong yun gaw,1002 dupont,1871,1002,dupont,wong,ah yee,hong,yun gaw,1871,19
+9929,1890,chin ah wai,native born,oceanic,"stranahan, f.e.",remanded,chin leong quan,735 sacramento,1868,735,sacramento,chin,ah wai,chin,leong quan,1868,22
+9930,1890,chin ah ying,native born,oceanic,"stranahan, f.e.",remanded,chin dung won,754 washington,1869,754,washington,chin,ah ying,chin,dung won,1869,21
+9931,1890,chin ah sing,native born,oceanic,"stranahan, f.e.",remanded,chin leong ping,742 commercial,1871,742,commercial,chin,ah sing,chin,leong ping,1871,19
+9932,1890,chin ah mee,native born,oceanic,"stranahan, f.e.",remanded,chin sin,639 jackson,1873,639,jackson,chin,ah mee,chin,sin,1873,17
+9933,1890,yee fook,native born,oceanic,"stranahan, f.e.",writ returned non est,yee juck jing,705 dupont,1864,705,dupont,yee,fook,yee,juck jing,1864,26
+9934,1890,hin hung jung,native born,oceanic,"stranahan, f.e.",remanded,hui wy jung,741 sacramento,1861,741,sacramento,hin,hung jung,hui,wy jung,1861,29
+9935,1890,yee king wo,native born,oceanic,"stranahan, f.e.",petition dead,yee jing jung,838 dupont corner sacramento and dupont,1868,838,dupont corner sacramento and dupont,yee,king wo,yee,jing jung,1868,22
+9936,1890,hin yow ying,native born,oceanic,"stranahan, f.e.",remanded,hui jock lung,751 sacramento,1860,751,sacramento,hin,yow ying,hui,jock lung,1860,30
+9937,1890,chin ah nong,native born,oceanic,"stranahan, f.e.",remanded,chin sew,714 1/2 dupont,1873,714,1/2 dupont,chin,ah nong,chin,sew,1873,17
+9938,1890,chin ah poi,native born,oceanic,"stranahan, f.e.",remanded,chin yee dun,711 commercial,1870,711,commercial,chin,ah poi,chin,yee dun,1870,20
+9939,1890,chin ah yee,native born,oceanic,"stranahan, f.e.",remanded,chin keow,714 commercial,1869,714,commercial,chin,ah yee,chin,keow,1869,21
+9940,1890,chin ah gaw,native born,oceanic,"stranahan, f.e.",remanded,chin ling,714 commercial,1867,714,commercial,chin,ah gaw,chin,ling,1867,23
+9941,1890,chin ah look,native born,oceanic,"stranahan, f.e.",remanded,chin jew,706 sacramento,1870,706,sacramento,chin,ah look,chin,jew,1870,20
+9942,1890,leong ah ging,native born,oceanic,"stranahan, f.e.",remanded,leong doo hay,805 washington,1871,805,washington,leong,ah ging,leong,doo hay,1871,19
+9943,1890,wong ah san,native born,oceanic,"mowry, lyman",petition and writ dismissed,wong tai wong,620 dupont upstairs,1866,620,dupont upstairs,wong,ah san,wong,tai wong,1866,24
+9944,1890,wong quock seung,native born,oceanic,"mowry, lyman",remanded,wong gim chung,1001 dupont,1866,1001,dupont,wong,quock seung,wong,gim chung,1866,24
+9945,1890,lee foon,native born,oceanic,"blaney, edward w.",remanded,lee chook,811 1/2 dupont,1867,811,1/2 dupont,lee,foon,lee,chook,1867,23
+9946,1890,lee et,native born,oceanic,"blaney, edward w.",remanded,lee see hin,726 dupont,1875,726,dupont,lee,et,lee,see hin,1875,15
+9947,1890,lee teung,native born,oceanic,"blaney, edward w.",discharged,lee ying,842 dupont,1868,842,dupont,lee,teung,lee,ying,1868,22
+9948,1890,ching doon shoon,native born,oceanic,"mowry, lyman",remanded,chung gee way,731 dupont,1866,731,dupont,ching,doon shoon,chung,gee way,1866,24
+9949,1890,jin quock jin,native born,oceanic,"mowry, lyman",remanded,jin wong yit,769 clay,1867,769,clay,jin,quock jin,jin,wong yit,1867,23
+9950,1890,woo jin yuen,native born,oceanic,"mowry, lyman",remanded,woo yee wong,728 commercial,1865,728,commercial,woo,jin yuen,woo,yee wong,1865,25
+9951,1890,go min,native born,oceanic,stonehill & whaley,discharged,go bock,900 dupont,18 years,900,dupont,go,min,go,bock,1872,18
+9952,1890,eng fook gooey,native born,oceanic,"riordan, thomas d",discharged,ng ping,900 dupont,1870,900,dupont,eng,fook gooey,ng,ping,1870,20
+9953,1890,yee wing shue,native born,oceanic,"riordan, thomas d",remanded,yee yun jeong,723 sacramento,1867,723,sacramento,yee,wing shue,yee,yun jeong,1867,23
+9954,1890,lum yum,native born,oceanic,"riordan, thomas d",remanded,lum yong,734 sacramento,1863,734,sacramento,lum,yum,lum,yong,1863,27
+9955,1890,yee hing one,native born,oceanic,"riordan, thomas d",,yee gee jung,741 sacramento,1865,741,sacramento,yee,hing one,yee,gee jung,1865,25
+9956,1890,chau ying gong,native born,oceanic,"riordan, thomas d",discharged,chun lut di,637 jackson,1876,637,jackson,chau,ying gong,chun,lut di,1876,14
+9957,1890,won gum shong,native born,oceanic,"riordan, thomas d",remanded,wong shea di,835 dupont,1864,835,dupont,won,gum shong,wong,shea di,1864,26
+9958,1890,tom sun,native born,oceanic,"riordan, thomas d",discharged,tom yum,639 jackson,1866,639,jackson,tom,sun,tom,yum,1866,24
+9959,1890,fong jung kee,native born,oceanic,"riordan, thomas d",discharged,fong quai chin,"alvarado, alameda county, california",1863,,,fong,jung kee,fong,quai chin,1863,27
+9960,1890,fong di quan,native born,oceanic,"riordan, thomas d",discharged,fong chew,"alvarado, alameda county, california",1873,,,fong,di quan,fong,chew,1873,17
+9961,1890,lum gee,native born,oceanic,"riordan, thomas d",discharged,lum sing,"san buenaventura, california",1869,,,lum,gee,lum,sing,1869,21
+9962,1890,fong quai hee,native born,oceanic,"riordan, thomas d",discharged,fong mon sing,639 jackson,11 years,639,jackson,fong,quai hee,fong,mon sing,1879,11
+9963,1890,hor yee (female),native born,oceanic,"riordan, thomas d",discharged,hor sue,globe hotel,28 years,,,hor,yee (female),hor,sue,1862,28
+9964,1890,hooey wah nar,native born,oceanic,"riordan, thomas d",remanded,hooey jing loy,614 jackson,1866,614,jackson,hooey,wah nar,hooey,jing loy,1866,24
+9965,1890,gee yooey sing,native born,oceanic,"riordan, thomas d",remanded,gee ging chung,820 dupont,1868,820,dupont,gee,yooey sing,gee,ging chung,1868,22
+9966,1890,lee jin,native born,oceanic,"riordan, thomas d",remanded,ling ging yow,844 dupont,1866,844,dupont,lee,jin,ling,ging yow,1866,24
+9967,1890,yee ah poy,native born,oceanic,"riordan, thomas d",discharged,yee dock king,710 sacramento,1874,710,sacramento,yee,ah poy,yee,dock king,1874,16
+9968,1890,jeow yick,native born,oceanic,hilborn & hall,petition and writ dismissed,jew sheow,727 sacramento,1872,727,sacramento,jeow,yick,jew,sheow,1872,18
+9969,1890,huey ah you,native born,oceanic,"bergen, benjamin",remanded,huey jung fook,714 dupont,1872,714,dupont,huey,ah you,huey,jung fook,1872,18
+9970,1890,jue shar kuen,native born,oceanic,"bergen, benjamin",remanded,jue the gow,dupont,1877,,,jue,shar kuen,jue,the gow,1877,13
+9971,1890,ong sai ngook (female),native born,oceanic,"perry, g. h. & ricketts, alfred",discharged,ong quon,933 dupont,1867,933,dupont,ong,sai ngook (female),ong,quon,1867,23
+9972,1890,wong ah gim (female),native born,oceanic,"perry, g. h. & ricketts, alfred",discharged,wong look sing,722 dupont,1868,722,dupont,wong,ah gim (female),wong,look sing,1868,22
+9973,1890,dea hoo shem,native born,oceanic,"riordan, thomas d",discharged,dea mon sing,1016 stockton,1874,1016,stockton,dea,hoo shem,dea,mon sing,1874,16
+9974,1890,dea hoo hoy,native born,oceanic,"riordan, thomas d",discharged,dea mon sing,1016 stockton,1876,1016,stockton,dea,hoo hoy,dea,mon sing,1876,14
+9975,1890,choi tai,native born,oceanic,"bergen, benjamin",discharged,,714 dupont,1870,714,dupont,choi,tai,,,1870,20
+9976,1890,choy wing,native born,oceanic,"bergen, benjamin",discharged,,711 commercial,1872,711,commercial,choy,wing,,,1872,18
+9977,1890,yee chow jung,native born,oceanic,"stranahan, f.e.",discharged,yee wing jung,723 commercial,1868,723,commercial,yee,chow jung,yee,wing jung,1868,22
+9978,1890,hoey king noey,native born,oceanic,"stranahan, f.e.",remanded,hoey kay chong,716 dupont,1863,716,dupont,hoey,king noey,hoey,kay chong,1863,27
+9979,1890,choi chong,native born,oceanic,"stranahan, f.e.",remanded,choi ying poo,715 commercial,1873,715,commercial,choi,chong,choi,ying poo,1873,17
+9980,1890,choi goey,native born,oceanic,"stranahan, f.e.",remanded,choi haw yick,714 commercial,1875,714,commercial,choi,goey,choi,haw yick,1875,15
+9981,1890,choi jun mon,native born,oceanic,"stranahan, f.e.",remanded,choi yook lung,751 sacramento,1870,751,sacramento,choi,jun mon,choi,yook lung,1870,20
+9982,1890,lew cheong,native born,oceanic,"stranahan, f.e.",petition dead,lew sin yong,841 dupont,1875,841,dupont,lew,cheong,lew,sin yong,1875,15
+9983,1890,choi kwock,native born,oceanic,"stranahan, f.e.",,choi don yick,627 dupont,1872,627,dupont,choi,kwock,choi,don yick,1872,18
+9984,1890,choi joe,native born,oceanic,"stranahan, f.e.",remanded,choi fong yick,722 dupont,1872,722,dupont,choi,joe,choi,fong yick,1872,18
+9985,1890,jew ah leong,native born,oceanic,"stranahan, f.e.",remanded,jew gar moon,747 sacramento,1875,747,sacramento,jew,ah leong,jew,gar moon,1875,15
+9986,1890,chin ah leong,native born,oceanic,"stranahan, f.e.",writ returned non est,chin sin hong,1025 dupont,1867,1025,dupont,chin,ah leong,chin,sin hong,1867,23
+9987,1890,wong ah you,native born,oceanic,"stranahan, f.e.",petition dead,wong you war,805 dupont,1876,805,dupont,wong,ah you,wong,you war,1876,14
+9988,1890,jew ah kee,native born,oceanic,"stranahan, f.e.",remanded,jew sing kee,751 sacramento,1870,751,sacramento,jew,ah kee,jew,sing kee,1870,20
+9989,1890,wong ah gow,native born,oceanic,"stranahan, f.e.",remanded,wong sing yow,811 dupont,1867,811,dupont,wong,ah gow,wong,sing yow,1867,23
+9990,1890,fong ah tang,native born,oceanic,"stranahan, f.e.",petition and writ dismissed,fong low,823 dupont,1869,823,dupont,fong,ah tang,fong,low,1869,21
+9991,1890,jew ah fook,native born,oceanic,"stranahan, f.e.",remanded,jew sing kai,741 commercial,1866,741,commercial,jew,ah fook,jew,sing kai,1866,24
+9992,1890,chin shoo jeong,native born,oceanic,"stranahan, f.e.",,chin shie tai,730 1/2 commercial,1870,730,1/2 commercial,chin,shoo jeong,chin,shie tai,1870,20
+9999,1890,chong get june,native born,city of rio de janeiro,stonehill & whaley,discharged,chong shin chun,844 dupont,19 years,844,dupont,chong,get june,chong,shin chun,1871,19
+10001,1890,chong jew choy,native born,city of rio de janeiro,stonehill & whaley,petition dead,chong chun poy,814 dupont,1866,814,dupont,chong,jew choy,chong,chun poy,1866,24
+10002,1890,gee moon gik,native born,city of rio de janeiro,"riordan, thomas d",discharged,gee ock schuck,820 washington,1861,820,washington,gee,moon gik,gee,ock schuck,1861,29
+10003,1890,gee han wing,native born,city of rio de janeiro,"riordan, thomas d",remanded,jee foong suey,815 dupont,1862,815,dupont,gee,han wing,jee,foong suey,1862,28
+10004,1890,jee hung hee,native born,gaelic,"riordan, thomas d",discharged,jee yooey too,821 dupont,1874,821,dupont,jee,hung hee,jee,yooey too,1874,16
+10005,1890,lee cheund,native born,city of rio de janeiro,"perry, george h",remanded,lee ying mong,"stockton, california",1862,,,lee,cheund,lee,ying mong,1862,28
+10006,1890,lee charn gee,native born,city of rio de janeiro,"perry, george h",remanded,lee leong,"chico, california",1864,,,lee,charn gee,lee,leong,1864,26
+10007,1890,lee kee,native born,city of rio de janeiro,"perry, george h",remanded,lee gin chew,730 sacramento,1869,730,sacramento,lee,kee,lee,gin chew,1869,21
+10008,1890,jow ah jung,native born,city of rio de janeiro,"ricketts, alfred",remanded,jow wing you,908 commercial,1871,908,commercial,jow,ah jung,jow,wing you,1871,19
+10009,1890,dare fong hing,native born,city of rio de janeiro,"ricketts, alfred",remanded,dare hoon,739 commercial,1874,739,commercial,dare,fong hing,dare,hoon,1874,16
+10010,1890,jung ah on,native born,city of rio de janeiro,"ricketts, alfred",remanded,jung mee lum,765 clay,1867,765,clay,jung,ah on,jung,mee lum,1867,23
+10011,1890,wong ah din,native born,city of rio de janeiro,"ricketts, alfred",remanded,wong how chung,717 commercial,1871,717,commercial,wong,ah din,wong,how chung,1871,19
+10012,1890,jin lung foo,native born,city of rio de janeiro,"ricketts, alfred",remanded,jin lip yin,904 dupont,1877,904,dupont,jin,lung foo,jin,lip yin,1877,13
+10013,1890,jin ah yin,native born,city of rio de janeiro,"ricketts, alfred",remanded,jin ock lee,1004 dupont,1872,1004,dupont,jin,ah yin,jin,ock lee,1872,18
+10014,1890,jin ah hong,native born,city of rio de janeiro,"ricketts, alfred",remanded,jin leong loy,711 commercial,1877,711,commercial,jin,ah hong,jin,leong loy,1877,13
+10015,1890,jin ah yick,native born,city of rio de janeiro,"ricketts, alfred",remanded,jin leong shuck,816 dupont,1877,816,dupont,jin,ah yick,jin,leong shuck,1877,13
+10016,1890,fong ah gaow,native born,city of rio de janeiro,"ricketts, alfred",remanded,fong gaow ock,"astoria, oregon",1869,,,fong,ah gaow,fong,gaow ock,1869,21
+10017,1890,lee ah fay,native born,city of rio de janeiro,"ricketts, alfred",discharged,lee man pon,724 dupont,1868,724,dupont,lee,ah fay,lee,man pon,1868,22
+10018,1890,ng tung chun,native born,city of rio de janeiro,"ricketts, alfred",remanded,ng mun on,"san jose, california",1869,,,ng,tung chun,ng,mun on,1869,21
+10019,1890,chin ah hing,native born,city of rio de janeiro,"ricketts, alfred",remanded,chin hen teong,710 commercial,1868,710,commercial,chin,ah hing,chin,hen teong,1868,22
+10020,1890,wun lun hing,native born,city of rio de janeiro,"ricketts, alfred",remanded,wun chun,740 commercial,1868,740,commercial,wun,lun hing,wun,chun,1868,22
+10021,1890,jung ah dock,native born,city of rio de janeiro,"ricketts, alfred",remanded,jung sing ung,741 commercial,1866,741,commercial,jung,ah dock,jung,sing ung,1866,24
+10022,1890,chin ah on,native born,city of rio de janeiro,"ricketts, alfred",remanded,chin mun tsu,820 dupont,1872,820,dupont,chin,ah on,chin,mun tsu,1872,18
+10023,1890,dare ung hoy,native born,city of rio de janeiro,"ricketts, alfred",remanded,dare git wing,747 sacramento,1877,747,sacramento,dare,ung hoy,dare,git wing,1877,13
+10024,1890,wong hing,native born,city of rio de janeiro,"ricketts, alfred",remanded,wong chuck jin,610 jackson,1860,610,jackson,wong,hing,wong,chuck jin,1860,30
+10025,1890,jin ah war,native born,city of rio de janeiro,"ricketts, alfred",remanded,jin bit yin,816 dupont,1871,816,dupont,jin,ah war,jin,bit yin,1871,19
+10026,1890,ng ah gong,native born,city of rio de janeiro,"ricketts, alfred",discharged,ng shew jang,823 dupont,1868,823,dupont,ng,ah gong,ng,shew jang,1868,22
+10027,1890,jung ah lin,native born,city of rio de janeiro,"ricketts, alfred",remanded,jung sing dep,826 dupont,1867,826,dupont,jung,ah lin,jung,sing dep,1867,23
+10028,1890,hom yuen,native born,city of rio de janeiro,"ricketts, alfred",remanded,hom mun ming,745 sacramento,1874,745,sacramento,hom,yuen,hom,mun ming,1874,16
+10029,1890,lee chon nging,native born,city of rio de janeiro,"blaney, edward w.",remanded,lee ming poy,728 dupont,1868,728,dupont,lee,chon nging,lee,ming poy,1868,22
+10030,1890,yee mee sing,native born,city of rio de janeiro,"blaney, edward w.",remanded,gee sim,720 sacramento,1869,720,sacramento,yee,mee sing,gee,sim,1869,21
+10031,1890,harm ching poy,native born,city of rio de janeiro,"blaney, edward w.",remanded,harm hin poy,615 jackson,1868,615,jackson,harm,ching poy,harm,hin poy,1868,22
+10032,1890,yee jeo suey,native born,city of rio de janeiro,"blaney, edward w.",remanded,yee jeow,741 commercial,1870,741,commercial,yee,jeo suey,yee,jeow,1870,20
+10033,1890,harm gum,native born,city of rio de janeiro,"blaney, edward w.",remanded,harm hin poy,728 dupont,1868,728,dupont,harm,gum,harm,hin poy,1868,22
+10034,1890,jin ah hoey,native born,city of rio de janeiro,"ricketts, alfred",remanded,jin sai you,911 dupont,18 years,911,dupont,jin,ah hoey,jin,sai you,1872,18
+10036,1890,yee ah jin,native born,gaelic,"riordan, thomas d",discharged,yee look low,617 dupont,1869,617,dupont,yee,ah jin,yee,look low,1869,21
+10037,1890,ng ah hing,native born,gaelic,"riordan, thomas d",remanded,ng moon eng,708 dupont,1866,708,dupont,ng,ah hing,ng,moon eng,1866,24
+10038,1890,yee ming jung,native born,gaelic,"riordan, thomas d",remanded,yee tow bar,820 dupont,1867,820,dupont,yee,ming jung,yee,tow bar,1867,23
+10039,1890,chin tew toy (female),native born,gaelic,"mowry, lyman",remanded,chin moon you,716 dupont,1869,716,dupont,chin,tew toy (female),chin,moon you,1869,21
+10040,1890,chin fook hay,native born,gaelic,"ricketts, alfred",discharged,chin leong seng,823 dupont,1869,823,dupont,chin,fook hay,chin,leong seng,1869,21
+10041,1890,chin bock wong,native born,gaelic,"ricketts, alfred",discharged,chin hung yuen,714 dupont,1869,714,dupont,chin,bock wong,chin,hung yuen,1869,21
+10042,1890,pong ah thun,native born,gaelic,"ricketts, alfred",discharged,pong gwing lung,743 sacramento,1871,743,sacramento,pong,ah thun,pong,gwing lung,1871,19
+10043,1890,jung ah shew,native born,gaelic,"ricketts, alfred",remanded,jung goon leong,910 dupont,1869,910,dupont,jung,ah shew,jung,goon leong,1869,21
+10044,1890,fong gwong loy,native born,gaelic,"ricketts, alfred",discharged,fong sing leong,"portland, oregon",1873,,,fong,gwong loy,fong,sing leong,1873,17
+10045,1890,fong gwong sing,native born,gaelic,"ricketts, alfred",discharged,fong sing leong,"portland, oregon",1870,,,fong,gwong sing,fong,sing leong,1870,20
+10046,1890,pong yee hong,native born,gaelic,"ricketts, alfred",discharged,pong wun man,637 jackson,1866,637,jackson,pong,yee hong,pong,wun man,1866,24
+10047,1890,chun hee kow,native born,gaelic,"ricketts, alfred",discharged,chun jow,"portland, oregon",1873,,,chun,hee kow,chun,jow,1873,17
+10048,1890,toy ah gan,native born,gaelic,"bergen, benjamin",remanded,toy sing cheong,904 dupont,1873,904,dupont,toy,ah gan,toy,sing cheong,1873,17
+10049,1890,toy tung mon,native born,gaelic,"bergen, benjamin",remanded,toy get yin,625 dupont,1875,625,dupont,toy,tung mon,toy,get yin,1875,15
+10050,1890,choy do jow,native born,gaelic,"bergen, benjamin",remanded,toy ying gow,771 clay,1873,771,clay,choy,do jow,toy,ying gow,1873,17
+10051,1890,chun ah pon,native born,gaelic,"blaney, edward w.",remanded,chin mun yow,836 dupont,1867,836,dupont,chun,ah pon,chin,mun yow,1867,23
+10052,1890,yee mee (female),native born,gaelic,"blaney, edward w.",remanded,yee quan yit,727 sacramento,1880,727,sacramento,yee,mee (female),yee,quan yit,1880,10
+10053,1890,wong len fon,native born,gaelic,"ricketts, alfred",remanded,wong ngin kip,"los angeles, california",1866,,,wong,len fon,wong,ngin kip,1866,24
+10054,1890,wong cun,native born,gaelic,"ricketts, alfred",remanded,wong yuck hing,"los angeles, california",1871,,,wong,cun,wong,yuck hing,1871,19
+10055,1890,toy ah goey,native born,gaelic,smith,discharged,toy ging teung,740 commercial,1876,740,commercial,toy,ah goey,toy,ging teung,1876,14
+10056,1890,toy quong teung,native born,gaelic,smith,remanded,toy koon sing,765 clay,1876,765,clay,toy,quong teung,toy,koon sing,1876,14
+10057,1890,toy ah fung,native born,gaelic,smith,remanded,toy ying yam,708 commercial,1873,708,commercial,toy,ah fung,toy,ying yam,1873,17
+10058,1890,toy share hong,native born,gaelic,smith,discharged,tong king hug,918 dupont,1874,918,dupont,toy,share hong,tong,king hug,1874,16
+10059,1890,wong ah tong,native born,gaelic,"stranahan, f.e.",remanded,wong soon yup,726 dupont,1870,726,dupont,wong,ah tong,wong,soon yup,1870,20
+10060,1890,jeong ah lim,native born,gaelic,"stranahan, f.e.",petition and writ dismissed,jeong ah sing,803 dupont,1870,803,dupont,jeong,ah lim,jeong,ah sing,1870,20
+10061,1890,jew sin yook,native born,gaelic,"stranahan, f.e.",remanded,jew sing oy,751 sacramento,1869,751,sacramento,jew,sin yook,jew,sing oy,1869,21
+10062,1890,leong ah kum,native born,gaelic,"stranahan, f.e.",remanded,leong tim teong,751 sacramento,1870,751,sacramento,leong,ah kum,leong,tim teong,1870,20
+10063,1890,yee lin ock,native born,gaelic,"blaney, edward w.",remanded,chung yin,745 sacramento,1866,745,sacramento,yee,lin ock,chung,yin,1866,24
+10064,1890,fong sang,native born,china,"stranahan, f.e.",remanded,foong soon,720 jackson,1864,720,jackson,fong,sang,foong,soon,1864,26
+10065,1890,tom ah kai,native born,china,"mowry, lyman",discharged,hom ying sen,731 washington,1866,731,washington,tom,ah kai,hom,ying sen,1866,24
+10066,1890,yee chung hing,native born,china,"riordan, thomas d",discharged,yee toy ock,816 dupont,1869,816,dupont,yee,chung hing,yee,toy ock,1869,21
+10067,1890,liew fook gow,native born,china,"ricketts, alfred",remanded,liew way ben,820 washington,1868,820,washington,liew,fook gow,liew,way ben,1868,22
+10068,1890,hom hong nep,native born,china,"ricketts, alfred",remanded,hom dooey,"los angeles, california",1867,,,hom,hong nep,hom,dooey,1867,23
+10069,1890,lim ah shun,native born,china,"ricketts, alfred",remanded,lun quan lung,"sacramento, california",1875,,,lim,ah shun,lun,quan lung,1875,15
+10070,1890,fong poy leong,native born,china,"ricketts, alfred",discharged,fong gum,"san jose, california",1867,,,fong,poy leong,fong,gum,1867,23
+10071,1890,fong jew yip,native born,china,"ricketts, alfred",discharged,fong hen yu,"sacramento, california",1867,,,fong,jew yip,fong,hen yu,1867,23
+10072,1890,leong low (female),native born,china,"van duzer, a p",remanded,leong yuon,806 sacramento,1869,806,sacramento,leong,low (female),leong,yuon,1869,21
+10073,1890,fong sing,native born,china,"van duzer, a p",discharged,fong wong,824 dupont,1871,824,dupont,fong,sing,fong,wong,1871,19
+10074,1890,jay bun,native born,china,"van duzer, a p",remanded,jay youi,807 dupont,1869,807,dupont,jay,bun,jay,youi,1869,21
+10075,1890,looey seay hin,native born,china,"van duzer, a p",remanded,loui hok kin,725 clay,1870,725,clay,looey,seay hin,loui,hok kin,1870,20
+10076,1890,gee ah youey,native born,china,"van duzer, a p",remanded,gee chung how,907 dupont,1870,907,dupont,gee,ah youey,gee,chung how,1870,20
+10077,1890,chin ah on,native born,china,"ricketts, alfred",remanded,chin ai wun,36 washington alley,1871,36,washington alley,chin,ah on,chin,ai wun,1871,19
+10078,1890,chin ah lee,native born,china,"ricketts, alfred",remanded,chin ngin,806 dupont,1871,806,dupont,chin,ah lee,chin,ngin,1871,19
+10079,1890,chin ah deow,native born,china,"ricketts, alfred",remanded,chin ai teow,"napa, california",1870,,,chin,ah deow,chin,ai teow,1870,20
+10080,1890,chin ah yin,native born,china,"ricketts, alfred",remanded,chin ai tung,901 dupont,1874,901,dupont,chin,ah yin,chin,ai tung,1874,16
+10081,1890,wong hin sing,native born,china,"ricketts, alfred",remanded,wong lou pow,910 dupont,1864,910,dupont,wong,hin sing,wong,lou pow,1864,26
+10082,1890,fong how ting,native born,china,"ricketts, alfred",remanded,fong gim,639 jackson,1863,639,jackson,fong,how ting,fong,gim,1863,27
+10083,1890,chin yit sing,native born,china,"ricketts, alfred",remanded,chin mow way,735 washington,1865,735,washington,chin,yit sing,chin,mow way,1865,25
+10084,1890,gee jung kee,native born,china,"riordan, thomas d",discharged,gee yooey sick,742 commercial,1865,742,commercial,gee,jung kee,gee,yooey sick,1865,25
+10085,1890,toy ah wing,native born,china,"schaertzer, henry c.",discharged,toy how way,714 dupont,,714,dupont,toy,ah wing,toy,how way,,
+10086,1890,lum kee,native born,china,"stranahan, f.e.",discharged,lum yick,"comanche, calaveras county, california",1871,,,lum,kee,lum,yick,1871,19
+10087,1890,toy ping chee,native born,china,smith,discharged,toy sing hong,728 commercial,1875,728,commercial,toy,ping chee,toy,sing hong,1875,15
+10088,1890,toy jew hung,native born,china,smith,remanded,toy yeow som,714 commercial,1875,714,commercial,toy,jew hung,toy,yeow som,1875,15
+10089,1890,lien suey lin (female),native born,china,"mowry, lyman",remanded,lien hoy,739 commercial,1870,739,commercial,lien,suey lin (female),lien,hoy,1870,20
+10090,1890,lee sing far (female),native born,china,"mowry, lyman",petition dead,lee mon,721 dupont,1868,721,dupont,lee,sing far (female),lee,mon,1868,22
+10091,1890,lee yin jin,native born,china,"riordan, thomas d",discharged,lee ngip jock,810 dupont,1866,810,dupont,lee,yin jin,lee,ngip jock,1866,24
+10092,1890,gee fook sing,native born,belgic,"riordan, thomas d",remanded appealed to circuit court,gee kee dar,741 commercial,1876,741,commercial,gee,fook sing,gee,kee dar,1876,14
+10093,1890,gee ham yook,native born,belgic,"riordan, thomas d",remanded,gee ling mooey,727 clay,1877,727,clay,gee,ham yook,gee,ling mooey,1877,13
+10094,1890,gee jam choon,native born,belgic,"riordan, thomas d",remanded,gee yooey fong,709 commercial,1870,709,commercial,gee,jam choon,gee,yooey fong,1870,20
+10095,1890,yee moon bew,native born,belgic,"riordan, thomas d",remanded,yee chock wo,804 dupont,1875,804,dupont,yee,moon bew,yee,chock wo,1875,15
+10096,1890,gee mow sing,native born,belgic,"riordan, thomas d",remanded,gee foong woy,751 sacramento,1876,751,sacramento,gee,mow sing,gee,foong woy,1876,14
+10097,1890,quan foo suey,native born,belgic,"riordan, thomas d",remanded,quan ong on,829 dupont,1868,829,dupont,quan,foo suey,quan,ong on,1868,22
+10098,1890,wong tung yick,native born,belgic,"riordan, thomas d",remanded,wong heong kee,742 commercial,1869,742,commercial,wong,tung yick,wong,heong kee,1869,21
+10099,1890,soo hoo yee wing,native born,belgic,"riordan, thomas d",remanded,soo hoo jing foong,742 sacramento,1862,742,sacramento,soo,hoo yee wing,soo,hoo jing foong,1862,28
+10100,1890,gee tai hong,native born,belgic,"riordan, thomas d",remanded,gee ah him,657 dupont,1877,657,dupont,gee,tai hong,gee,ah him,1877,13
+10101,1890,ham chuck gong,native born,belgic,"riordan, thomas d",petition dead,hom toy,837 dupont,1865,837,dupont,ham,chuck gong,hom,toy,1865,25
+10102,1890,tong chee,native born,belgic,"ricketts, alfred",discharged,tong hing,"folsom, sacramento county, california",1877,,,tong,chee,tong,hing,1877,13
+10103,1890,tong horn,native born,belgic,"ricketts, alfred",discharged,tong hing look,"folsom, sacramento county, california",1874,,,tong,horn,tong,hing look,1874,16
+10104,1890,ng one,native born,belgic,"ricketts, alfred",remanded,ng mong lem,635 jackson,1867,635,jackson,ng,one,ng,mong lem,1867,23
+10105,1890,chin john,native born,belgic,"ricketts, alfred",remanded,ching quong,737 washington,1876,737,washington,chin,john,ching,quong,1876,14
+10106,1890,chin hing lung,native born,belgic,"ricketts, alfred",remanded,chin yen ai,744 sacramento,1869,744,sacramento,chin,hing lung,chin,yen ai,1869,21
+10107,1890,chin ah lee,native born,belgic,"riordan, thomas d",remanded,chin wo ging,765 clay,1864,765,clay,chin,ah lee,chin,wo ging,1864,26
+10108,1890,hom wy sim,native born,belgic,"riordan, thomas d",remanded,hom wing,731 commercial,1871,731,commercial,hom,wy sim,hom,wing,1871,19
+10109,1890,chin share hing,native born,belgic,"riordan, thomas d",remanded,chin law yow,822 washington,1869,822,washington,chin,share hing,chin,law yow,1869,21
+10110,1890,yee wo,native born,belgic,"ricketts, alfred",writ returned non est,yee jee lum,731 commercial,1870,731,commercial,yee,wo,yee,jee lum,1870,20
+10111,1890,fung sam dock,native born,belgic,"ricketts, alfred",discharged,fong hen day,"sacramento, california",1866,,,fung,sam dock,fong,hen day,1866,24
+10112,1890,chin chong yuen,native born,belgic,"riordan, thomas d",discharged,chin moon young,714 dupont,1871,714,dupont,chin,chong yuen,chin,moon young,1871,19
+10113,1890,chin shee hong,native born,belgic,"riordan, thomas d",discharged,chin yuen fong,"410 worhec, denver, colorado",1874,410,"worhec, denver, colorado",chin,shee hong,chin,yuen fong,1874,16
+10114,1890,lee ho (female),native born,city of peking,"riordan, thomas d",discharged,lee shing,838 dupont,1872,838,dupont,lee,ho (female),lee,shing,1872,18
+10115,1890,chin chon gook (female),native born,city of peking,"riordan, thomas d",discharged,chin ching,741 sacramento,1871,741,sacramento,chin,chon gook (female),chin,ching,1871,19
+10116,1890,chin chon loy (female),native born,city of peking,"riordan, thomas d",discharged,chin ching,741 sacramento,1880,741,sacramento,chin,chon loy (female),chin,ching,1880,10
+10117,1890,fung sam,native born,city of peking,"ricketts, alfred",discharged,fung quan ling,"sacramento, california",1863,,,fung,sam,fung,quan ling,1863,27
+10118,1890,moy yook kuai,native born,city of peking,"riordan, thomas d",remanded,moy you him,620 dupont,1873,620,dupont,moy,yook kuai,moy,you him,1873,17
+10119,1890,moy hing,native born,city of peking,"riordan, thomas d",discharged,moy leong tor,740 commercial,1871,740,commercial,moy,hing,moy,leong tor,1871,19
+10120,1890,moy fung chun,native born,city of peking,"riordan, thomas d",discharged,moy yot chin,740 commercial,1872,740,commercial,moy,fung chun,moy,yot chin,1872,18
+10121,1890,mah shook jung,native born,city of peking,"stranahan, f.e.",discharged,mah sam see,771 clay,1873,771,clay,mah,shook jung,mah,sam see,1873,17
+10123,1890,chin fung hee,native born,city of peking,"talcott, h.d.",discharged,chin tong shung,639 jackson,1868,639,jackson,chin,fung hee,chin,tong shung,1868,22
+10124,1890,gee hing fun,native born,city of peking,"talcott, h.d.",discharged,yee sui chung,721 dupont,1875,721,dupont,gee,hing fun,yee,sui chung,1875,15
+10125,1890,joe king yim,native born,city of peking,"schaertzer, henry c.",discharged,jae yit fong,823 dupont,1874,823,dupont,joe,king yim,jae,yit fong,1874,16
+10126,1890,wong gin on,native born,city of peking,"schaertzer, henry c.",discharged,wong wah fon,900 dupont,1861,900,dupont,wong,gin on,wong,wah fon,1861,29
+10127,1890,dong dew,native born,oceanic,"riordan, thomas d",discharged,dong fook gooey,717 clay,1868,717,clay,dong,dew,dong,fook gooey,1868,22
+10128,1890,lee lung tan,native born,oceanic,"riordan, thomas d",remanded,lee ying jeong,806 dupont,1869,806,dupont,lee,lung tan,lee,ying jeong,1869,21
+10129,1890,tong one jung,native born,oceanic,"ricketts, alfred",discharged,fong lin gow,"sacramento, california",1863,,,tong,one jung,fong,lin gow,1863,27
+10130,1890,wong ah ngaow,native born,oceanic,"ricketts, alfred",discharged,wong hong sam,730 sacramento,1875,730,sacramento,wong,ah ngaow,wong,hong sam,1875,15
+10131,1890,sum bud sam,native born,oceanic,"ricketts, alfred",discharged,sum wing chin,1019 dupont,1868,1019,dupont,sum,bud sam,sum,wing chin,1868,22
+10132,1890,dong jim yin,native born,oceanic,"ricketts, alfred",discharged,dong chung hing,"sacramento, california",1878,,,dong,jim yin,dong,chung hing,1878,12
+10133,1890,dong ah sim,native born,oceanic,"ricketts, alfred",discharged,dong ying share,"portland, oregon",1879,,,dong,ah sim,dong,ying share,1879,11
+10134,1890,hong ah buck,native born,oceanic,"ricketts, alfred",remanded,hong yuey wing,751 sacramento,1875,751,sacramento,hong,ah buck,hong,yuey wing,1875,15
+10135,1890,yung fang,native born,oceanic,"ricketts, alfred",discharged,yung din gung,"portland, oregon",1874,,,yung,fang,yung,din gung,1874,16
+10136,1890,yung ten,native born,oceanic,"ricketts, alfred",discharged,yung sin wong,"oroville, california",1870,,,yung,ten,yung,sin wong,1870,20
+10137,1890,chin dung hee,native born,oceanic,"riordan, thomas d",discharged,chin moon yee,704 dupont,1872,704,dupont,chin,dung hee,chin,moon yee,1872,18
+10138,1890,chin yin fook,native born,oceanic,"riordan, thomas d",discharged,chin yip kee,765 clay,1871,765,clay,chin,yin fook,chin,yip kee,1871,19
+10139,1890,jee wing kong,native born,oceanic,"riordan, thomas d",discharged,jee chung yem,821 dupont,1877,821,dupont,jee,wing kong,jee,chung yem,1877,13
+10140,1890,jee goon jing,native born,oceanic,"riordan, thomas d",discharged,gee chung ngow,823 dupont,1872,823,dupont,jee,goon jing,gee,chung ngow,1872,18
+10141,1890,jee pang,native born,oceanic,"riordan, thomas d",discharged,gee kee hee,709 commercial,1877,709,commercial,jee,pang,gee,kee hee,1877,13
+10142,1890,lim lop yuen,native born,oceanic,"van duzer, a p",discharged,dr. sim toan ke,742 sacramento,,742,sacramento,lim,lop yuen,dr.,sim toan ke,,
+10143,1890,jue li chung,native born,oceanic,"schaertzer, henry c.",discharged,jue sing yow,823 dupont,1870,823,dupont,jue,li chung,jue,sing yow,1870,20
+10144,1890,cha sing kwai (female),native born,oceanic,"riordan, thomas d",writ not served,cha gwee,620 dupont,1880,620,dupont,cha,sing kwai (female),cha,gwee,1880,10
+10145,1890,cha tai kim (female),native born,oceanic,"riordan, thomas d",writ not served,cha gwee,620 dupont,1885,620,dupont,cha,tai kim (female),cha,gwee,1885,5
+10152,1890,lee cho,native born,city of rio de janeiro,"blaney, edward w.",remanded,lee hing,721 dupont,1867,721,dupont,lee,cho,lee,hing,1867,23
+10153,1890,lin go ling,native born,city of rio de janeiro,"schaertzer, henry c.",remanded,lin hock dan,714 dupont,1875,714,dupont,lin,go ling,lin,hock dan,1875,15
+10154,1890,wong chung chee,native born,city of rio de janeiro,"schaertzer, henry c.",discharged,wong kun dung,742 washington,1877,742,washington,wong,chung chee,wong,kun dung,1877,13
+10156,1890,chin chung,native born,gaelic,"riordan, thomas d",discharged,jim chuck pong,939 dupont,1863,939,dupont,chin,chung,jim,chuck pong,1863,27
+10157,1890,yee ah hom,native born,gaelic,mcallister,remanded,yee heow choung,741 sacramento,1868,741,sacramento,yee,ah hom,yee,heow choung,1868,22
+10158,1890,yee yen loy,native born,gaelic,"riordan, thomas d",discharged,yee wah,724 commercial,1875,724,commercial,yee,yen loy,yee,wah,1875,15
+10163,1890,fong toy (female),native born,china,"perry, george h",remanded,,712 dupont,1872,712,dupont,fong,toy (female),,,1872,18
+10164,1890,fong gam (female),native born,china,"mowry, lyman",remanded,,712 dupont,1871,712,dupont,fong,gam (female),,,1871,19
+10166,1890,chin ah ngee,native born,china,"riordan, thomas d",discharged,chin gee sun,704 dupont,1871,704,dupont,chin,ah ngee,chin,gee sun,1871,19
+10168,1890,soho one pong,native born,china,"schaertzer, henry c.",discharged,so ho yee gawk,723 sacramento,1869,723,sacramento,soho,one pong,so,ho yee gawk,1869,21
+10169,1890,soho one dun,native born,china,"schaertzer, henry c.",discharged,so ho yee gawk,723 sacramento,about 1869,723,sacramento,soho,one dun,so,ho yee gawk,1869,21
+10170,1890,ng ching lan (female),native born,china,"mowry, lyman",discharged,ng mun quong,751 sacramento,1866,751,sacramento,ng,ching lan (female),ng,mun quong,1866,24
+10171,1890,quan ah doong (female),native born,china,"mowry, lyman",discharged,quan quock chun,640 jackson upstairs,1868,640,jackson upstairs,quan,ah doong (female),quan,quock chun,1868,22
+10172,1890,leong wing fat,native born,china,"riordan, thomas d",discharged,leong ly (dead),"coulterville, mariposa county, california",1872,,,leong,wing fat,leong,ly (dead),1872,18
+10173,1890,leong come,native born,belgic,"ricketts, alfred",discharged,leong sing go,846 washington,1868,846,washington,leong,come,leong,sing go,1868,22
+10175,1890,young choy ling (female),native born,belgic,"riordan, thomas d",discharged,young see chew,"san jose, california",1869,,,young,choy ling (female),young,see chew,1869,21
+10176,1890,lai que (female),native born,belgic,"riordan, thomas d",discharged,lai ngee,617 jackson,1878,617,jackson,lai,que (female),lai,ngee,1878,12
+10177,1890,hom mi woon,native born,belgic,"mowry, lyman",petition and writ dismissed,tom quong moon,730 sacramento,1868,730,sacramento,hom,mi woon,tom,quong moon,1868,22
+10179,1890,wong hen gee,native born,belgic,"riordan, thomas d",remanded,wong ly let,819 dupont,1875,819,dupont,wong,hen gee,wong,ly let,1875,15
+10180,1890,wong su leam,native born,belgic,mcallister & mcallister,remanded,wong yen kee,803 dupont,1876,803,dupont,wong,su leam,wong,yen kee,1876,14
+10181,1890,yee yin fee,native born,belgic,"talcott, h.d.",remanded,ye chung sam,728 jackson,1874,728,jackson,yee,yin fee,ye,chung sam,1874,16
+10182,1890,mo quai lan (female),native born,belgic,"riordan, thomas d",discharged,mo dock hong,"ione, amador county, california",,,,mo,quai lan (female),mo,dock hong,,
+10183,1890,jew wah hin,native born,belgic,"mowry, lyman",remanded,jew git tung,742 dupont,1867,742,dupont,jew,wah hin,jew,git tung,1867,23
+10184,1890,wong ah lee,native born,belgic,"mowry, lyman",discharged,wong hin shew,751 sacramento,1867,751,sacramento,wong,ah lee,wong,hin shew,1867,23
+10185,1890,ung chun fai (female),native born,belgic,"mowry, lyman",discharged,ng ling sing,716 sacramento,1869,716,sacramento,ung,chun fai (female),ng,ling sing,1869,21
+10186,1890,low tong kwai (female),native born,belgic,"mowry, lyman",discharged,lo mun tai,847 dupont,1870,847,dupont,low,tong kwai (female),lo,mun tai,1870,20
+10187,1890,lo ah wo,native born,belgic,"riordan, thomas d",discharged,lo si yee,"san pedro point, marin county, california",1874,,,lo,ah wo,lo,si yee,1874,16
+10192,1891,yee yick ark,native born,city of peking,"riordan, thomas d",discharged,yee jung fook,819 dupont,1869,819,dupont,yee,yick ark,yee,jung fook,1869,22
+10193,1891,soo hoo doc leung,native born,city of peking,"mowry, lyman",petition dead,soo hoo yee mow,723 sacramento,1872,723,sacramento,soo,hoo doc leung,soo,hoo yee mow,1872,19
+10194,1891,lee chut (female),native born,city of peking,"mowry, lyman",discharged,lee goon,723 sacramento,1870,723,sacramento,lee,chut (female),lee,goon,1870,21
+10195,1891,tom gook (female),native born,city of peking,"mowry, lyman",discharged,tom wing,845 dupont,1868,845,dupont,tom,gook (female),tom,wing,1868,23
+10196,1891,lem hing dun,native born,city of peking,"mowry, lyman",remanded appealed to circuit court,lem ack fong,751 sacramento,1870,751,sacramento,lem,hing dun,lem,ack fong,1870,21
+10197,1891,gin heng lee,native born,city of peking,"mowry, lyman",remanded,gin wah kew,727 sacramento,1861,727,sacramento,gin,heng lee,gin,wah kew,1861,30
+10198,1891,jew hoy kee,native born,oceanic,"riordan, thomas d",discharged,jew sang gar,"igo, shasta county, california",1868,,,jew,hoy kee,jew,sang gar,1868,23
+10199,1891,jew sen jung,native born,oceanic,"riordan, thomas d",remanded,jew jin tep,723 sacramento,1869,723,sacramento,jew,sen jung,jew,jin tep,1869,22
+10200,1891,wong ah ngung,native born,oceanic,"ricketts, alfred",discharged,wong hen yok,715 commercial,1864,715,commercial,wong,ah ngung,wong,hen yok,1864,27
+10201,1891,wong ah shew,native born,oceanic,"ricketts, alfred",discharged,wong yuen yen,635 jackson,1875,635,jackson,wong,ah shew,wong,yuen yen,1875,16
+10202,1891,fong ah fock,native born,oceanic,"talcott, h.d.",discharged,fong ah foo,716 dupont,1875,716,dupont,fong,ah fock,fong,ah foo,1875,16
+10203,1891,cha lin,native born,oceanic,"riordan, thomas d",discharged,cha lin wah,813 dupont,1876,813,dupont,cha,lin,cha,lin wah,1876,15
+10204,1891,cha sin,native born,oceanic,"riordan, thomas d",discharged,cha dong yaw,622 jackson,1869,622,jackson,cha,sin,cha,dong yaw,1869,22
+10205,1891,lee mee sin,native born,oceanic,"mowry, lyman",discharged,lee shing,812 dupont,1876,812,dupont,lee,mee sin,lee,shing,1876,15
+10206,1891,lee yow,native born,oceanic,"mowry, lyman",remanded,lee sing ten,712 dupont,1874,712,dupont,lee,yow,lee,sing ten,1874,17
+10207,1891,wong lung yu,native born,oceanic,"mowry, lyman",remanded,you choy,716 dupont,1876,716,dupont,wong,lung yu,you,choy,1876,15
+10208,1891,lum goot (female),native born,oceanic,"riordan, thomas d",discharged,lam won,1009 dupont,1871,1009,dupont,lum,goot (female),lam,won,1871,20
+10209,1891,lum toy (female),native born,oceanic,"mowry, lyman",discharged,lam mon,1009 dupont,1876,1009,dupont,lum,toy (female),lam,mon,1876,15
+10210,1891,woo ah tan,native born,oceanic,"mowry, lyman",discharged,woo bing nam,730 sacramento,1872,730,sacramento,woo,ah tan,woo,bing nam,1872,19
+10215,1891,lee gee sun,native born,city of rio de janeiro,"riordan, thomas d",discharged,lee nooey,657 dupont,1874,657,dupont,lee,gee sun,lee,nooey,1874,17
+10216,1891,low foong oye (female),native born,city of rio de janeiro,"van duzer, a p",discharged,low choong,618 dupont,1870,618,dupont,low,foong oye (female),low,choong,1870,21
+10217,1891,jew shook sem,native born,city of rio de janeiro,"ricketts, alfred",discharged,jow sing poy,722 dupont,1876,722,dupont,jew,shook sem,jow,sing poy,1876,15
+10218,1891,wong lem,native born,city of rio de janeiro,"ricketts, alfred",remanded,wong ngep tong,743 clay,1866,743,clay,wong,lem,wong,ngep tong,1866,25
+10219,1891,yung chun sing,native born,gaelic,"ricketts, alfred",discharged,yung yick suey,635 jackson,,635,jackson,yung,chun sing,yung,yick suey,,
+10220,1891,yung seong,native born,gaelic,"ricketts, alfred",discharged,yung sing jook,716 pacific,,716,pacific,yung,seong,yung,sing jook,,
+10234,1891,admiralty case,,oceanic,"mcallister, jr. , ward",discharged,lee chun joy,730 sacramento,1867,730,sacramento,admiralty,case,lee,chun joy,1867,24
+10240,1891,doo hin sing,native born,gaelic,"mowry, lyman",discharged,doo wing bun,front street,1871,,,doo,hin sing,doo,wing bun,1871,20
+10258,1891,lim on lip,merchant,oceanic,"riordan, thomas d",discharged,,merchant,,,,lim,on lip,,,,
+10272,1891,look ah tow (female),native born,city of rio de janeiro,"schaertzer, henry c.",discharged,look ah wah,919 dupont,1872,919,dupont,look,ah tow (female),look,ah wah,1872,19
+10273,1891,look ah moy (female),native born,city of rio de janeiro,"schaertzer, henry c.",discharged,look ah wah,919 dupont,1868,919,dupont,look,ah moy (female),look,ah wah,1868,23
+10274,1891,john hyer,held by chief of police,,"cook, carroll",discharged,,held by chief of police under warrent of arrest,,,,john,hyer,,,,
+10279,1891,john hyer,held by chief of police,,"cook, carroll",remanded appealed to circuit court,,heldby chief of police under warrant of arrest,,,,john,hyer,,,,
+10289,1892,bow ah gum (female),native born,gaelic,"lande, edward",writ returned non est,bow pong,904 dupont,,904,dupont,bow,ah gum (female),bow,pong,,
+10294,1892,ngen yun lau aka tom yun lau,native born,oceanic,"naphtaly, joseph",discharged,tom he ning,805 dupont,18 years,805,dupont,ngen,yun lau aka tom yun lau,tom,he ning,1874,18
+10303,1892,jew oy (female),native born,belgic,"schaertzer, henry c.",discharged,,823 dupont,19 years,823,dupont,jew,oy (female),,,1873,19
+10304,1892,mack chow,resident merchant,belgic,"schaertzer, henry c.",writ returned non est,,resident merchant,,,,mack,chow,,,,
+10305,1892,hom dock,native born,belgic,"schaertzer, henry c.",remanded,hom tow,712 dupont,,712,dupont,hom,dock,hom,tow,,
+10306,1892,mock him jew,resident merchant,belgic,"schaertzer, henry c.",discharged,,resident merchant,,,,mock,him jew,,,,
+10307,1892,ho hon,resident merchant,belgic,"schaertzer, henry c.",discharged,,,,,,ho,hon,,,,
+10308,1892,jeong gwong ping,resident merchant,belgic,"schaertzer, henry c.",discharged,,,,,,jeong,gwong ping,,,,
+10309,1892,yee soon,resident merchant,belgic,"schaertzer, henry c.",discharged,,,,,,yee,soon,,,,
+10310,1892,lee sic,resident merchant,belgic,"schaertzer, henry c.",discharged,,,,,,lee,sic,,,,
+10311,1892,wong yen,resident merchant,belgic,"schaertzer, henry c.",discharged,,,,,,wong,yen,,,,
+10312,1892,mortimer fox,held by chief of police,,"cook, carroll",remanded,,held by chief of police under warrent of arrest,,,,mortimer,fox,,,,
+10318,1892,doo dai hoy (female),wife of resident merchant,oceanic,"schlesinger, bert",discharged,,wife of resident merchant,,,,doo,dai hoy (female),,,,
+10319,1892,choy leau hoy,,oceanic,"schlesinger, bert",discharged,,,,,,choy,leau hoy,,,,
+10320,1892,sum moy (female),native born,oceanic,"schlesinger, bert",discharged,sun key jung,810 dupont,10 years,810,dupont,sum,moy (female),sun,key jung,1882,10
+10321,1892,lee ah gin (female),native born,oceanic,"schlesinger, bert",discharged,,745 sacramento,21 years,745,sacramento,lee,ah gin (female),,,1871,21
